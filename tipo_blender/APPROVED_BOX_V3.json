@@ -1,0 +1,25 @@
+{
+  "approved_box_version": "v3",
+  "approved_box_commit": "95f1f63",
+  "instruction": "Коробка утверждена пользователем. Не менять её геометрию, UV, материалы и текстуры при добавлении карт.",
+  "files": {
+    "tipo_empty_svg_v3.blend": "2a44bc2d8f0fcb246afdccb2ca79832687f568d1a06aa926d0bea04360b4cef8",
+    "tipo_box_v3.py": "b5c1774b51bfed78cd7de8832cdebc0950d43a9aceec27522f271c814a9add2c",
+    "source/box_without_logo.svg": "d62a3146aa94a057a6f781149093e6db236f7c7742f53ea677440fa6397d9e4d"
+  },
+  "requested_deck": {
+    "playing_cards": 60,
+    "yellow": 15,
+    "green": 15,
+    "blue": 15,
+    "pink": 15,
+    "rules_cards": 1,
+    "total": 61,
+    "top_card_back": "pink",
+    "card_size_mm": [
+      65,
+      65
+    ]
+  },
+  "artwork_status": "Оригиналы новых PNG видны в чате, но байтовые файлы в рабочую среду не поступили. Для точного текстурирования нужен ZIP."
+}
