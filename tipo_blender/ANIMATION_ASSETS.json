@@ -1,0 +1,59 @@
+{
+  "purpose": "Утверждённые исходные варианты для дальнейшей анимации игры ТИПО.",
+  "instructions": [
+    "Пользователь утвердил обе версии. Сохранять исходные файлы без изменений.",
+    "Вариант 2 — коробка с картами v4, предназначенная для дальнейшей анимации.",
+    "Создавать отдельные файлы анимационных сцен на основе этих вариантов; не перезаписывать утверждённые исходники.",
+    "Не перестраивать и не менять геометрию, UV, рисунки, цвета или расположение карт без нового указания пользователя."
+  ],
+  "assets": [
+    {
+      "id": "box_01_empty",
+      "label": "Коробка 1 — пустая",
+      "version": "v3",
+      "file": "tipo_empty_svg_v3.blend",
+      "sha256": "2a44bc2d8f0fcb246afdccb2ca79832687f568d1a06aa926d0bea04360b4cef8",
+      "scenes": [
+        "TIPO_Empty_SVG",
+        "TIPO_Верх_стоя"
+      ],
+      "cards": 0,
+      "approved_commit": "95f1f63",
+      "status": "approved_for_animation",
+      "box_dimensions_mm": [
+        67,
+        67,
+        27
+      ],
+      "raw_url": "https://raw.githubusercontent.com/sofiakovalenskaya/masha_sandbox/masha_sandbox/tipo_blender/tipo_empty_svg_v3.blend"
+    },
+    {
+      "id": "box_02_with_cards",
+      "label": "Коробка 2 — с картами",
+      "version": "v4",
+      "file": "tipo_box_61_cards_v4.blend",
+      "sha256": "c8573e543203062b589489c2d720c0c994a39e1a297b1f2bbccea90d4a75b5f0",
+      "scenes": [
+        "TIPO_61_CARDS_v4",
+        "TIPO_61_CARDS_СТОЯ_v4"
+      ],
+      "cards": 61,
+      "card_backs": {
+        "yellow": 15,
+        "green": 15,
+        "blue": 15,
+        "pink": 15,
+        "black_rules": 1
+      },
+      "top_card": "pink, complete, positioned behind box window",
+      "approved_commit": "104f2b9",
+      "status": "approved_for_animation",
+      "box_dimensions_mm": [
+        67,
+        67,
+        27
+      ],
+      "raw_url": "https://raw.githubusercontent.com/sofiakovalenskaya/masha_sandbox/masha_sandbox/tipo_blender/tipo_box_61_cards_v4.blend"
+    }
+  ]
+}
