@@ -1,0 +1,298 @@
+{
+  "approved_box_sha256": "2a44bc2d8f0fcb246afdccb2ca79832687f568d1a06aa926d0bea04360b4cef8",
+  "artwork": {
+    "blue": {
+      "archive_name": "artwork/blue.png",
+      "original_name": "синяя карта.png",
+      "sha256": "debede79c518544e99a779a07f784f689efd6c510d67d0bc43ccb48c51675be2"
+    },
+    "face_49": {
+      "archive_name": "artwork/face_49.png",
+      "original_name": "ТИПО! 49 — Д.png",
+      "sha256": "b19c2306b5ce0bfe99594f024fa966dd90a589af81f1004c5291ce57f55ed3b8"
+    },
+    "face_50": {
+      "archive_name": "artwork/face_50.png",
+      "original_name": "ТИПО! 50 — А.png",
+      "sha256": "efbf92235b60283179fe810633ee2afa75a80d724d830f0904769158e37f32db"
+    },
+    "face_51": {
+      "archive_name": "artwork/face_51.png",
+      "original_name": "ТИПО! 51 — Ж.png",
+      "sha256": "5640d9dcc316f4e353ff62163eccc89414dbc54185fa4cc7b952dc18a7fc119f"
+    },
+    "face_52": {
+      "archive_name": "artwork/face_52.png",
+      "original_name": "ТИПО! 52 — Ж.png",
+      "sha256": "38502f833100a51aaaccd97813832cb425001ef226c82212dcb54e034075e67a"
+    },
+    "face_53": {
+      "archive_name": "artwork/face_53.png",
+      "original_name": "ТИПО! 53 — Е.png",
+      "sha256": "65de760f19c686b3ac63491a94615976d94611afd9b83938f390f937b25c093f"
+    },
+    "face_54": {
+      "archive_name": "artwork/face_54.png",
+      "original_name": "ТИПО! 54 — Г.png",
+      "sha256": "264863a8efbb8413001bf29ed795df88e9fe30bcdd77254ec09550b504f8b5c8"
+    },
+    "face_55": {
+      "archive_name": "artwork/face_55.png",
+      "original_name": "ТИПО! 55 — А.png",
+      "sha256": "a09698f4179cc08b38acd770a620b48836aab83bb07c3584b7ded2e863656174"
+    },
+    "face_56": {
+      "archive_name": "artwork/face_56.png",
+      "original_name": "ТИПО! 56 — А.png",
+      "sha256": "d4782f8bd0c1e69b98253523474d84e38b9c29f8fa5ba469097783124ef7fd05"
+    },
+    "face_57": {
+      "archive_name": "artwork/face_57.png",
+      "original_name": "ТИПО! 57 — Б.png",
+      "sha256": "285620935a8f12623f0714c1ccb0aae19d87be243d721277bdc4fc5c418bd602"
+    },
+    "face_58": {
+      "archive_name": "artwork/face_58.png",
+      "original_name": "ТИПО! 58 — Д.png",
+      "sha256": "0e670cc881ee16f7b2cc8a0f50dd7befcf4fb0445902b934c013bd550dc5be50"
+    },
+    "face_59": {
+      "archive_name": "artwork/face_59.png",
+      "original_name": "ТИПО! 59 — Ж.png",
+      "sha256": "79d29c15d6502500ecbda710664be61c167ba64f4d7c7c552e332f018638c89b"
+    },
+    "face_60": {
+      "archive_name": "artwork/face_60.png",
+      "original_name": "ТИПО! 60 — А.png",
+      "sha256": "e6471625121e6bd239764eff36602bb808035a2f250cc316f1f4b865cca8d652"
+    },
+    "face_61": {
+      "archive_name": "artwork/face_61.png",
+      "original_name": "ТИПО! 61 — В.png",
+      "sha256": "ccaff0d4d21714b7d3cccb1d07e0afc8365e4dcbe87349794473cc1d5d87eeaa"
+    },
+    "face_62": {
+      "archive_name": "artwork/face_62.png",
+      "original_name": "ТИПО! 62 — Б.png",
+      "sha256": "4fe60ee513d3b5048ebd2452b81f7ddeec0c2bc98f40fa13258bd012f7606707"
+    },
+    "face_63": {
+      "archive_name": "artwork/face_63.png",
+      "original_name": "ТИПО! 63 — А.png",
+      "sha256": "8f7d029914725d77aa48eedd5d1a1357cfa7b4c4cb77233a985af3f017174aeb"
+    },
+    "face_64": {
+      "archive_name": "artwork/face_64.png",
+      "original_name": "ТИПО! 64 — Г.png",
+      "sha256": "f8ea8e01db9a1b05271fc2ada38cc2a9d93ad321cd0ce64b8a4d22288963fc1d"
+    },
+    "face_65": {
+      "archive_name": "artwork/face_65.png",
+      "original_name": "ТИПО! 65 — А.png",
+      "sha256": "fe5e699e2553a45aaf66713e65adc79f54b35ef435ceca4add0dec5faee835e7"
+    },
+    "face_66": {
+      "archive_name": "artwork/face_66.png",
+      "original_name": "ТИПО! 66 — Е.png",
+      "sha256": "7f6aa791808d7514c3e9715a33ee452172819f517a06e51be44426ad605719c8"
+    },
+    "face_67": {
+      "archive_name": "artwork/face_67.png",
+      "original_name": "ТИПО! 67 — Ж.png",
+      "sha256": "765434fffae9c34e9a9dab0ee09afe266eed91b03fbd81e35804870083f529e6"
+    },
+    "face_68": {
+      "archive_name": "artwork/face_68.png",
+      "original_name": "ТИПО! 68 — Б.png",
+      "sha256": "0ab4836cebe91411b621c5b8fcbe3258bce1ccd1b0add0400003ca30e769e025"
+    },
+    "face_69": {
+      "archive_name": "artwork/face_69.png",
+      "original_name": "ТИПО! 69 — Ж.png",
+      "sha256": "23381e96c55de2e33ab08989d49e223b4c66fc18e67d862dc6d93c7e5422e5f1"
+    },
+    "face_70": {
+      "archive_name": "artwork/face_70.png",
+      "original_name": "ТИПО! 70 — Ж.png",
+      "sha256": "e34923a680e8137adb8057bef681bcd8f5b0b4c0c735cad3a3b9bd7262d7dd4a"
+    },
+    "face_71": {
+      "archive_name": "artwork/face_71.png",
+      "original_name": "ТИПО! 71 — В.png",
+      "sha256": "160015b5e591580c05e69e6c69773860ddc0a9de4ab62d88d1f447042c109337"
+    },
+    "face_72": {
+      "archive_name": "artwork/face_72.png",
+      "original_name": "ТИПО! 72 — Д.png",
+      "sha256": "b2d13c1cd6aa78a5d469d14e26c78a09bc97c5f4d8aceadd1d5fbee8d8af388a"
+    },
+    "face_73": {
+      "archive_name": "artwork/face_73.png",
+      "original_name": "ТИПО! 73 — Е.png",
+      "sha256": "25cac0ea14ae5195d4839b54d743903b0cbd15d19118267e4e855594d429dd4e"
+    },
+    "face_74": {
+      "archive_name": "artwork/face_74.png",
+      "original_name": "ТИПО! 74 — Д.png",
+      "sha256": "b337dd18d341db1abbf10621e187f67af6df82fbf352e6d6d142214402cf53db"
+    },
+    "face_75": {
+      "archive_name": "artwork/face_75.png",
+      "original_name": "ТИПО! 75 — Е.png",
+      "sha256": "4f8fee976f59ef20b53b888140514058d81176dcb8bd535eee1bf872189644c4"
+    },
+    "face_76": {
+      "archive_name": "artwork/face_76.png",
+      "original_name": "ТИПО! 76 — Г.png",
+      "sha256": "edf23946851aa629a85b27593f2bfd6ee17be21147db13d2b0b2be2b775edbed"
+    },
+    "face_77": {
+      "archive_name": "artwork/face_77.png",
+      "original_name": "ТИПО! 77 — Ж.png",
+      "sha256": "344f09fbca392d5104d81ed43dc6af436b0fd4c60088f385ee12184f8e849b69"
+    },
+    "face_78": {
+      "archive_name": "artwork/face_78.png",
+      "original_name": "ТИПО! 78 — Г.png",
+      "sha256": "2ecb5673f4775f6e4f54e528d06c1de7b1301f9986eabc52b5af4957413144c1"
+    },
+    "face_79": {
+      "archive_name": "artwork/face_79.png",
+      "original_name": "ТИПО! 79 — В.png",
+      "sha256": "1d9144ace63f0a29dc462b14907a49bcac09e54e88c34aae90ff8b3c31c43026"
+    },
+    "face_80": {
+      "archive_name": "artwork/face_80.png",
+      "original_name": "ТИПО! 80 — В.png",
+      "sha256": "404169696826b4c47b965008a585993e02658a695214f8dc3fc2d67cd8539028"
+    },
+    "face_81": {
+      "archive_name": "artwork/face_81.png",
+      "original_name": "ТИПО! 81 — А.png",
+      "sha256": "4fb259d3d47dcdb389523c6db8fbe0c682d09d3c5639301a2e2335938bfa28f0"
+    },
+    "face_82": {
+      "archive_name": "artwork/face_82.png",
+      "original_name": "ТИПО! 82 — Г.png",
+      "sha256": "db2405b1f60dc0fba12ca17c414f6dfbf6e64ab362e9ccbe5150c98be8937992"
+    },
+    "face_83": {
+      "archive_name": "artwork/face_83.png",
+      "original_name": "ТИПО! 83 — Ж.png",
+      "sha256": "cd460d6a47d602ffe783232825f097ae745ef69c4db723b631a5d73cd3f0b06c"
+    },
+    "face_84": {
+      "archive_name": "artwork/face_84.png",
+      "original_name": "ТИПО! 84 — Е.png",
+      "sha256": "6472a083f8f267a96f54d1de9a6e425afefe548bcd108fa85b90c20a3aa10e1e"
+    },
+    "face_85": {
+      "archive_name": "artwork/face_85.png",
+      "original_name": "ТИПО! 85 — Е.png",
+      "sha256": "c3efda0fd9bc45a8723e127f371c250caf05b57d7e1143192fe19bbc2b6d8ecc"
+    },
+    "face_86": {
+      "archive_name": "artwork/face_86.png",
+      "original_name": "ТИПО! 86 — А.png",
+      "sha256": "f61b3f8712629327a82a2042bacb2f9846bb804c3ccd06df4ba388d277fd73fd"
+    },
+    "face_87": {
+      "archive_name": "artwork/face_87.png",
+      "original_name": "ТИПО! 87 — А.png",
+      "sha256": "c498fe97d13bf8c50686db2304296440fb7516076ef995ce6e680e05621a28c2"
+    },
+    "face_88": {
+      "archive_name": "artwork/face_88.png",
+      "original_name": "ТИПО! 88 — Ж.png",
+      "sha256": "f7a017d6032e56f58f30cb3ac16b95e14a001b07b412c6afa407ee0860248c2d"
+    },
+    "face_89": {
+      "archive_name": "artwork/face_89.png",
+      "original_name": "ТИПО! 89 — Д.png",
+      "sha256": "3b3cbc0a836ec65a118fc2c44aa79db275c6c2a63c7dda6481b3b3f8de6d4f9d"
+    },
+    "face_90": {
+      "archive_name": "artwork/face_90.png",
+      "original_name": "ТИПО! 90 — Б.png",
+      "sha256": "084ceeea5bc65d9983fc77d01cd9856dbbd2d9450e0ffb57f32e265d3e992bed"
+    },
+    "face_91": {
+      "archive_name": "artwork/face_91.png",
+      "original_name": "ТИПО! 91 — Д.png",
+      "sha256": "90a4a5782acfc424c634a4af7b63d2985c233b766dc543e9162a04a44602c97f"
+    },
+    "face_92": {
+      "archive_name": "artwork/face_92.png",
+      "original_name": "ТИПО! 92 — В.png",
+      "sha256": "e4b55d8cecc0e83ca13b017030d24431da054303938acafe38ecc3e28a1ec7d5"
+    },
+    "face_93": {
+      "archive_name": "artwork/face_93.png",
+      "original_name": "ТИПО! 93 — В.png",
+      "sha256": "4583a73bf30fb31ccf2104fd2dfd1bfe6c9420566b05c620bf8abc5ddd9f98c3"
+    },
+    "face_94": {
+      "archive_name": "artwork/face_94.png",
+      "original_name": "ТИПО! 94 — А.png",
+      "sha256": "0da23da6c61a544dfef9cd1e66e59417b0cee4834e8a7e5ceef233db6b2bf295"
+    },
+    "face_95": {
+      "archive_name": "artwork/face_95.png",
+      "original_name": "ТИПО! 95 — Д.png",
+      "sha256": "64532138e8571e23d3d7df9b95995bdfe6c230d6050166db0c15fc3e3e988e3b"
+    },
+    "face_96": {
+      "archive_name": "artwork/face_96.png",
+      "original_name": "ТИПО! 96 — Ж.png",
+      "sha256": "c8420cbce8e13c17c91432749b7c1ce7487c19439a88f6aaf388241715dffe34"
+    },
+    "green": {
+      "archive_name": "artwork/green.png",
+      "original_name": "зеленая карта.png",
+      "sha256": "ef7644b34b80b5c2e90aceb029fcec62ca9da4e3cd4978ee536194e5bf603f12"
+    },
+    "logo_outline": {
+      "archive_name": "artwork/logo_outline.png",
+      "original_name": "логотип обводка.png",
+      "sha256": "9fedaf003753529f9f07fefdb8278925a7a6779ca150dac7fb402d79645253de"
+    },
+    "logo_plain": {
+      "archive_name": "artwork/logo_plain.png",
+      "original_name": "логотип без обводки.png",
+      "sha256": "bac70c367a1647cfbbb10d4db107be6fd5db405b2f33c2eed7a363c1c889acc6"
+    },
+    "pink": {
+      "archive_name": "artwork/pink.png",
+      "original_name": "розовая карта.png",
+      "sha256": "04d4e97da47d8d9c1b0b8bcce7d702438f5541dff242cede3832bdd05da86c84"
+    },
+    "reference": {
+      "archive_name": "artwork/reference.png",
+      "original_name": "карта в коробке.png",
+      "sha256": "62dddbf27a7e5654c0b34274abd455ac2d5cc78ca98bacc111862dcb3f357273"
+    },
+    "rules_back": {
+      "archive_name": "artwork/rules_back.png",
+      "original_name": "карта правил рубашка.png",
+      "sha256": "12ff4a2a3eeb1feb462cddc8f482acdcfadcb3ef6f39ba2e999474e709398325"
+    },
+    "rules_front": {
+      "archive_name": "artwork/rules_front.png",
+      "original_name": "карта правил лицо.png",
+      "sha256": "2d6d32be99e06360cc9d92365b85f494dcb4cd9364fcd21fdc74e70203985d8d"
+    },
+    "yellow": {
+      "archive_name": "artwork/yellow.png",
+      "original_name": "желтая карта.png",
+      "sha256": "de8ec1b1f5cdc84716ea0f5cb4da3364fa43c70a67af8a0f08ec5d1c5741d70d"
+    }
+  },
+  "counts": {
+    "yellow": 15,
+    "green": 15,
+    "blue": 15,
+    "pink": 15,
+    "rules": 1
+  },
+  "reference_top_shift_y_mm": 0.214
+}
