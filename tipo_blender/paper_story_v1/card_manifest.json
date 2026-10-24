@@ -1,0 +1,490 @@
+[
+  {
+    "index": 0,
+    "face": "rules_front",
+    "back": "rules_back",
+    "hero": null,
+    "release": 7.65,
+    "land": 12.5257832305162
+  },
+  {
+    "index": 1,
+    "face": "face_49",
+    "back": "yellow",
+    "hero": null,
+    "release": 7.615,
+    "land": 11.500291857575556
+  },
+  {
+    "index": 2,
+    "face": "face_50",
+    "back": "green",
+    "hero": null,
+    "release": 7.58,
+    "land": 11.17073568008745
+  },
+  {
+    "index": 3,
+    "face": "face_51",
+    "back": "blue",
+    "hero": "H1",
+    "release": 7.545,
+    "land": 10.1
+  },
+  {
+    "index": 4,
+    "face": "face_52",
+    "back": "pink",
+    "hero": "H8",
+    "release": 7.51,
+    "land": 12.41
+  },
+  {
+    "index": 5,
+    "face": "face_53",
+    "back": "yellow",
+    "hero": null,
+    "release": 7.475,
+    "land": 11.392358287299052
+  },
+  {
+    "index": 6,
+    "face": "face_54",
+    "back": "green",
+    "hero": null,
+    "release": 7.4399999999999995,
+    "land": 12.791789424089659
+  },
+  {
+    "index": 7,
+    "face": "face_55",
+    "back": "blue",
+    "hero": null,
+    "release": 7.405,
+    "land": 12.46039316337361
+  },
+  {
+    "index": 8,
+    "face": "face_56",
+    "back": "pink",
+    "hero": null,
+    "release": 7.37,
+    "land": 12.068992555413743
+  },
+  {
+    "index": 9,
+    "face": "face_57",
+    "back": "yellow",
+    "hero": null,
+    "release": 7.335,
+    "land": 12.579098408249887
+  },
+  {
+    "index": 10,
+    "face": "face_58",
+    "back": "green",
+    "hero": null,
+    "release": 7.3,
+    "land": 13.545808569780151
+  },
+  {
+    "index": 11,
+    "face": "face_59",
+    "back": "blue",
+    "hero": null,
+    "release": 7.265,
+    "land": 10.592553878805033
+  },
+  {
+    "index": 12,
+    "face": "face_60",
+    "back": "pink",
+    "hero": null,
+    "release": 7.23,
+    "land": 12.839288994824182
+  },
+  {
+    "index": 13,
+    "face": "face_61",
+    "back": "yellow",
+    "hero": null,
+    "release": 7.195,
+    "land": 11.211640940909216
+  },
+  {
+    "index": 14,
+    "face": "face_62",
+    "back": "green",
+    "hero": null,
+    "release": 7.16,
+    "land": 12.895272550740275
+  },
+  {
+    "index": 15,
+    "face": "face_63",
+    "back": "blue",
+    "hero": null,
+    "release": 7.125,
+    "land": 11.760145467441056
+  },
+  {
+    "index": 16,
+    "face": "face_64",
+    "back": "pink",
+    "hero": null,
+    "release": 7.09,
+    "land": 13.261106967498149
+  },
+  {
+    "index": 17,
+    "face": "face_65",
+    "back": "yellow",
+    "hero": null,
+    "release": 7.055,
+    "land": 11.29210734880947
+  },
+  {
+    "index": 18,
+    "face": "face_66",
+    "back": "green",
+    "hero": "V1",
+    "release": 7.02,
+    "land": 11.4
+  },
+  {
+    "index": 19,
+    "face": "face_67",
+    "back": "blue",
+    "hero": "V3",
+    "release": 6.984999999999999,
+    "land": 12.0
+  },
+  {
+    "index": 20,
+    "face": "face_68",
+    "back": "pink",
+    "hero": null,
+    "release": 6.95,
+    "land": 10.308295261991258
+  },
+  {
+    "index": 21,
+    "face": "face_69",
+    "back": "yellow",
+    "hero": "V2",
+    "release": 6.915,
+    "land": 11.7
+  },
+  {
+    "index": 22,
+    "face": "face_70",
+    "back": "green",
+    "hero": "H6",
+    "release": 6.88,
+    "land": 11.75
+  },
+  {
+    "index": 23,
+    "face": "face_71",
+    "back": "blue",
+    "hero": null,
+    "release": 6.845,
+    "land": 13.120143445337046
+  },
+  {
+    "index": 24,
+    "face": "face_72",
+    "back": "pink",
+    "hero": null,
+    "release": 6.8100000000000005,
+    "land": 13.16951690693161
+  },
+  {
+    "index": 25,
+    "face": "face_73",
+    "back": "yellow",
+    "hero": null,
+    "release": 6.775,
+    "land": 10.665522222137168
+  },
+  {
+    "index": 26,
+    "face": "face_74",
+    "back": "green",
+    "hero": null,
+    "release": 6.74,
+    "land": 13.266243383843577
+  },
+  {
+    "index": 27,
+    "face": "face_75",
+    "back": "blue",
+    "hero": "V6",
+    "release": 6.705,
+    "land": 12.6
+  },
+  {
+    "index": 28,
+    "face": "face_76",
+    "back": "pink",
+    "hero": "V4",
+    "release": 6.67,
+    "land": 12.3
+  },
+  {
+    "index": 29,
+    "face": "face_77",
+    "back": "yellow",
+    "hero": null,
+    "release": 6.635,
+    "land": 10.971102160494183
+  },
+  {
+    "index": 30,
+    "face": "face_78",
+    "back": "green",
+    "hero": "H2",
+    "release": 6.6,
+    "land": 10.43
+  },
+  {
+    "index": 31,
+    "face": "face_79",
+    "back": "blue",
+    "hero": null,
+    "release": 6.5649999999999995,
+    "land": 11.914919630652445
+  },
+  {
+    "index": 32,
+    "face": "face_80",
+    "back": "pink",
+    "hero": null,
+    "release": 6.53,
+    "land": 11.114998736118736
+  },
+  {
+    "index": 33,
+    "face": "face_81",
+    "back": "yellow",
+    "hero": null,
+    "release": 6.495,
+    "land": 12.870973944800173
+  },
+  {
+    "index": 34,
+    "face": "face_82",
+    "back": "green",
+    "hero": null,
+    "release": 6.46,
+    "land": 12.198739015064586
+  },
+  {
+    "index": 35,
+    "face": "face_83",
+    "back": "blue",
+    "hero": null,
+    "release": 6.425,
+    "land": 12.151402829737318
+  },
+  {
+    "index": 36,
+    "face": "face_84",
+    "back": "pink",
+    "hero": null,
+    "release": 6.39,
+    "land": 11.775957561883624
+  },
+  {
+    "index": 37,
+    "face": "face_85",
+    "back": "yellow",
+    "hero": null,
+    "release": 6.3549999999999995,
+    "land": 13.768651555865858
+  },
+  {
+    "index": 38,
+    "face": "face_86",
+    "back": "green",
+    "hero": null,
+    "release": 6.32,
+    "land": 13.483867818013433
+  },
+  {
+    "index": 39,
+    "face": "face_87",
+    "back": "blue",
+    "hero": "V7",
+    "release": 6.285,
+    "land": 12.8
+  },
+  {
+    "index": 40,
+    "face": "face_88",
+    "back": "pink",
+    "hero": null,
+    "release": 6.25,
+    "land": 12.001413028646416
+  },
+  {
+    "index": 41,
+    "face": "face_89",
+    "back": "yellow",
+    "hero": null,
+    "release": 6.215,
+    "land": 13.265740482639702
+  },
+  {
+    "index": 42,
+    "face": "face_90",
+    "back": "green",
+    "hero": null,
+    "release": 6.18,
+    "land": 13.256803849988033
+  },
+  {
+    "index": 43,
+    "face": "face_91",
+    "back": "blue",
+    "hero": null,
+    "release": 6.145,
+    "land": 11.167631098050295
+  },
+  {
+    "index": 44,
+    "face": "face_92",
+    "back": "pink",
+    "hero": null,
+    "release": 6.109999999999999,
+    "land": 10.33171857941743
+  },
+  {
+    "index": 45,
+    "face": "face_93",
+    "back": "yellow",
+    "hero": null,
+    "release": 6.075,
+    "land": 11.224605697400122
+  },
+  {
+    "index": 46,
+    "face": "face_94",
+    "back": "green",
+    "hero": null,
+    "release": 6.04,
+    "land": 11.157076944906432
+  },
+  {
+    "index": 47,
+    "face": "face_95",
+    "back": "blue",
+    "hero": "H5",
+    "release": 6.005,
+    "land": 11.42
+  },
+  {
+    "index": 48,
+    "face": "face_96",
+    "back": "pink",
+    "hero": null,
+    "release": 5.97,
+    "land": 13.669772093340601
+  },
+  {
+    "index": 49,
+    "face": "ref_H3",
+    "back": "yellow",
+    "hero": "H3",
+    "release": 5.935,
+    "land": 10.76
+  },
+  {
+    "index": 50,
+    "face": "ref_H4",
+    "back": "green",
+    "hero": "H4",
+    "release": 5.8999999999999995,
+    "land": 11.09
+  },
+  {
+    "index": 51,
+    "face": "ref_H7",
+    "back": "blue",
+    "hero": "H7",
+    "release": 5.865,
+    "land": 12.08
+  },
+  {
+    "index": 52,
+    "face": "face_52",
+    "back": "pink",
+    "hero": null,
+    "release": 5.83,
+    "land": 10.6479734913912
+  },
+  {
+    "index": 53,
+    "face": "face_53",
+    "back": "yellow",
+    "hero": null,
+    "release": 5.795,
+    "land": 10.968482694050328
+  },
+  {
+    "index": 54,
+    "face": "face_54",
+    "back": "green",
+    "hero": null,
+    "release": 5.76,
+    "land": 13.48478947290667
+  },
+  {
+    "index": 55,
+    "face": "face_55",
+    "back": "blue",
+    "hero": null,
+    "release": 5.725,
+    "land": 10.706570610005693
+  },
+  {
+    "index": 56,
+    "face": "face_56",
+    "back": "pink",
+    "hero": null,
+    "release": 5.6899999999999995,
+    "land": 13.252656941806036
+  },
+  {
+    "index": 57,
+    "face": "face_57",
+    "back": "yellow",
+    "hero": null,
+    "release": 5.655,
+    "land": 11.43982980908344
+  },
+  {
+    "index": 58,
+    "face": "face_58",
+    "back": "green",
+    "hero": null,
+    "release": 5.62,
+    "land": 11.325337492025769
+  },
+  {
+    "index": 59,
+    "face": "face_59",
+    "back": "blue",
+    "hero": null,
+    "release": 5.585,
+    "land": 11.898390324068947
+  },
+  {
+    "index": 60,
+    "face": "face_60",
+    "back": "pink",
+    "hero": null,
+    "release": 5.55,
+    "land": 11.48204516122527
+  }
+]
