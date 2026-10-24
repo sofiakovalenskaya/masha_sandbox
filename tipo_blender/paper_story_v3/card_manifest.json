@@ -1,0 +1,490 @@
+[
+  {
+    "index": 0,
+    "face": "rules_front",
+    "back": "rules_back",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 1,
+    "face": "face_49",
+    "back": "yellow",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 2,
+    "face": "face_50",
+    "back": "green",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 3,
+    "face": "face_51",
+    "back": "blue",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 4,
+    "face": "face_52",
+    "back": "pink",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 5,
+    "face": "face_53",
+    "back": "yellow",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 6,
+    "face": "face_54",
+    "back": "green",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 7,
+    "face": "face_55",
+    "back": "blue",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 8,
+    "face": "face_56",
+    "back": "pink",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 9,
+    "face": "face_57",
+    "back": "yellow",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 10,
+    "face": "face_58",
+    "back": "green",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 11,
+    "face": "face_59",
+    "back": "blue",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 12,
+    "face": "face_60",
+    "back": "pink",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 13,
+    "face": "face_61",
+    "back": "yellow",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 14,
+    "face": "face_62",
+    "back": "green",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 15,
+    "face": "face_63",
+    "back": "blue",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 16,
+    "face": "face_64",
+    "back": "pink",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 17,
+    "face": "face_65",
+    "back": "yellow",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 18,
+    "face": "face_66",
+    "back": "green",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 19,
+    "face": "face_67",
+    "back": "blue",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 20,
+    "face": "face_68",
+    "back": "pink",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 21,
+    "face": "face_69",
+    "back": "yellow",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 22,
+    "face": "face_70",
+    "back": "green",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 23,
+    "face": "face_71",
+    "back": "blue",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 24,
+    "face": "face_72",
+    "back": "pink",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 25,
+    "face": "face_73",
+    "back": "yellow",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 26,
+    "face": "face_74",
+    "back": "green",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 27,
+    "face": "face_75",
+    "back": "blue",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 28,
+    "face": "face_76",
+    "back": "pink",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 29,
+    "face": "face_77",
+    "back": "yellow",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 30,
+    "face": "face_78",
+    "back": "green",
+    "hero": null,
+    "release": 1000000.0,
+    "land": 9.6
+  },
+  {
+    "index": 31,
+    "face": "face_79",
+    "back": "blue",
+    "hero": null,
+    "release": 11.02,
+    "land": 15.702500178813935
+  },
+  {
+    "index": 32,
+    "face": "face_80",
+    "back": "pink",
+    "hero": null,
+    "release": 10.84,
+    "land": 15.522500178813935
+  },
+  {
+    "index": 33,
+    "face": "face_81",
+    "back": "yellow",
+    "hero": null,
+    "release": 10.66,
+    "land": 15.342500178813935
+  },
+  {
+    "index": 34,
+    "face": "face_87",
+    "back": "green",
+    "hero": "V7",
+    "release": 10.48,
+    "land": 15.162500178813936
+  },
+  {
+    "index": 35,
+    "face": "face_83",
+    "back": "blue",
+    "hero": null,
+    "release": 10.3,
+    "land": 14.982500178813936
+  },
+  {
+    "index": 36,
+    "face": "face_84",
+    "back": "pink",
+    "hero": null,
+    "release": 10.120000000000001,
+    "land": 14.802500178813936
+  },
+  {
+    "index": 37,
+    "face": "face_75",
+    "back": "yellow",
+    "hero": "V6",
+    "release": 9.94,
+    "land": 14.622500178813933
+  },
+  {
+    "index": 38,
+    "face": "face_86",
+    "back": "green",
+    "hero": null,
+    "release": 9.76,
+    "land": 14.442500178813933
+  },
+  {
+    "index": 39,
+    "face": "face_87",
+    "back": "blue",
+    "hero": null,
+    "release": 9.58,
+    "land": 14.262500178813934
+  },
+  {
+    "index": 40,
+    "face": "face_76",
+    "back": "pink",
+    "hero": "V4",
+    "release": 9.399999999999999,
+    "land": 14.082500178813934
+  },
+  {
+    "index": 41,
+    "face": "face_89",
+    "back": "yellow",
+    "hero": null,
+    "release": 9.219999999999999,
+    "land": 13.902500178813934
+  },
+  {
+    "index": 42,
+    "face": "face_90",
+    "back": "green",
+    "hero": null,
+    "release": 9.04,
+    "land": 13.722500178813934
+  },
+  {
+    "index": 43,
+    "face": "face_67",
+    "back": "blue",
+    "hero": "V3",
+    "release": 8.86,
+    "land": 13.542500178813935
+  },
+  {
+    "index": 44,
+    "face": "face_92",
+    "back": "pink",
+    "hero": null,
+    "release": 8.68,
+    "land": 13.362500178813935
+  },
+  {
+    "index": 45,
+    "face": "face_93",
+    "back": "yellow",
+    "hero": null,
+    "release": 8.5,
+    "land": 13.182500178813935
+  },
+  {
+    "index": 46,
+    "face": "face_69",
+    "back": "green",
+    "hero": "V2",
+    "release": 8.32,
+    "land": 13.002500178813936
+  },
+  {
+    "index": 47,
+    "face": "face_95",
+    "back": "blue",
+    "hero": null,
+    "release": 8.14,
+    "land": 12.822500178813936
+  },
+  {
+    "index": 48,
+    "face": "face_96",
+    "back": "pink",
+    "hero": null,
+    "release": 7.96,
+    "land": 12.642500178813934
+  },
+  {
+    "index": 49,
+    "face": "face_66",
+    "back": "yellow",
+    "hero": "V1",
+    "release": 7.779999999999999,
+    "land": 12.462500178813933
+  },
+  {
+    "index": 50,
+    "face": "face_50",
+    "back": "green",
+    "hero": null,
+    "release": 7.6,
+    "land": 12.282500178813933
+  },
+  {
+    "index": 51,
+    "face": "face_51",
+    "back": "blue",
+    "hero": null,
+    "release": 7.42,
+    "land": 12.102500178813933
+  },
+  {
+    "index": 52,
+    "face": "face_52",
+    "back": "pink",
+    "hero": "H8",
+    "release": 7.24,
+    "land": 11.922500178813934
+  },
+  {
+    "index": 53,
+    "face": "face_53",
+    "back": "yellow",
+    "hero": null,
+    "release": 7.06,
+    "land": 11.742500178813934
+  },
+  {
+    "index": 54,
+    "face": "ref_H3",
+    "back": "green",
+    "hero": "H3",
+    "release": 6.88,
+    "land": 11.562500178813934
+  },
+  {
+    "index": 55,
+    "face": "ref_H7",
+    "back": "blue",
+    "hero": "H7",
+    "release": 6.699999999999999,
+    "land": 11.382500178813935
+  },
+  {
+    "index": 56,
+    "face": "face_95",
+    "back": "pink",
+    "hero": "H5",
+    "release": 6.52,
+    "land": 11.202500178813935
+  },
+  {
+    "index": 57,
+    "face": "face_78",
+    "back": "yellow",
+    "hero": "H2",
+    "release": 6.34,
+    "land": 11.022500178813935
+  },
+  {
+    "index": 58,
+    "face": "face_70",
+    "back": "green",
+    "hero": "H6",
+    "release": 6.16,
+    "land": 10.842500178813935
+  },
+  {
+    "index": 59,
+    "face": "ref_H4",
+    "back": "blue",
+    "hero": "H4",
+    "release": 5.9799999999999995,
+    "land": 10.662500178813934
+  },
+  {
+    "index": 60,
+    "face": "face_51",
+    "back": "pink",
+    "hero": "H1",
+    "release": 5.8,
+    "land": 10.482500178813934
+  }
+]
