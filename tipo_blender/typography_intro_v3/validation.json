@@ -1,0 +1,94 @@
+{
+  "native_resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "background_rgb": [
+    255,
+    208,
+    0
+  ],
+  "individual_letters": 30,
+  "individual_exclamation": 1,
+  "o_cycle_sequence": [
+    1,
+    2,
+    3,
+    4,
+    1,
+    2,
+    3,
+    4
+  ],
+  "o_frames_per_variant": 4,
+  "exclamation_pose_hold_frames": 3,
+  "phrase_appears_together": true,
+  "word_start_seconds": {
+    "visual": 0.2,
+    "game": 0.7,
+    "attention": 1.2,
+    "exclamation": 3.3666666666666667
+  },
+  "side_launches": 19,
+  "up_launches": 12,
+  "actual_exit_edges": {
+    "left": 17,
+    "top": 6,
+    "right": 8
+  },
+  "approved_first_150_frames_byte_identical": true,
+  "translation_model": "contact impulse, linear air drag and downward gravity",
+  "rotation_model": "angular impulse with exponential damping; no scale oscillation",
+  "no_glyph_reenters_frame_after_exit": true,
+  "source_png_final_seam_pixel_identical": true,
+  "pre_seam_hold_pixel_identical": true,
+  "approved_source_frame": 31,
+  "continue_from_source_frame": 32,
+  "original_assets": [
+    {
+      "name": "1 кадр.png",
+      "sha256": "5bcb32c0ea95ac2812cdd06bb64b85b064b94b81b253b59595e12dc58281724f"
+    },
+    {
+      "name": "2 кадр.png",
+      "sha256": "72fba31eb38b8473d2c5d932e8495fbb563bfac01f0148a853234c0377e14a56"
+    },
+    {
+      "name": "3 кадр.png",
+      "sha256": "0181e1e5e8c15b2c6832eaaf5ffc9552379cb08e4f7f596dc97c9134846b4789"
+    },
+    {
+      "name": "4 кадр.png",
+      "sha256": "edd049d7f2e535b2db8a3ed9b0ced1d3c2c22bcc31bf9d437006465cc4149d91"
+    },
+    {
+      "name": "5 восклицательный знак покадровая.png",
+      "sha256": "1776076a27518e48a0a4305e0476fe63ee14efed64c1bb3f0344c0264c02f6fa"
+    }
+  ],
+  "videos": {
+    "tipo_typography_intro_v3_1080p.mp4": {
+      "bytes": 887910,
+      "sha256": "294a507007d0587fbca24a5b70946f2347f9d2a0d894796f9dccfcccd967a584",
+      "frames": 240,
+      "duration_seconds": 8.0,
+      "codec": "H.264 High",
+      "pixel_format": "yuv420p",
+      "full_decode_passed": true
+    },
+    "tipo_intro_and_paper_story_v3_1080p.mp4": {
+      "bytes": 7343577,
+      "sha256": "b27ea188cbe10b9787e23f47a1d955e581597bacab00dabe1fb4e0704ddf926f",
+      "frames": 959,
+      "duration_seconds": 31.966667,
+      "codec": "H.264 High",
+      "pixel_format": "yuv420p",
+      "full_decode_passed": true
+    }
+  },
+  "blender_project": {
+    "filename": "tipo_typography_intro_v3.blend",
+    "sha256": "a833764f0689d63f43f12ab2871ca096e3dec9f304c312b8de646d28443e72ab"
+  }
+}
