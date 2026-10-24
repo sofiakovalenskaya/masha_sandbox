@@ -1,0 +1,595 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 240,
+  "background": [
+    255,
+    208,
+    0
+  ],
+  "letters": [
+    {
+      "asset": "glyph_0_00.png",
+      "center": [
+        256.0,
+        339.5
+      ],
+      "size": [
+        80.0,
+        155.0
+      ],
+      "id": 0,
+      "row": 0,
+      "column": 0,
+      "letter": "В",
+      "group": "visual"
+    },
+    {
+      "asset": "glyph_0_01.png",
+      "center": [
+        342.25,
+        339.5
+      ],
+      "size": [
+        81.5,
+        155.0
+      ],
+      "id": 1,
+      "row": 0,
+      "column": 1,
+      "letter": "И",
+      "group": "visual"
+    },
+    {
+      "asset": "glyph_0_02.png",
+      "center": [
+        428.5,
+        339.5
+      ],
+      "size": [
+        77.0,
+        159.0
+      ],
+      "id": 2,
+      "row": 0,
+      "column": 2,
+      "letter": "З",
+      "group": "visual"
+    },
+    {
+      "asset": "glyph_0_03.png",
+      "center": [
+        513.25,
+        339.75
+      ],
+      "size": [
+        91.5,
+        155.5
+      ],
+      "id": 3,
+      "row": 0,
+      "column": 3,
+      "letter": "У",
+      "group": "visual"
+    },
+    {
+      "asset": "glyph_0_04.png",
+      "center": [
+        598.75,
+        339.5
+      ],
+      "size": [
+        89.5,
+        155.0
+      ],
+      "id": 4,
+      "row": 0,
+      "column": 4,
+      "letter": "А",
+      "group": "visual"
+    },
+    {
+      "asset": "glyph_0_05.png",
+      "center": [
+        685.0,
+        339.75
+      ],
+      "size": [
+        92.0,
+        155.5
+      ],
+      "id": 5,
+      "row": 0,
+      "column": 5,
+      "letter": "Л",
+      "group": "visual"
+    },
+    {
+      "asset": "glyph_0_06.png",
+      "center": [
+        778.5,
+        339.5
+      ],
+      "size": [
+        77.0,
+        155.0
+      ],
+      "id": 6,
+      "row": 0,
+      "column": 6,
+      "letter": "Ь",
+      "group": "visual"
+    },
+    {
+      "asset": "glyph_0_07.png",
+      "center": [
+        863.0,
+        339.5
+      ],
+      "size": [
+        81.0,
+        155.0
+      ],
+      "id": 7,
+      "row": 0,
+      "column": 7,
+      "letter": "Н",
+      "group": "visual"
+    },
+    {
+      "asset": "glyph_0_08.png",
+      "center": [
+        950.5,
+        339.5
+      ],
+      "size": [
+        89.0,
+        155.0
+      ],
+      "id": 8,
+      "row": 0,
+      "column": 8,
+      "letter": "А",
+      "group": "visual"
+    },
+    {
+      "asset": "glyph_0_09.png",
+      "center": [
+        1033.5,
+        339.5
+      ],
+      "size": [
+        80.0,
+        155.0
+      ],
+      "id": 9,
+      "row": 0,
+      "column": 9,
+      "letter": "Я",
+      "group": "visual"
+    },
+    {
+      "asset": "glyph_1_00.png",
+      "center": [
+        257.0,
+        519.5
+      ],
+      "size": [
+        82.0,
+        155.0
+      ],
+      "id": 10,
+      "row": 1,
+      "column": 0,
+      "letter": "И",
+      "group": "game"
+    },
+    {
+      "asset": "glyph_1_01.png",
+      "center": [
+        340.75,
+        519.5
+      ],
+      "size": [
+        69.5,
+        155.0
+      ],
+      "id": 11,
+      "row": 1,
+      "column": 1,
+      "letter": "Г",
+      "group": "game"
+    },
+    {
+      "asset": "glyph_1_02.png",
+      "center": [
+        421.0,
+        519.5
+      ],
+      "size": [
+        77.0,
+        155.0
+      ],
+      "id": 12,
+      "row": 1,
+      "column": 2,
+      "letter": "Р",
+      "group": "game"
+    },
+    {
+      "asset": "glyph_1_03.png",
+      "center": [
+        500.25,
+        519.5
+      ],
+      "size": [
+        89.5,
+        155.0
+      ],
+      "id": 13,
+      "row": 1,
+      "column": 3,
+      "letter": "А",
+      "group": "game"
+    },
+    {
+      "asset": "glyph_2_00.png",
+      "center": [
+        256.75,
+        699.5
+      ],
+      "size": [
+        81.5,
+        155.0
+      ],
+      "id": 14,
+      "row": 2,
+      "column": 0,
+      "letter": "Н",
+      "group": "attention"
+    },
+    {
+      "asset": "glyph_2_01.png",
+      "center": [
+        344.25,
+        699.5
+      ],
+      "size": [
+        89.5,
+        155.0
+      ],
+      "id": 15,
+      "row": 2,
+      "column": 1,
+      "letter": "А",
+      "group": "attention"
+    },
+    {
+      "asset": "glyph_2_02.png",
+      "center": [
+        464.0,
+        699.5
+      ],
+      "size": [
+        80.0,
+        155.0
+      ],
+      "id": 16,
+      "row": 2,
+      "column": 2,
+      "letter": "В",
+      "group": "attention"
+    },
+    {
+      "asset": "glyph_2_03.png",
+      "center": [
+        549.75,
+        699.5
+      ],
+      "size": [
+        81.5,
+        155.0
+      ],
+      "id": 17,
+      "row": 2,
+      "column": 3,
+      "letter": "Н",
+      "group": "attention"
+    },
+    {
+      "asset": "glyph_2_04.png",
+      "center": [
+        639.75,
+        699.5
+      ],
+      "size": [
+        81.5,
+        155.0
+      ],
+      "id": 18,
+      "row": 2,
+      "column": 4,
+      "letter": "И",
+      "group": "attention"
+    },
+    {
+      "asset": "glyph_2_05.png",
+      "center": [
+        741.0,
+        699.5
+      ],
+      "size": [
+        105.0,
+        155.0
+      ],
+      "id": 19,
+      "row": 2,
+      "column": 5,
+      "letter": "М",
+      "group": "attention"
+    },
+    {
+      "asset": "glyph_2_06.png",
+      "center": [
+        840.75,
+        699.5
+      ],
+      "size": [
+        89.5,
+        155.0
+      ],
+      "id": 20,
+      "row": 2,
+      "column": 6,
+      "letter": "А",
+      "group": "attention"
+    },
+    {
+      "asset": "glyph_2_07.png",
+      "center": [
+        920.75,
+        699.5
+      ],
+      "size": [
+        79.5,
+        155.0
+      ],
+      "id": 21,
+      "row": 2,
+      "column": 7,
+      "letter": "Т",
+      "group": "attention"
+    },
+    {
+      "asset": "glyph_2_08.png",
+      "center": [
+        998.25,
+        699.5
+      ],
+      "size": [
+        71.5,
+        155.0
+      ],
+      "id": 22,
+      "row": 2,
+      "column": 8,
+      "letter": "Е",
+      "group": "attention"
+    },
+    {
+      "asset": "glyph_2_09.png",
+      "center": [
+        1079.25,
+        699.75
+      ],
+      "size": [
+        91.5,
+        155.5
+      ],
+      "id": 23,
+      "row": 2,
+      "column": 9,
+      "letter": "Л",
+      "group": "attention"
+    },
+    {
+      "asset": "glyph_2_10.png",
+      "center": [
+        1172.75,
+        699.5
+      ],
+      "size": [
+        76.5,
+        155.0
+      ],
+      "id": 24,
+      "row": 2,
+      "column": 10,
+      "letter": "Ь",
+      "group": "attention"
+    },
+    {
+      "asset": "glyph_2_11.png",
+      "center": [
+        1257.25,
+        699.5
+      ],
+      "size": [
+        81.5,
+        155.0
+      ],
+      "id": 25,
+      "row": 2,
+      "column": 11,
+      "letter": "Н",
+      "group": "attention"
+    },
+    {
+      "asset": "glyph_2_12.png",
+      "center": [
+        1374.5,
+        699.5
+      ],
+      "size": [
+        146.0,
+        160.0
+      ],
+      "id": 26,
+      "row": 2,
+      "column": 12,
+      "letter": "О",
+      "group": "attention"
+    },
+    {
+      "asset": "glyph_2_13.png",
+      "center": [
+        1488.75,
+        699.5
+      ],
+      "size": [
+        77.5,
+        159.0
+      ],
+      "id": 27,
+      "row": 2,
+      "column": 13,
+      "letter": "С",
+      "group": "attention"
+    },
+    {
+      "asset": "glyph_2_14.png",
+      "center": [
+        1566.25,
+        699.5
+      ],
+      "size": [
+        79.5,
+        155.0
+      ],
+      "id": 28,
+      "row": 2,
+      "column": 14,
+      "letter": "Т",
+      "group": "attention"
+    },
+    {
+      "asset": "glyph_2_15.png",
+      "center": [
+        1646.25,
+        699.5
+      ],
+      "size": [
+        76.5,
+        155.0
+      ],
+      "id": 29,
+      "row": 2,
+      "column": 15,
+      "letter": "Ь",
+      "group": "attention"
+    }
+  ],
+  "o_glyph_id": 26,
+  "o_variants": [
+    {
+      "asset": "o_variant_1.png",
+      "center": [
+        1374.5,
+        699.5
+      ],
+      "size": [
+        149.0,
+        146.74924471299096
+      ]
+    },
+    {
+      "asset": "o_variant_2.png",
+      "center": [
+        1374.5,
+        699.5
+      ],
+      "size": [
+        104.0,
+        123.5
+      ]
+    },
+    {
+      "asset": "o_variant_3.png",
+      "center": [
+        1374.5,
+        699.5
+      ],
+      "size": [
+        127.0,
+        161.5
+      ]
+    },
+    {
+      "asset": "o_variant_4.png",
+      "center": [
+        1374.5,
+        699.5
+      ],
+      "size": [
+        146.0,
+        160.0
+      ]
+    }
+  ],
+  "exclamation": {
+    "asset": "exclamation.png",
+    "center": [
+      1490.25,
+      528.75
+    ],
+    "size": [
+      155.5,
+      180.5
+    ],
+    "id": 30,
+    "letter": "!",
+    "group": "exclamation",
+    "row": 1,
+    "column": 0
+  },
+  "box": {
+    "asset": "approved_box.png",
+    "size": [
+      784,
+      785
+    ],
+    "center": [
+      960,
+      540.5
+    ]
+  },
+  "seam": {
+    "asset": "seam_frame.png",
+    "source_frame": 31,
+    "continuation_source_frame": 32,
+    "source_sha256": "6ba08e183739717a2c55772132c2cb4ab8c4fb53408b47637fec8e02300b8ba5"
+  },
+  "original_assets": [
+    {
+      "name": "1 кадр.png",
+      "sha256": "5bcb32c0ea95ac2812cdd06bb64b85b064b94b81b253b59595e12dc58281724f"
+    },
+    {
+      "name": "2 кадр.png",
+      "sha256": "72fba31eb38b8473d2c5d932e8495fbb563bfac01f0148a853234c0377e14a56"
+    },
+    {
+      "name": "3 кадр.png",
+      "sha256": "0181e1e5e8c15b2c6832eaaf5ffc9552379cb08e4f7f596dc97c9134846b4789"
+    },
+    {
+      "name": "4 кадр.png",
+      "sha256": "edd049d7f2e535b2db8a3ed9b0ced1d3c2c22bcc31bf9d437006465cc4149d91"
+    },
+    {
+      "name": "5 восклицательный знак покадровая.png",
+      "sha256": "1776076a27518e48a0a4305e0476fe63ee14efed64c1bb3f0344c0264c02f6fa"
+    }
+  ]
+}
