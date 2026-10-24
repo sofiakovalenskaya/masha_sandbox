@@ -1,0 +1,89 @@
+{
+  "frames": 240,
+  "fps": 30,
+  "duration_seconds": 8,
+  "model_objects": 68,
+  "cards": 61,
+  "camera_fixed": true,
+  "camera_horizontal": true,
+  "z_min_metres": 0.0,
+  "first_last_matrix_max_error": 1.7484555314695172e-07,
+  "original_meshes_and_materials_shared_without_changes": true,
+  "approved_files_unchanged": true,
+  "camera_projection": "PERSP",
+  "camera_lens_mm": 90,
+  "perspective_checks": [
+    {
+      "frame": 1,
+      "near_height_px": 662.6373383449767,
+      "far_height_px": 602.9999910593036,
+      "near_to_far_ratio": 1.0989010749086527
+    },
+    {
+      "frame": 31,
+      "near_height_px": 714.3994281035463,
+      "far_height_px": 565.7008678526757,
+      "near_to_far_ratio": 1.262857224906354
+    },
+    {
+      "frame": 61,
+      "near_height_px": 715.2685280862056,
+      "far_height_px": 565.1570448397877,
+      "near_to_far_ratio": 1.2656102133327771
+    },
+    {
+      "frame": 121,
+      "near_height_px": 663.7050571945665,
+      "far_height_px": 602.1185258524432,
+      "near_to_far_ratio": 1.1022830700233526
+    },
+    {
+      "frame": 181,
+      "near_height_px": 715.754338835447,
+      "far_height_px": 564.854143093303,
+      "near_to_far_ratio": 1.267148957987227
+    },
+    {
+      "frame": 240,
+      "near_height_px": 662.6373745136653,
+      "far_height_px": 602.9999611080177,
+      "near_to_far_ratio": 1.098901189472821
+    }
+  ],
+  "render_engine": "Blender 4.3.2 EEVEE",
+  "render_samples": 8,
+  "width": 1080,
+  "height": 1080,
+  "codec": "h264",
+  "pixel_format": "yuv420p",
+  "duration_seconds_verified": 8.0,
+  "decoded_frame_count": 240,
+  "decoded_fps": "30/1",
+  "source_endpoint_PNG_files_identical": true,
+  "decoded_first_last_RGB_identical": true,
+  "decoded_first_last_RGB_sha256": "f09b53bac87c9d64c93ada8b916b72701ce4b09b0fb12d911f48171d4ea6a20d",
+  "black_background_corners_RGB": [
+    0,
+    0,
+    0
+  ],
+  "eight_sampled_rotation_frames_are_distinct": true,
+  "files": {
+    "tipo_box2_turntable_v2.mp4": {
+      "bytes": 16672443,
+      "sha256": "0751ad00b65aa4c1c21254643cfc9d77556260d9efafdcf2dab437e77274cda7"
+    },
+    "tipo_box2_turntable_v2.blend": {
+      "bytes": 9934756,
+      "sha256": "4642c4a7867e4d48f165c4b2cc88cb061071cbc8bcec4e99e5cd058ee552d3ca"
+    },
+    "tipo_box2_turntable_v2.png": {
+      "bytes": 843123,
+      "sha256": "2ba1c6deb8ceb12474d0ead39a0339d77c6d49d4e8dcf1b2fe37e12e4327d110"
+    },
+    "tipo_box2_turntable_setup_v2.py": {
+      "bytes": 11026,
+      "sha256": "d7cb3df387f8d128210b39f47304189619ecd245ac99f3589d6a4329c692ba79"
+    }
+  }
+}
