@@ -1,0 +1,26 @@
+{
+  "duration_seconds": 25,
+  "preview_resolution": [
+    768,
+    432
+  ],
+  "project_resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "decoded_frames": 750,
+  "audio": false,
+  "full_decode_passed": true,
+  "native_1080p_render_started": false,
+  "files": {
+    "tipo_paper_story_v1_fixed.blend": {
+      "bytes": 8400709,
+      "sha256": "44d494117090ffd704107ff00682643d82b462190e473e14d0b461d5e686de68"
+    },
+    "tipo_paper_story_v1_fixed_preview.mp4": {
+      "bytes": 1838427,
+      "sha256": "5bf7d601fdc3d1721d9727ad8a9cc9b9e3d36589e2fbb4a7263d729f3e6d163a"
+    }
+  }
+}

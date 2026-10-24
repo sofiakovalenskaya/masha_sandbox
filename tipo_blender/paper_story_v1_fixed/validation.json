@@ -1,0 +1,28 @@
+{
+  "source": "uploaded tipo_paper_story_v1.blend",
+  "frames_checked": 750,
+  "mesh_intersections": 0,
+  "broadphase_pairs_tested": 757,
+  "minimum_card_height_m": 3.49840302078519e-05,
+  "yellow_background": "#FFD000",
+  "opaque_background": true,
+  "box_enters_from_below": true,
+  "box_static_hold_seconds": [
+    1,
+    2.2
+  ],
+  "horizontal_scan_seconds": [
+    11.5,
+    15.3
+  ],
+  "pullback_seconds": [
+    15.3,
+    17.4
+  ],
+  "no_vertical_scan": true,
+  "source_camera_preserved_frames": [
+    1,
+    345
+  ],
+  "card_rotations_bends_artwork_and_timing_preserved": true
+}

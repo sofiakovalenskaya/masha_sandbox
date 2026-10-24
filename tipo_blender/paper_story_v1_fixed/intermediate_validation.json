@@ -1,0 +1,13 @@
+{
+  "positions_checked": 783,
+  "mesh_intersections": 0,
+  "subframe_offsets": [
+    0.25,
+    0.5,
+    0.75
+  ],
+  "frames": [
+    166,
+    426
+  ]
+}
