@@ -1,0 +1,49 @@
+{
+  "frames": 240,
+  "fps": 30,
+  "duration_seconds": 8,
+  "model_objects": 68,
+  "cards": 61,
+  "camera_fixed": true,
+  "camera_horizontal": true,
+  "z_min_metres": 0.0,
+  "first_last_matrix_max_error": 1.7484555314695172e-07,
+  "original_meshes_and_materials_shared_without_changes": true,
+  "approved_files_unchanged": true,
+  "render_engine": "Blender 4.3.2 EEVEE",
+  "render_samples": 8,
+  "width": 1080,
+  "height": 1080,
+  "codec": "h264",
+  "pixel_format": "yuv420p",
+  "duration_seconds_verified": 8.0,
+  "decoded_frame_count": 240,
+  "decoded_fps": "30/1",
+  "source_endpoint_PNG_files_identical": true,
+  "decoded_first_last_RGB_identical": true,
+  "decoded_first_last_RGB_sha256": "e0b712f4e3a85ba099475cd904d9e29dd032240d5bab45f3a6898c4268b6fc27",
+  "black_background_corners_RGB": [
+    0,
+    0,
+    0
+  ],
+  "eight_sampled_rotation_frames_are_distinct": true,
+  "files": {
+    "tipo_box2_turntable_v1.mp4": {
+      "bytes": 17003010,
+      "sha256": "4520311536ba85d4939c8f945f48cd0aeb92cd5bb88e265b6c273d94d70bc14a"
+    },
+    "tipo_box2_turntable_v1.blend": {
+      "bytes": 9934444,
+      "sha256": "08d9dbb3ac9490b1690845eac7e7b1741e323993508523fcc27212794e95d09f"
+    },
+    "tipo_box2_turntable_v1.png": {
+      "bytes": 812803,
+      "sha256": "a54dcd8140fcebc174bfe66076d27087db32520ea09b0d923930b154b13b6304"
+    },
+    "tipo_box2_turntable_setup_v1.py": {
+      "bytes": 10742,
+      "sha256": "c92daf4027f38c7c6e23e277e7f690932f485c416c2b489afcb1d96758a9e0f3"
+    }
+  }
+}
