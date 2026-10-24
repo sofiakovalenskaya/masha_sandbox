@@ -1,0 +1,45 @@
+{
+  "frames_checked": 750,
+  "card_mesh_intersections": 0,
+  "broadphase_pairs_checked": 334,
+  "minimum_card_height_m": 9.999715985031798e-05,
+  "box_static_hold_seconds": [
+    1.2,
+    3
+  ],
+  "box_enters_from_below": true,
+  "background_and_viewport_world": "#FFD000",
+  "film_transparent": false,
+  "cards_in_scene": 61,
+  "cards_released": 30,
+  "cards_remaining_inside": 31,
+  "release_gap_seconds": 0.08,
+  "visible_falling_cards": {
+    "7.5": 6,
+    "8.0": 3,
+    "8.5": 1,
+    "9.0": 1,
+    "9.5": 1,
+    "10.0": 1
+  },
+  "entry_bounce_m": 0.006,
+  "fast_pullback_seconds": 2.1,
+  "clear_opening_before_bending": true,
+  "close_camera_pass": "horizontal_only",
+  "visible_landings": {
+    "H1": {
+      "time": 10.5,
+      "screen": [
+        0.29560211300849915,
+        0.49541550874710083
+      ]
+    },
+    "H2": {
+      "time": 10.83,
+      "screen": [
+        0.7043980360031128,
+        0.49541550874710083
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "duration_seconds": 25,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 750,
+  "cards_falling": 30,
+  "cards_remaining_inside": 31,
+  "final_cards": 14,
+  "horizontal": 8,
+  "vertical": 7,
+  "single_shared_intersection": "H6 / V5",
+  "paper_modes": [
+    "bend_x",
+    "bend_y",
+    "twist"
+  ],
+  "single_continuous_perspective_camera": true,
+  "font_winning_run": "Airy H3–H7",
+  "no_highlights_or_title": true,
+  "audio": false,
+  "approved_models_unchanged": true,
+  "missing_original_artwork": [],
+  "production_ready": true,
+  "original_extra_faces_sha256": {
+    "ref_H3": "bad4382b3d1e8a60f2f09f26e9edd1932cac2c5834a908c2009f80c430c2feff",
+    "ref_H4": "100ee9f9bb9af999614756397666653377e7aff32f23bef6494c111dd2152cb7",
+    "ref_H7": "392feddca2c893c806e93657331767cd79bd3a823668ddedf572d61582aa6124"
+  },
+  "all_card_textures_packed": true,
+  "artwork_note": "H3: supplied original card 06 has a wavy underline.",
+  "box_fully_visible_before_opening": true,
+  "close_camera_pass": "horizontal_only",
+  "minimum_box_frame_margin": 0.02489454858005047
+}
