@@ -1,7 +1,7 @@
 {
   "purpose": "Утверждённые исходные варианты для дальнейшей анимации игры ТИПО.",
   "instructions": [
-    "Пользователь утвердил обе версии. Сохранять исходные файлы без изменений.",
+    "Пользователь утвердил перечисленные исходники. Сохранять исходные файлы без изменений.",
     "Вариант 2 — коробка с картами v4, предназначенная для дальнейшей анимации.",
     "Создавать отдельные файлы анимационных сцен на основе этих вариантов; не перезаписывать утверждённые исходники.",
     "Не перестраивать и не менять геометрию, UV, рисунки, цвета или расположение карт без нового указания пользователя."
@@ -54,6 +54,22 @@
         27
       ],
       "raw_url": "https://raw.githubusercontent.com/sofiakovalenskaya/masha_sandbox/masha_sandbox/tipo_blender/tipo_box_61_cards_v4.blend"
+    },
+    {
+      "id": "story_v1_fixed",
+      "label": "Утверждённая анимация ТИПО",
+      "file": "tipo_paper_story_v1_fixed.blend",
+      "sha256": "44d494117090ffd704107ff00682643d82b462190e473e14d0b461d5e686de68",
+      "scenes": [
+        "TIPO_Paper_Story_v1_fixed"
+      ],
+      "approved_commit": "4a5e62c",
+      "status": "approved_animation",
+      "duration_seconds": 25,
+      "fps": 30,
+      "frames": 750,
+      "render_changes_only": true,
+      "raw_url": "https://raw.githubusercontent.com/sofiakovalenskaya/masha_sandbox/masha_sandbox/tipo_blender/tipo_paper_story_v1_fixed.blend"
     }
   ]
 }

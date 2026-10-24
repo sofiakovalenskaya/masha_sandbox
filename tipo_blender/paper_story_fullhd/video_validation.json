@@ -1,0 +1,61 @@
+{
+  "resolution": [
+    1920,
+    1080
+  ],
+  "rendered_from_3d": true,
+  "upscaled_from_preview": false,
+  "supersampled_frames_from_previous_4k_render": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    232
+  ],
+  "frames": 750,
+  "fps": 30,
+  "duration_seconds": 25,
+  "audio": false,
+  "codec": "H.264",
+  "profile": "High",
+  "level": "4.1",
+  "pixel_format": "yuv420p",
+  "constant_quality_crf": 17,
+  "approved_animation_unchanged": true,
+  "source_sha256": "44d494117090ffd704107ff00682643d82b462190e473e14d0b461d5e686de68",
+  "native_moving_frame_samples": 4,
+  "native_static_frame_samples": 16,
+  "full_decode_passed": true,
+  "files": {
+    "tipo_paper_story_v1_fixed_1080p.mp4": {
+      "bytes": 6685214,
+      "sha256": "3434945447eafc18c68580ba546dd8d45a02196eeb2058385f710e8dba81c72f"
+    }
+  }
+}
