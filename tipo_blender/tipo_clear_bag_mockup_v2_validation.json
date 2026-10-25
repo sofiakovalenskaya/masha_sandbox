@@ -1,0 +1,23 @@
+{
+  "file": "tipo_clear_bag_mockup_v2_1920x1080.png",
+  "format": "PNG",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "color_mode": "RGB",
+  "bytes": 2996985,
+  "sha256": "3fc657a6dbb0f9649a5c46d3c016ebcfc07475bb691b155e2f7e9027901617de",
+  "edit": "Reduced the game box relative to the notebook, pencils and cosmetics; kept its bottom supported at the bag floor.",
+  "physical_box_reference_mm": [
+    67,
+    67,
+    27
+  ],
+  "source_mockup": "tipo_clear_bag_mockup_v1_1920x1080.png",
+  "generated_source_dimensions": [
+    1672,
+    941
+  ],
+  "export": "Lanczos resampling and centered aspect-ratio fit to exact requested dimensions"
+}
