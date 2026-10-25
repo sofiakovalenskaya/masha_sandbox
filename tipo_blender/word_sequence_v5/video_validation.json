@@ -1,0 +1,38 @@
+{
+  "file": "tipo_word_sequence_v5_real_paper_roll_1080p.mp4",
+  "bytes": 2295980,
+  "sha256": "741746fa790656964a98d82d29b5bb80be560672e5d61a25ffc0bfd6d1ca7c72",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 149,
+  "duration_seconds": 4.966667,
+  "audio": false,
+  "original_92_png_frames_byte_identical": true,
+  "paper_poses": "photorealistic generated assets from supplied reference",
+  "distinct_rolling_surface_views": 8,
+  "rolling_distance_matches_radius_times_angle": true,
+  "rolling_radius_px": 155,
+  "rolling_surface_views_extracted_without_cell_clipping": true,
+  "ball_exits_completely": true,
+  "source_final_frame_exact_rgb": [
+    255,
+    0,
+    111
+  ],
+  "decoded_final_rgb": [
+    254,
+    0,
+    109
+  ],
+  "decoded_final_channel_ranges": [
+    2,
+    0,
+    2
+  ],
+  "empty_final_hold_frames": 15,
+  "full_decode_to_final_frame": "passed",
+  "source_reference_sha256": "75e618789cba9a05a14e779fe3127a0101c1cf477c03b5b3c9709161932bf863"
+}
