@@ -1,0 +1,18 @@
+{
+  "file": "tipo_cards_mockup_playing_v4_1920x1080.png",
+  "format": "PNG",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "color_mode": "RGB",
+  "bytes": 2744434,
+  "sha256": "27d4f72fa3945d996f028369ef5303ee2eb65990b21cc43bba26e9e41a3d319a",
+  "edit": "Three cards held by the woman at lower left now show ivory letter fronts toward the camera: green Е, blue Д and pink Б.",
+  "source_mockup": "tipo_cards_mockup_playing_v3_1920x1080.png",
+  "generated_source_dimensions": [
+    1672,
+    941
+  ],
+  "export": "Lanczos resampling and centered aspect-ratio fit to exact requested dimensions"
+}
