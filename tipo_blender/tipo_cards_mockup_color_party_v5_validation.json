@@ -1,0 +1,18 @@
+{
+  "file": "tipo_cards_mockup_color_party_v5_1920x1080.png",
+  "format": "PNG",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "color_mode": "RGB",
+  "bytes": 2938968,
+  "sha256": "6a0407f80370d8fc1c019ea7ab2106d6e4d5f79f215985ff50550f0eb71eb7c9",
+  "art_direction": "Energetic game in progress on a natural wooden table, with yellow and green props, pink and cobalt ambient light, bright direct flash and film texture. No box; held cards show letter fronts toward camera.",
+  "source_mockup": "tipo_cards_mockup_playing_v4_1920x1080.png",
+  "generated_source_dimensions": [
+    1672,
+    941
+  ],
+  "export": "Lanczos resampling and centered aspect-ratio fit to exact requested dimensions"
+}
