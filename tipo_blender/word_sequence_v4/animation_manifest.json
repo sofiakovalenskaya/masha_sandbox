@@ -1,0 +1,975 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 158,
+  "duration_seconds": 5.266666666666667,
+  "preserved_original_frames": 92,
+  "paper_drawing_hold_frames": 3,
+  "paper_drawings": 17,
+  "empty_final_hold_frames": 15,
+  "final_color": "#FF006F",
+  "motion": "one connected UV-textured sheet folds into a paper ball in held poses, then leaves the frame downward",
+  "source_texture_sha256": "49f0033f15d269d6f1633f2502299ea4dc6591386d3ff8ddd47c35745a771fda",
+  "paper_stats": [
+    {
+      "pose": 0,
+      "alpha_bbox": [
+        24,
+        14,
+        1896,
+        1066
+      ],
+      "progress": 0.025,
+      "kind": "crumple"
+    },
+    {
+      "pose": 1,
+      "alpha_bbox": [
+        56,
+        36,
+        1861,
+        1045
+      ],
+      "progress": 0.065,
+      "kind": "crumple"
+    },
+    {
+      "pose": 2,
+      "alpha_bbox": [
+        102,
+        60,
+        1818,
+        1020
+      ],
+      "progress": 0.12,
+      "kind": "crumple"
+    },
+    {
+      "pose": 3,
+      "alpha_bbox": [
+        150,
+        97,
+        1762,
+        985
+      ],
+      "progress": 0.19,
+      "kind": "crumple"
+    },
+    {
+      "pose": 4,
+      "alpha_bbox": [
+        226,
+        134,
+        1693,
+        946
+      ],
+      "progress": 0.28,
+      "kind": "crumple"
+    },
+    {
+      "pose": 5,
+      "alpha_bbox": [
+        297,
+        193,
+        1610,
+        889
+      ],
+      "progress": 0.38,
+      "kind": "crumple"
+    },
+    {
+      "pose": 6,
+      "alpha_bbox": [
+        400,
+        247,
+        1515,
+        835
+      ],
+      "progress": 0.49,
+      "kind": "crumple"
+    },
+    {
+      "pose": 7,
+      "alpha_bbox": [
+        492,
+        322,
+        1412,
+        759
+      ],
+      "progress": 0.6,
+      "kind": "crumple"
+    },
+    {
+      "pose": 8,
+      "alpha_bbox": [
+        619,
+        398,
+        1289,
+        687
+      ],
+      "progress": 0.72,
+      "kind": "crumple"
+    },
+    {
+      "pose": 9,
+      "alpha_bbox": [
+        703,
+        427,
+        1180,
+        646
+      ],
+      "progress": 0.83,
+      "kind": "crumple"
+    },
+    {
+      "pose": 10,
+      "alpha_bbox": [
+        769,
+        390,
+        1128,
+        687
+      ],
+      "progress": 0.93,
+      "kind": "crumple"
+    },
+    {
+      "pose": 11,
+      "alpha_bbox": [
+        796,
+        367,
+        1120,
+        713
+      ],
+      "progress": 1.0,
+      "kind": "crumple"
+    },
+    {
+      "pose": 12,
+      "alpha_bbox": [
+        797,
+        414,
+        1117,
+        755
+      ],
+      "progress": 1.0,
+      "kind": "exit"
+    },
+    {
+      "pose": 13,
+      "alpha_bbox": [
+        799,
+        514,
+        1124,
+        866
+      ],
+      "progress": 1.0,
+      "kind": "exit"
+    },
+    {
+      "pose": 14,
+      "alpha_bbox": [
+        800,
+        682,
+        1121,
+        1027
+      ],
+      "progress": 1.0,
+      "kind": "exit"
+    },
+    {
+      "pose": 15,
+      "alpha_bbox": [
+        801,
+        933,
+        1109,
+        1080
+      ],
+      "progress": 1.0,
+      "kind": "exit"
+    },
+    {
+      "pose": 16,
+      "alpha_bbox": null,
+      "progress": 1.0,
+      "kind": "exit"
+    }
+  ],
+  "frame_map": [
+    {
+      "frame": 0,
+      "phase": "approved_word_animation",
+      "source_frame": 0
+    },
+    {
+      "frame": 1,
+      "phase": "approved_word_animation",
+      "source_frame": 1
+    },
+    {
+      "frame": 2,
+      "phase": "approved_word_animation",
+      "source_frame": 2
+    },
+    {
+      "frame": 3,
+      "phase": "approved_word_animation",
+      "source_frame": 3
+    },
+    {
+      "frame": 4,
+      "phase": "approved_word_animation",
+      "source_frame": 4
+    },
+    {
+      "frame": 5,
+      "phase": "approved_word_animation",
+      "source_frame": 5
+    },
+    {
+      "frame": 6,
+      "phase": "approved_word_animation",
+      "source_frame": 6
+    },
+    {
+      "frame": 7,
+      "phase": "approved_word_animation",
+      "source_frame": 7
+    },
+    {
+      "frame": 8,
+      "phase": "approved_word_animation",
+      "source_frame": 8
+    },
+    {
+      "frame": 9,
+      "phase": "approved_word_animation",
+      "source_frame": 9
+    },
+    {
+      "frame": 10,
+      "phase": "approved_word_animation",
+      "source_frame": 10
+    },
+    {
+      "frame": 11,
+      "phase": "approved_word_animation",
+      "source_frame": 11
+    },
+    {
+      "frame": 12,
+      "phase": "approved_word_animation",
+      "source_frame": 12
+    },
+    {
+      "frame": 13,
+      "phase": "approved_word_animation",
+      "source_frame": 13
+    },
+    {
+      "frame": 14,
+      "phase": "approved_word_animation",
+      "source_frame": 14
+    },
+    {
+      "frame": 15,
+      "phase": "approved_word_animation",
+      "source_frame": 15
+    },
+    {
+      "frame": 16,
+      "phase": "approved_word_animation",
+      "source_frame": 16
+    },
+    {
+      "frame": 17,
+      "phase": "approved_word_animation",
+      "source_frame": 17
+    },
+    {
+      "frame": 18,
+      "phase": "approved_word_animation",
+      "source_frame": 18
+    },
+    {
+      "frame": 19,
+      "phase": "approved_word_animation",
+      "source_frame": 19
+    },
+    {
+      "frame": 20,
+      "phase": "approved_word_animation",
+      "source_frame": 20
+    },
+    {
+      "frame": 21,
+      "phase": "approved_word_animation",
+      "source_frame": 21
+    },
+    {
+      "frame": 22,
+      "phase": "approved_word_animation",
+      "source_frame": 22
+    },
+    {
+      "frame": 23,
+      "phase": "approved_word_animation",
+      "source_frame": 23
+    },
+    {
+      "frame": 24,
+      "phase": "approved_word_animation",
+      "source_frame": 24
+    },
+    {
+      "frame": 25,
+      "phase": "approved_word_animation",
+      "source_frame": 25
+    },
+    {
+      "frame": 26,
+      "phase": "approved_word_animation",
+      "source_frame": 26
+    },
+    {
+      "frame": 27,
+      "phase": "approved_word_animation",
+      "source_frame": 27
+    },
+    {
+      "frame": 28,
+      "phase": "approved_word_animation",
+      "source_frame": 28
+    },
+    {
+      "frame": 29,
+      "phase": "approved_word_animation",
+      "source_frame": 29
+    },
+    {
+      "frame": 30,
+      "phase": "approved_word_animation",
+      "source_frame": 30
+    },
+    {
+      "frame": 31,
+      "phase": "approved_word_animation",
+      "source_frame": 31
+    },
+    {
+      "frame": 32,
+      "phase": "approved_word_animation",
+      "source_frame": 32
+    },
+    {
+      "frame": 33,
+      "phase": "approved_word_animation",
+      "source_frame": 33
+    },
+    {
+      "frame": 34,
+      "phase": "approved_word_animation",
+      "source_frame": 34
+    },
+    {
+      "frame": 35,
+      "phase": "approved_word_animation",
+      "source_frame": 35
+    },
+    {
+      "frame": 36,
+      "phase": "approved_word_animation",
+      "source_frame": 36
+    },
+    {
+      "frame": 37,
+      "phase": "approved_word_animation",
+      "source_frame": 37
+    },
+    {
+      "frame": 38,
+      "phase": "approved_word_animation",
+      "source_frame": 38
+    },
+    {
+      "frame": 39,
+      "phase": "approved_word_animation",
+      "source_frame": 39
+    },
+    {
+      "frame": 40,
+      "phase": "approved_word_animation",
+      "source_frame": 40
+    },
+    {
+      "frame": 41,
+      "phase": "approved_word_animation",
+      "source_frame": 41
+    },
+    {
+      "frame": 42,
+      "phase": "approved_word_animation",
+      "source_frame": 42
+    },
+    {
+      "frame": 43,
+      "phase": "approved_word_animation",
+      "source_frame": 43
+    },
+    {
+      "frame": 44,
+      "phase": "approved_word_animation",
+      "source_frame": 44
+    },
+    {
+      "frame": 45,
+      "phase": "approved_word_animation",
+      "source_frame": 45
+    },
+    {
+      "frame": 46,
+      "phase": "approved_word_animation",
+      "source_frame": 46
+    },
+    {
+      "frame": 47,
+      "phase": "approved_word_animation",
+      "source_frame": 47
+    },
+    {
+      "frame": 48,
+      "phase": "approved_word_animation",
+      "source_frame": 48
+    },
+    {
+      "frame": 49,
+      "phase": "approved_word_animation",
+      "source_frame": 49
+    },
+    {
+      "frame": 50,
+      "phase": "approved_word_animation",
+      "source_frame": 50
+    },
+    {
+      "frame": 51,
+      "phase": "approved_word_animation",
+      "source_frame": 51
+    },
+    {
+      "frame": 52,
+      "phase": "approved_word_animation",
+      "source_frame": 52
+    },
+    {
+      "frame": 53,
+      "phase": "approved_word_animation",
+      "source_frame": 53
+    },
+    {
+      "frame": 54,
+      "phase": "approved_word_animation",
+      "source_frame": 54
+    },
+    {
+      "frame": 55,
+      "phase": "approved_word_animation",
+      "source_frame": 55
+    },
+    {
+      "frame": 56,
+      "phase": "approved_word_animation",
+      "source_frame": 56
+    },
+    {
+      "frame": 57,
+      "phase": "approved_word_animation",
+      "source_frame": 57
+    },
+    {
+      "frame": 58,
+      "phase": "approved_word_animation",
+      "source_frame": 58
+    },
+    {
+      "frame": 59,
+      "phase": "approved_word_animation",
+      "source_frame": 59
+    },
+    {
+      "frame": 60,
+      "phase": "approved_word_animation",
+      "source_frame": 60
+    },
+    {
+      "frame": 61,
+      "phase": "approved_word_animation",
+      "source_frame": 61
+    },
+    {
+      "frame": 62,
+      "phase": "approved_word_animation",
+      "source_frame": 62
+    },
+    {
+      "frame": 63,
+      "phase": "approved_word_animation",
+      "source_frame": 63
+    },
+    {
+      "frame": 64,
+      "phase": "approved_word_animation",
+      "source_frame": 64
+    },
+    {
+      "frame": 65,
+      "phase": "approved_word_animation",
+      "source_frame": 65
+    },
+    {
+      "frame": 66,
+      "phase": "approved_word_animation",
+      "source_frame": 66
+    },
+    {
+      "frame": 67,
+      "phase": "approved_word_animation",
+      "source_frame": 67
+    },
+    {
+      "frame": 68,
+      "phase": "approved_word_animation",
+      "source_frame": 68
+    },
+    {
+      "frame": 69,
+      "phase": "approved_word_animation",
+      "source_frame": 69
+    },
+    {
+      "frame": 70,
+      "phase": "approved_word_animation",
+      "source_frame": 70
+    },
+    {
+      "frame": 71,
+      "phase": "approved_word_animation",
+      "source_frame": 71
+    },
+    {
+      "frame": 72,
+      "phase": "approved_word_animation",
+      "source_frame": 72
+    },
+    {
+      "frame": 73,
+      "phase": "approved_word_animation",
+      "source_frame": 73
+    },
+    {
+      "frame": 74,
+      "phase": "approved_word_animation",
+      "source_frame": 74
+    },
+    {
+      "frame": 75,
+      "phase": "approved_word_animation",
+      "source_frame": 75
+    },
+    {
+      "frame": 76,
+      "phase": "approved_word_animation",
+      "source_frame": 76
+    },
+    {
+      "frame": 77,
+      "phase": "approved_word_animation",
+      "source_frame": 77
+    },
+    {
+      "frame": 78,
+      "phase": "approved_word_animation",
+      "source_frame": 78
+    },
+    {
+      "frame": 79,
+      "phase": "approved_word_animation",
+      "source_frame": 79
+    },
+    {
+      "frame": 80,
+      "phase": "approved_word_animation",
+      "source_frame": 80
+    },
+    {
+      "frame": 81,
+      "phase": "approved_word_animation",
+      "source_frame": 81
+    },
+    {
+      "frame": 82,
+      "phase": "approved_word_animation",
+      "source_frame": 82
+    },
+    {
+      "frame": 83,
+      "phase": "approved_word_animation",
+      "source_frame": 83
+    },
+    {
+      "frame": 84,
+      "phase": "approved_word_animation",
+      "source_frame": 84
+    },
+    {
+      "frame": 85,
+      "phase": "approved_word_animation",
+      "source_frame": 85
+    },
+    {
+      "frame": 86,
+      "phase": "approved_word_animation",
+      "source_frame": 86
+    },
+    {
+      "frame": 87,
+      "phase": "approved_word_animation",
+      "source_frame": 87
+    },
+    {
+      "frame": 88,
+      "phase": "approved_word_animation",
+      "source_frame": 88
+    },
+    {
+      "frame": 89,
+      "phase": "approved_word_animation",
+      "source_frame": 89
+    },
+    {
+      "frame": 90,
+      "phase": "approved_word_animation",
+      "source_frame": 90
+    },
+    {
+      "frame": 91,
+      "phase": "approved_word_animation",
+      "source_frame": 91
+    },
+    {
+      "frame": 92,
+      "phase": "crumple",
+      "paper_pose": 0
+    },
+    {
+      "frame": 93,
+      "phase": "crumple",
+      "paper_pose": 0
+    },
+    {
+      "frame": 94,
+      "phase": "crumple",
+      "paper_pose": 0
+    },
+    {
+      "frame": 95,
+      "phase": "crumple",
+      "paper_pose": 1
+    },
+    {
+      "frame": 96,
+      "phase": "crumple",
+      "paper_pose": 1
+    },
+    {
+      "frame": 97,
+      "phase": "crumple",
+      "paper_pose": 1
+    },
+    {
+      "frame": 98,
+      "phase": "crumple",
+      "paper_pose": 2
+    },
+    {
+      "frame": 99,
+      "phase": "crumple",
+      "paper_pose": 2
+    },
+    {
+      "frame": 100,
+      "phase": "crumple",
+      "paper_pose": 2
+    },
+    {
+      "frame": 101,
+      "phase": "crumple",
+      "paper_pose": 3
+    },
+    {
+      "frame": 102,
+      "phase": "crumple",
+      "paper_pose": 3
+    },
+    {
+      "frame": 103,
+      "phase": "crumple",
+      "paper_pose": 3
+    },
+    {
+      "frame": 104,
+      "phase": "crumple",
+      "paper_pose": 4
+    },
+    {
+      "frame": 105,
+      "phase": "crumple",
+      "paper_pose": 4
+    },
+    {
+      "frame": 106,
+      "phase": "crumple",
+      "paper_pose": 4
+    },
+    {
+      "frame": 107,
+      "phase": "crumple",
+      "paper_pose": 5
+    },
+    {
+      "frame": 108,
+      "phase": "crumple",
+      "paper_pose": 5
+    },
+    {
+      "frame": 109,
+      "phase": "crumple",
+      "paper_pose": 5
+    },
+    {
+      "frame": 110,
+      "phase": "crumple",
+      "paper_pose": 6
+    },
+    {
+      "frame": 111,
+      "phase": "crumple",
+      "paper_pose": 6
+    },
+    {
+      "frame": 112,
+      "phase": "crumple",
+      "paper_pose": 6
+    },
+    {
+      "frame": 113,
+      "phase": "crumple",
+      "paper_pose": 7
+    },
+    {
+      "frame": 114,
+      "phase": "crumple",
+      "paper_pose": 7
+    },
+    {
+      "frame": 115,
+      "phase": "crumple",
+      "paper_pose": 7
+    },
+    {
+      "frame": 116,
+      "phase": "crumple",
+      "paper_pose": 8
+    },
+    {
+      "frame": 117,
+      "phase": "crumple",
+      "paper_pose": 8
+    },
+    {
+      "frame": 118,
+      "phase": "crumple",
+      "paper_pose": 8
+    },
+    {
+      "frame": 119,
+      "phase": "crumple",
+      "paper_pose": 9
+    },
+    {
+      "frame": 120,
+      "phase": "crumple",
+      "paper_pose": 9
+    },
+    {
+      "frame": 121,
+      "phase": "crumple",
+      "paper_pose": 9
+    },
+    {
+      "frame": 122,
+      "phase": "crumple",
+      "paper_pose": 10
+    },
+    {
+      "frame": 123,
+      "phase": "crumple",
+      "paper_pose": 10
+    },
+    {
+      "frame": 124,
+      "phase": "crumple",
+      "paper_pose": 10
+    },
+    {
+      "frame": 125,
+      "phase": "crumple",
+      "paper_pose": 11
+    },
+    {
+      "frame": 126,
+      "phase": "crumple",
+      "paper_pose": 11
+    },
+    {
+      "frame": 127,
+      "phase": "crumple",
+      "paper_pose": 11
+    },
+    {
+      "frame": 128,
+      "phase": "exit",
+      "paper_pose": 12
+    },
+    {
+      "frame": 129,
+      "phase": "exit",
+      "paper_pose": 12
+    },
+    {
+      "frame": 130,
+      "phase": "exit",
+      "paper_pose": 12
+    },
+    {
+      "frame": 131,
+      "phase": "exit",
+      "paper_pose": 13
+    },
+    {
+      "frame": 132,
+      "phase": "exit",
+      "paper_pose": 13
+    },
+    {
+      "frame": 133,
+      "phase": "exit",
+      "paper_pose": 13
+    },
+    {
+      "frame": 134,
+      "phase": "exit",
+      "paper_pose": 14
+    },
+    {
+      "frame": 135,
+      "phase": "exit",
+      "paper_pose": 14
+    },
+    {
+      "frame": 136,
+      "phase": "exit",
+      "paper_pose": 14
+    },
+    {
+      "frame": 137,
+      "phase": "exit",
+      "paper_pose": 15
+    },
+    {
+      "frame": 138,
+      "phase": "exit",
+      "paper_pose": 15
+    },
+    {
+      "frame": 139,
+      "phase": "exit",
+      "paper_pose": 15
+    },
+    {
+      "frame": 140,
+      "phase": "exit",
+      "paper_pose": 16
+    },
+    {
+      "frame": 141,
+      "phase": "exit",
+      "paper_pose": 16
+    },
+    {
+      "frame": 142,
+      "phase": "exit",
+      "paper_pose": 16
+    },
+    {
+      "frame": 143,
+      "phase": "empty_pink"
+    },
+    {
+      "frame": 144,
+      "phase": "empty_pink"
+    },
+    {
+      "frame": 145,
+      "phase": "empty_pink"
+    },
+    {
+      "frame": 146,
+      "phase": "empty_pink"
+    },
+    {
+      "frame": 147,
+      "phase": "empty_pink"
+    },
+    {
+      "frame": 148,
+      "phase": "empty_pink"
+    },
+    {
+      "frame": 149,
+      "phase": "empty_pink"
+    },
+    {
+      "frame": 150,
+      "phase": "empty_pink"
+    },
+    {
+      "frame": 151,
+      "phase": "empty_pink"
+    },
+    {
+      "frame": 152,
+      "phase": "empty_pink"
+    },
+    {
+      "frame": 153,
+      "phase": "empty_pink"
+    },
+    {
+      "frame": 154,
+      "phase": "empty_pink"
+    },
+    {
+      "frame": 155,
+      "phase": "empty_pink"
+    },
+    {
+      "frame": 156,
+      "phase": "empty_pink"
+    },
+    {
+      "frame": 157,
+      "phase": "empty_pink"
+    }
+  ]
+}

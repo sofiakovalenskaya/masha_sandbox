@@ -1,0 +1,43 @@
+{
+  "file": "tipo_word_sequence_v4_paper_crumple_1080p.mp4",
+  "bytes": 2235053,
+  "sha256": "6a71af59e2fd640572fa638de45da30faaba8b7029d8893a437b4359523b7d37",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 158,
+  "duration_seconds": 5.266667,
+  "audio": false,
+  "original_92_png_frames_byte_identical": true,
+  "whole_frame_texture_sha256": "49f0033f15d269d6f1633f2502299ea4dc6591386d3ff8ddd47c35745a771fda",
+  "connected_sheet_vertices": 2405,
+  "connected_sheet_triangles": 4608,
+  "paper_drawings": 17,
+  "hold_frames": 3,
+  "ball_alpha_bbox": [
+    796,
+    367,
+    1120,
+    713
+  ],
+  "paper_exits_completely": true,
+  "source_final_frame_exact_rgb": [
+    255,
+    0,
+    111
+  ],
+  "decoded_final_frame_rgb": [
+    254,
+    0,
+    109
+  ],
+  "decoded_final_frame_channel_ranges": [
+    2,
+    0,
+    2
+  ],
+  "full_decode_to_final_frame": "passed",
+  "empty_final_hold_frames": 15
+}

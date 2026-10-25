@@ -1,0 +1,5 @@
+paper_renders/
+frames/
+poses/
+__pycache__/
+*.blend1

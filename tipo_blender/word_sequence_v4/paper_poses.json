@@ -1,0 +1,129 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "vertices": 2405,
+  "triangles": 4608,
+  "connected_sheet": true,
+  "uv_source": "assets/final_word_frame.png",
+  "poses": [
+    {
+      "index": 0,
+      "kind": "crumple",
+      "progress": 0.025,
+      "center_y": 0.0,
+      "rotation_z": 0.0008750000000000001
+    },
+    {
+      "index": 1,
+      "kind": "crumple",
+      "progress": 0.065,
+      "center_y": 0.0,
+      "rotation_z": -0.002275
+    },
+    {
+      "index": 2,
+      "kind": "crumple",
+      "progress": 0.12,
+      "center_y": 0.0,
+      "rotation_z": 0.004200000000000001
+    },
+    {
+      "index": 3,
+      "kind": "crumple",
+      "progress": 0.19,
+      "center_y": 0.0,
+      "rotation_z": -0.0066500000000000005
+    },
+    {
+      "index": 4,
+      "kind": "crumple",
+      "progress": 0.28,
+      "center_y": 0.0,
+      "rotation_z": 0.009800000000000001
+    },
+    {
+      "index": 5,
+      "kind": "crumple",
+      "progress": 0.38,
+      "center_y": 0.0,
+      "rotation_z": -0.013300000000000001
+    },
+    {
+      "index": 6,
+      "kind": "crumple",
+      "progress": 0.49,
+      "center_y": 0.0,
+      "rotation_z": 0.017150000000000002
+    },
+    {
+      "index": 7,
+      "kind": "crumple",
+      "progress": 0.6,
+      "center_y": 0.0,
+      "rotation_z": -0.021
+    },
+    {
+      "index": 8,
+      "kind": "crumple",
+      "progress": 0.72,
+      "center_y": 0.0,
+      "rotation_z": 0.0252
+    },
+    {
+      "index": 9,
+      "kind": "crumple",
+      "progress": 0.83,
+      "center_y": 0.0,
+      "rotation_z": -0.029050000000000003
+    },
+    {
+      "index": 10,
+      "kind": "crumple",
+      "progress": 0.93,
+      "center_y": 0.0,
+      "rotation_z": 0.03255
+    },
+    {
+      "index": 11,
+      "kind": "crumple",
+      "progress": 1.0,
+      "center_y": 0.0,
+      "rotation_z": -0.035
+    },
+    {
+      "index": 12,
+      "kind": "exit",
+      "progress": 1.0,
+      "center_y": -0.45,
+      "rotation_z": -0.12
+    },
+    {
+      "index": 13,
+      "kind": "exit",
+      "progress": 1.0,
+      "center_y": -1.5,
+      "rotation_z": 0.2
+    },
+    {
+      "index": 14,
+      "kind": "exit",
+      "progress": 1.0,
+      "center_y": -3.15,
+      "rotation_z": 0.4
+    },
+    {
+      "index": 15,
+      "kind": "exit",
+      "progress": 1.0,
+      "center_y": -5.65,
+      "rotation_z": 0.67
+    },
+    {
+      "index": 16,
+      "kind": "exit",
+      "progress": 1.0,
+      "center_y": -9.0,
+      "rotation_z": 0.95
+    }
+  ]
+}
