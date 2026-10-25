@@ -1,0 +1,22 @@
+{
+  "file": "tipo_clear_bag_mockup_v1_1920x1080.png",
+  "format": "PNG",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "color_mode": "RGB",
+  "bytes": 3234418,
+  "sha256": "4f02846e5081822e507fa6ac171b9c6bbd42c7611edfbcfb68f3d2bafa147734",
+  "art_direction": "Alternative-style adult woman with a transparent bag containing the TIPO game box, pink lip gloss, pencils, yellow sketchbook, wired earbuds, silver compact and lime keychain; direct flash, analog film texture and cobalt/magenta evening light.",
+  "product_references": [
+    "tipo_box_61_cards_v4.png",
+    "tipo_box_61_cards_top_v4.png"
+  ],
+  "style_reference": "tipo_cards_mockup_color_party_v5_1920x1080.png",
+  "generated_source_dimensions": [
+    1672,
+    941
+  ],
+  "export": "Lanczos resampling and centered aspect-ratio fit to exact requested dimensions"
+}
