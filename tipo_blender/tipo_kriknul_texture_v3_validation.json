@@ -1,0 +1,18 @@
+{
+  "file": "tipo_kriknul_texture_v3_1920x1080.png",
+  "format": "PNG",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "color_mode": "RGB",
+  "bytes": 1300464,
+  "sha256": "cff09c2b68d2fbf276c9b27228f7fcc756b7f17bea23e5a9795bebae4bb3c635",
+  "text": "КРИКНУЛ",
+  "edit": "Medium-strength hand-printed texture matched to the user orange FRONT reference: visible small ink gaps and granular hand-drawn contours, with predominantly solid white strokes.",
+  "generated_source_dimensions": [
+    1672,
+    941
+  ],
+  "export": "Lanczos resampling and centered aspect-ratio fit to exact slide dimensions"
+}
