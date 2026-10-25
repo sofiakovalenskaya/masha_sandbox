@@ -1,0 +1,1009 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 81,
+  "duration": 2.7,
+  "reference_duration": 1.2333333333333334,
+  "duration_multiplier": 2.189189189189189,
+  "drawings": 27,
+  "hold_frames": 3,
+  "final_table_cards": 40,
+  "based_on": "card_scatter_v4",
+  "changes": "empty opening, entrance from below, brand pink background; approved card sequence retained",
+  "background_color": "#FF006F",
+  "prefix_frames": 27,
+  "intro_vertical_offsets": [
+    null,
+    null,
+    860,
+    802,
+    645,
+    430,
+    215,
+    58,
+    0
+  ],
+  "source_artwork_sha256": {
+    "blue.png": "debede79c518544e99a779a07f784f689efd6c510d67d0bc43ccb48c51675be2",
+    "face_49.png": "b19c2306b5ce0bfe99594f024fa966dd90a589af81f1004c5291ce57f55ed3b8",
+    "face_50.png": "efbf92235b60283179fe810633ee2afa75a80d724d830f0904769158e37f32db",
+    "face_51.png": "5640d9dcc316f4e353ff62163eccc89414dbc54185fa4cc7b952dc18a7fc119f",
+    "face_52.png": "38502f833100a51aaaccd97813832cb425001ef226c82212dcb54e034075e67a",
+    "face_53.png": "65de760f19c686b3ac63491a94615976d94611afd9b83938f390f937b25c093f",
+    "face_54.png": "264863a8efbb8413001bf29ed795df88e9fe30bcdd77254ec09550b504f8b5c8",
+    "face_55.png": "a09698f4179cc08b38acd770a620b48836aab83bb07c3584b7ded2e863656174",
+    "face_56.png": "d4782f8bd0c1e69b98253523474d84e38b9c29f8fa5ba469097783124ef7fd05",
+    "face_57.png": "285620935a8f12623f0714c1ccb0aae19d87be243d721277bdc4fc5c418bd602",
+    "face_58.png": "0e670cc881ee16f7b2cc8a0f50dd7befcf4fb0445902b934c013bd550dc5be50",
+    "face_59.png": "79d29c15d6502500ecbda710664be61c167ba64f4d7c7c552e332f018638c89b",
+    "face_60.png": "e6471625121e6bd239764eff36602bb808035a2f250cc316f1f4b865cca8d652",
+    "face_61.png": "ccaff0d4d21714b7d3cccb1d07e0afc8365e4dcbe87349794473cc1d5d87eeaa",
+    "face_62.png": "4fe60ee513d3b5048ebd2452b81f7ddeec0c2bc98f40fa13258bd012f7606707",
+    "face_63.png": "8f7d029914725d77aa48eedd5d1a1357cfa7b4c4cb77233a985af3f017174aeb",
+    "face_64.png": "f8ea8e01db9a1b05271fc2ada38cc2a9d93ad321cd0ce64b8a4d22288963fc1d",
+    "face_65.png": "fe5e699e2553a45aaf66713e65adc79f54b35ef435ceca4add0dec5faee835e7",
+    "face_66.png": "7f6aa791808d7514c3e9715a33ee452172819f517a06e51be44426ad605719c8",
+    "face_67.png": "765434fffae9c34e9a9dab0ee09afe266eed91b03fbd81e35804870083f529e6",
+    "face_68.png": "0ab4836cebe91411b621c5b8fcbe3258bce1ccd1b0add0400003ca30e769e025",
+    "face_69.png": "23381e96c55de2e33ab08989d49e223b4c66fc18e67d862dc6d93c7e5422e5f1",
+    "face_70.png": "e34923a680e8137adb8057bef681bcd8f5b0b4c0c735cad3a3b9bd7262d7dd4a",
+    "face_71.png": "160015b5e591580c05e69e6c69773860ddc0a9de4ab62d88d1f447042c109337",
+    "face_72.png": "b2d13c1cd6aa78a5d469d14e26c78a09bc97c5f4d8aceadd1d5fbee8d8af388a",
+    "face_73.png": "25cac0ea14ae5195d4839b54d743903b0cbd15d19118267e4e855594d429dd4e",
+    "face_74.png": "b337dd18d341db1abbf10621e187f67af6df82fbf352e6d6d142214402cf53db",
+    "face_75.png": "4f8fee976f59ef20b53b888140514058d81176dcb8bd535eee1bf872189644c4",
+    "face_76.png": "edf23946851aa629a85b27593f2bfd6ee17be21147db13d2b0b2be2b775edbed",
+    "face_77.png": "344f09fbca392d5104d81ed43dc6af436b0fd4c60088f385ee12184f8e849b69",
+    "face_78.png": "2ecb5673f4775f6e4f54e528d06c1de7b1301f9986eabc52b5af4957413144c1",
+    "face_79.png": "1d9144ace63f0a29dc462b14907a49bcac09e54e88c34aae90ff8b3c31c43026",
+    "face_80.png": "404169696826b4c47b965008a585993e02658a695214f8dc3fc2d67cd8539028",
+    "face_81.png": "4fb259d3d47dcdb389523c6db8fbe0c682d09d3c5639301a2e2335938bfa28f0",
+    "face_82.png": "db2405b1f60dc0fba12ca17c414f6dfbf6e64ab362e9ccbe5150c98be8937992",
+    "face_83.png": "cd460d6a47d602ffe783232825f097ae745ef69c4db723b631a5d73cd3f0b06c",
+    "face_84.png": "6472a083f8f267a96f54d1de9a6e425afefe548bcd108fa85b90c20a3aa10e1e",
+    "face_85.png": "c3efda0fd9bc45a8723e127f371c250caf05b57d7e1143192fe19bbc2b6d8ecc",
+    "face_86.png": "f61b3f8712629327a82a2042bacb2f9846bb804c3ccd06df4ba388d277fd73fd",
+    "face_87.png": "c498fe97d13bf8c50686db2304296440fb7516076ef995ce6e680e05621a28c2",
+    "face_88.png": "f7a017d6032e56f58f30cb3ac16b95e14a001b07b412c6afa407ee0860248c2d",
+    "face_89.png": "3b3cbc0a836ec65a118fc2c44aa79db275c6c2a63c7dda6481b3b3f8de6d4f9d",
+    "face_90.png": "084ceeea5bc65d9983fc77d01cd9856dbbd2d9450e0ffb57f32e265d3e992bed",
+    "face_91.png": "90a4a5782acfc424c634a4af7b63d2985c233b766dc543e9162a04a44602c97f",
+    "face_92.png": "e4b55d8cecc0e83ca13b017030d24431da054303938acafe38ecc3e28a1ec7d5",
+    "face_93.png": "4583a73bf30fb31ccf2104fd2dfd1bfe6c9420566b05c620bf8abc5ddd9f98c3",
+    "face_94.png": "0da23da6c61a544dfef9cd1e66e59417b0cee4834e8a7e5ceef233db6b2bf295",
+    "face_95.png": "64532138e8571e23d3d7df9b95995bdfe6c230d6050166db0c15fc3e3e988e3b",
+    "face_96.png": "c8420cbce8e13c17c91432749b7c1ce7487c19439a88f6aaf388241715dffe34",
+    "green.png": "ef7644b34b80b5c2e90aceb029fcec62ca9da4e3cd4978ee536194e5bf603f12",
+    "pink.png": "04d4e97da47d8d9c1b0b8bcce7d702438f5541dff242cede3832bdd05da86c84",
+    "ref_H3.png": "bad4382b3d1e8a60f2f09f26e9edd1932cac2c5834a908c2009f80c430c2feff",
+    "ref_H4.png": "100ee9f9bb9af999614756397666653377e7aff32f23bef6494c111dd2152cb7",
+    "ref_H7.png": "392feddca2c893c806e93657331767cd79bd3a823668ddedf572d61582aa6124",
+    "yellow.png": "de8ec1b1f5cdc84716ea0f5cb4da3364fa43c70a67af8a0f08ec5d1c5741d70d"
+  },
+  "cards": [
+    {
+      "file": "face_76.png",
+      "x": 1096.714445318507,
+      "y": 631.7524511412597,
+      "side": 347,
+      "angle": -33.34747154314356
+    },
+    {
+      "file": "face_74.png",
+      "x": 622.87035237847,
+      "y": 673.2113055361019,
+      "side": 334,
+      "angle": 6.578187300531724
+    },
+    {
+      "file": "ref_H3.png",
+      "x": 856.3871984961539,
+      "y": 691.5916159642644,
+      "side": 312,
+      "angle": -5.66561522474538
+    },
+    {
+      "file": "face_92.png",
+      "x": 1040.7095394366174,
+      "y": 390.8028941973306,
+      "side": 344,
+      "angle": 102.70978461265629
+    },
+    {
+      "file": "face_79.png",
+      "x": 655.6979592501251,
+      "y": 387.96832765740896,
+      "side": 346,
+      "angle": -21.944576596260447
+    },
+    {
+      "file": "face_82.png",
+      "x": 1298.4996044606155,
+      "y": 446.9429854220268,
+      "side": 328,
+      "angle": -0.7099974801309301
+    },
+    {
+      "file": "face_67.png",
+      "x": 1067.5893025175885,
+      "y": 842.6383352061154,
+      "side": 321,
+      "angle": -1.206442667939129
+    },
+    {
+      "file": "face_56.png",
+      "x": 1318.193388964194,
+      "y": 622.8237757566295,
+      "side": 338,
+      "angle": 33.968908804424444
+    },
+    {
+      "file": "ref_H4.png",
+      "x": 407.47019752112374,
+      "y": 638.3221839908269,
+      "side": 327,
+      "angle": -10.45639112206246
+    },
+    {
+      "file": "face_88.png",
+      "x": 1496.8028750226329,
+      "y": 438.90851097483227,
+      "side": 305,
+      "angle": 4.006783196029062
+    },
+    {
+      "file": "face_73.png",
+      "x": 582.954270434576,
+      "y": 849.0823575223601,
+      "side": 298,
+      "angle": 12.667491553170223
+    },
+    {
+      "file": "face_91.png",
+      "x": 1488.2396805189157,
+      "y": 677.5060930737047,
+      "side": 304,
+      "angle": -33.324475906102364
+    },
+    {
+      "file": "face_90.png",
+      "x": 902.9660884765937,
+      "y": 220.87199305228484,
+      "side": 297,
+      "angle": 35.533277240484296
+    },
+    {
+      "file": "face_60.png",
+      "x": 803.4894821725763,
+      "y": 834.7305388943895,
+      "side": 305,
+      "angle": -13.415419151019407
+    },
+    {
+      "file": "face_93.png",
+      "x": 1103.1207613911374,
+      "y": 162.43909405437242,
+      "side": 316,
+      "angle": 0.14994334627829886
+    },
+    {
+      "file": "face_66.png",
+      "x": 1337.5400015806745,
+      "y": 872.1093608893498,
+      "side": 320,
+      "angle": 32.784767663381814
+    },
+    {
+      "file": "face_52.png",
+      "x": 360.34234318892084,
+      "y": 444.0058743719972,
+      "side": 318,
+      "angle": 72.34391427123231
+    },
+    {
+      "file": "face_86.png",
+      "x": 1465.5248499000716,
+      "y": 238.54502611506487,
+      "side": 314,
+      "angle": -25.259645412452247
+    },
+    {
+      "file": "face_55.png",
+      "x": 1728.0260715672352,
+      "y": 400.05877362328226,
+      "side": 321,
+      "angle": 3.872459618420187
+    },
+    {
+      "file": "face_95.png",
+      "x": 1716.4986710437033,
+      "y": 604.1788879456537,
+      "side": 297,
+      "angle": 23.129785194083595
+    },
+    {
+      "file": "face_62.png",
+      "x": 1304.3583111141627,
+      "y": 196.89986887356122,
+      "side": 349,
+      "angle": -18.418609296343
+    },
+    {
+      "file": "face_87.png",
+      "x": 218.27054805143024,
+      "y": 672.3087023757797,
+      "side": 337,
+      "angle": -26.46267294927698
+    },
+    {
+      "file": "face_59.png",
+      "x": 405.1211364932948,
+      "y": 863.0331794001746,
+      "side": 300,
+      "angle": 28.353771748246587
+    },
+    {
+      "file": "pink.png",
+      "x": 583.2666329381175,
+      "y": 171.23846676667893,
+      "side": 318,
+      "angle": 1.2386008308103982
+    },
+    {
+      "file": "pink.png",
+      "x": 1515.1768440143956,
+      "y": 927.1784837270407,
+      "side": 296,
+      "angle": -13.700781548570681
+    },
+    {
+      "file": "yellow.png",
+      "x": 201.28864238265646,
+      "y": 427.13231506163913,
+      "side": 327,
+      "angle": -33.90980011679968
+    },
+    {
+      "file": "face_94.png",
+      "x": 362.81701866222437,
+      "y": 174.72598505384812,
+      "side": 320,
+      "angle": 35.670250243283505
+    },
+    {
+      "file": "face_61.png",
+      "x": 188.53635005913543,
+      "y": 235.952174685858,
+      "side": 336,
+      "angle": -2.8519037801629636
+    },
+    {
+      "file": "face_65.png",
+      "x": 833.0675948302252,
+      "y": 1099.7817888119077,
+      "side": 326,
+      "angle": -17.385345632231413
+    },
+    {
+      "file": "face_71.png",
+      "x": -32.41089404569223,
+      "y": 658.0202436813571,
+      "side": 314,
+      "angle": 90.3249669940436
+    },
+    {
+      "file": "face_83.png",
+      "x": 584.8608216653852,
+      "y": -21.09078213963008,
+      "side": 337,
+      "angle": 15.106151063554655
+    },
+    {
+      "file": "face_80.png",
+      "x": 1931.5413154015137,
+      "y": 661.0849416865198,
+      "side": 328,
+      "angle": 5.01669292306827
+    },
+    {
+      "file": "face_53.png",
+      "x": 1773.745652860036,
+      "y": 912.03137777703,
+      "side": 348,
+      "angle": -22.799828372035897
+    },
+    {
+      "file": "face_84.png",
+      "x": -73.26026840188985,
+      "y": 406.45996668345805,
+      "side": 299,
+      "angle": -18.061541296773893
+    },
+    {
+      "file": "face_81.png",
+      "x": 1064.8475300160087,
+      "y": -16.604610326264222,
+      "side": 314,
+      "angle": 19.859720715790353
+    },
+    {
+      "file": "green.png",
+      "x": 1712.12778490869,
+      "y": 179.48773791955392,
+      "side": 341,
+      "angle": -22.137230263586623
+    },
+    {
+      "file": "yellow.png",
+      "x": 146.14166836297557,
+      "y": 916.9523736405289,
+      "side": 346,
+      "angle": 0.3894308842294194
+    },
+    {
+      "file": "face_77.png",
+      "x": 1953.7488622421351,
+      "y": 447.12270246460224,
+      "side": 343,
+      "angle": -30.546596235306893
+    },
+    {
+      "file": "face_58.png",
+      "x": 1311.6503553375192,
+      "y": -20.5603045848912,
+      "side": 317,
+      "angle": 13.83551680567404
+    }
+  ],
+  "frame_map": [
+    {
+      "frame": 0,
+      "drawing": "intro_00",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": false,
+      "vertical_offset": null
+    },
+    {
+      "frame": 1,
+      "drawing": "intro_00",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": false,
+      "vertical_offset": null
+    },
+    {
+      "frame": 2,
+      "drawing": "intro_00",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": false,
+      "vertical_offset": null
+    },
+    {
+      "frame": 3,
+      "drawing": "intro_01",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": false,
+      "vertical_offset": null
+    },
+    {
+      "frame": 4,
+      "drawing": "intro_01",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": false,
+      "vertical_offset": null
+    },
+    {
+      "frame": 5,
+      "drawing": "intro_01",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": false,
+      "vertical_offset": null
+    },
+    {
+      "frame": 6,
+      "drawing": "intro_02",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 860
+    },
+    {
+      "frame": 7,
+      "drawing": "intro_02",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 860
+    },
+    {
+      "frame": 8,
+      "drawing": "intro_02",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 860
+    },
+    {
+      "frame": 9,
+      "drawing": "intro_03",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 802
+    },
+    {
+      "frame": 10,
+      "drawing": "intro_03",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 802
+    },
+    {
+      "frame": 11,
+      "drawing": "intro_03",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 802
+    },
+    {
+      "frame": 12,
+      "drawing": "intro_04",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 645
+    },
+    {
+      "frame": 13,
+      "drawing": "intro_04",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 645
+    },
+    {
+      "frame": 14,
+      "drawing": "intro_04",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 645
+    },
+    {
+      "frame": 15,
+      "drawing": "intro_05",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 430
+    },
+    {
+      "frame": 16,
+      "drawing": "intro_05",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 430
+    },
+    {
+      "frame": 17,
+      "drawing": "intro_05",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 430
+    },
+    {
+      "frame": 18,
+      "drawing": "intro_06",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 215
+    },
+    {
+      "frame": 19,
+      "drawing": "intro_06",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 215
+    },
+    {
+      "frame": 20,
+      "drawing": "intro_06",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 215
+    },
+    {
+      "frame": 21,
+      "drawing": "intro_07",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 58
+    },
+    {
+      "frame": 22,
+      "drawing": "intro_07",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 58
+    },
+    {
+      "frame": 23,
+      "drawing": "intro_07",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 58
+    },
+    {
+      "frame": 24,
+      "drawing": "intro_08",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 0
+    },
+    {
+      "frame": 25,
+      "drawing": "intro_08",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 0
+    },
+    {
+      "frame": 26,
+      "drawing": "intro_08",
+      "phase": "entrance",
+      "table_cards": 0,
+      "hand_layer": true,
+      "vertical_offset": 0
+    },
+    {
+      "frame": 27,
+      "drawing": "pose_00",
+      "phase": "original",
+      "base_frame": 0,
+      "table_cards": 0,
+      "hand": true
+    },
+    {
+      "frame": 28,
+      "drawing": "pose_00",
+      "phase": "original",
+      "base_frame": 1,
+      "table_cards": 0,
+      "hand": true
+    },
+    {
+      "frame": 29,
+      "drawing": "pose_00",
+      "phase": "original",
+      "base_frame": 2,
+      "table_cards": 0,
+      "hand": true
+    },
+    {
+      "frame": 30,
+      "drawing": "pose_01",
+      "phase": "original",
+      "base_frame": 3,
+      "table_cards": 0,
+      "hand": true
+    },
+    {
+      "frame": 31,
+      "drawing": "pose_01",
+      "phase": "original",
+      "base_frame": 4,
+      "table_cards": 0,
+      "hand": true
+    },
+    {
+      "frame": 32,
+      "drawing": "pose_01",
+      "phase": "original",
+      "base_frame": 5,
+      "table_cards": 0,
+      "hand": true
+    },
+    {
+      "frame": 33,
+      "drawing": "pose_02",
+      "phase": "original",
+      "base_frame": 6,
+      "table_cards": 0,
+      "hand": true
+    },
+    {
+      "frame": 34,
+      "drawing": "pose_02",
+      "phase": "original",
+      "base_frame": 7,
+      "table_cards": 0,
+      "hand": true
+    },
+    {
+      "frame": 35,
+      "drawing": "pose_02",
+      "phase": "original",
+      "base_frame": 8,
+      "table_cards": 0,
+      "hand": true
+    },
+    {
+      "frame": 36,
+      "drawing": "pose_03",
+      "phase": "original",
+      "base_frame": 9,
+      "table_cards": 0,
+      "hand": true
+    },
+    {
+      "frame": 37,
+      "drawing": "pose_03",
+      "phase": "original",
+      "base_frame": 10,
+      "table_cards": 0,
+      "hand": true
+    },
+    {
+      "frame": 38,
+      "drawing": "pose_03",
+      "phase": "original",
+      "base_frame": 11,
+      "table_cards": 0,
+      "hand": true
+    },
+    {
+      "frame": 39,
+      "drawing": "pose_04",
+      "phase": "original",
+      "base_frame": 12,
+      "table_cards": 0,
+      "hand": true
+    },
+    {
+      "frame": 40,
+      "drawing": "pose_04",
+      "phase": "original",
+      "base_frame": 13,
+      "table_cards": 0,
+      "hand": true
+    },
+    {
+      "frame": 41,
+      "drawing": "pose_04",
+      "phase": "original",
+      "base_frame": 14,
+      "table_cards": 0,
+      "hand": true
+    },
+    {
+      "frame": 42,
+      "drawing": "pose_05",
+      "phase": "original",
+      "base_frame": 15,
+      "table_cards": 3,
+      "hand": true
+    },
+    {
+      "frame": 43,
+      "drawing": "pose_05",
+      "phase": "original",
+      "base_frame": 16,
+      "table_cards": 3,
+      "hand": true
+    },
+    {
+      "frame": 44,
+      "drawing": "pose_05",
+      "phase": "original",
+      "base_frame": 17,
+      "table_cards": 3,
+      "hand": true
+    },
+    {
+      "frame": 45,
+      "drawing": "pose_06",
+      "phase": "original",
+      "base_frame": 18,
+      "table_cards": 8,
+      "hand": true
+    },
+    {
+      "frame": 46,
+      "drawing": "pose_06",
+      "phase": "original",
+      "base_frame": 19,
+      "table_cards": 8,
+      "hand": true
+    },
+    {
+      "frame": 47,
+      "drawing": "pose_06",
+      "phase": "original",
+      "base_frame": 20,
+      "table_cards": 8,
+      "hand": true
+    },
+    {
+      "frame": 48,
+      "drawing": "pose_07",
+      "phase": "original",
+      "base_frame": 21,
+      "table_cards": 16,
+      "hand": true
+    },
+    {
+      "frame": 49,
+      "drawing": "pose_07",
+      "phase": "original",
+      "base_frame": 22,
+      "table_cards": 16,
+      "hand": true
+    },
+    {
+      "frame": 50,
+      "drawing": "pose_07",
+      "phase": "original",
+      "base_frame": 23,
+      "table_cards": 16,
+      "hand": true
+    },
+    {
+      "frame": 51,
+      "drawing": "pose_08",
+      "phase": "original",
+      "base_frame": 24,
+      "table_cards": 26,
+      "hand": true
+    },
+    {
+      "frame": 52,
+      "drawing": "pose_08",
+      "phase": "original",
+      "base_frame": 25,
+      "table_cards": 26,
+      "hand": true
+    },
+    {
+      "frame": 53,
+      "drawing": "pose_08",
+      "phase": "original",
+      "base_frame": 26,
+      "table_cards": 26,
+      "hand": true
+    },
+    {
+      "frame": 54,
+      "drawing": "pose_09",
+      "phase": "original",
+      "base_frame": 27,
+      "table_cards": 37,
+      "hand": true
+    },
+    {
+      "frame": 55,
+      "drawing": "pose_09",
+      "phase": "original",
+      "base_frame": 28,
+      "table_cards": 37,
+      "hand": true
+    },
+    {
+      "frame": 56,
+      "drawing": "pose_09",
+      "phase": "original",
+      "base_frame": 29,
+      "table_cards": 37,
+      "hand": true
+    },
+    {
+      "frame": 57,
+      "drawing": "pose_10",
+      "phase": "original",
+      "base_frame": 30,
+      "table_cards": 40,
+      "hand": true
+    },
+    {
+      "frame": 58,
+      "drawing": "pose_10",
+      "phase": "original",
+      "base_frame": 31,
+      "table_cards": 40,
+      "hand": true
+    },
+    {
+      "frame": 59,
+      "drawing": "pose_10",
+      "phase": "original",
+      "base_frame": 32,
+      "table_cards": 40,
+      "hand": true
+    },
+    {
+      "frame": 60,
+      "drawing": "pose_11",
+      "phase": "original",
+      "base_frame": 33,
+      "table_cards": 40,
+      "hand": true
+    },
+    {
+      "frame": 61,
+      "drawing": "pose_11",
+      "phase": "original",
+      "base_frame": 34,
+      "table_cards": 40,
+      "hand": true
+    },
+    {
+      "frame": 62,
+      "drawing": "pose_11",
+      "phase": "original",
+      "base_frame": 35,
+      "table_cards": 40,
+      "hand": true
+    },
+    {
+      "frame": 63,
+      "drawing": "pose_12",
+      "phase": "original",
+      "base_frame": 36,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 64,
+      "drawing": "pose_12",
+      "phase": "original",
+      "base_frame": 37,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 65,
+      "drawing": "pose_12",
+      "phase": "original",
+      "base_frame": 38,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 66,
+      "drawing": "pose_13",
+      "phase": "original",
+      "base_frame": 39,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 67,
+      "drawing": "pose_13",
+      "phase": "original",
+      "base_frame": 40,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 68,
+      "drawing": "pose_13",
+      "phase": "original",
+      "base_frame": 41,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 69,
+      "drawing": "pose_14",
+      "phase": "original",
+      "base_frame": 42,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 70,
+      "drawing": "pose_14",
+      "phase": "original",
+      "base_frame": 43,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 71,
+      "drawing": "pose_14",
+      "phase": "original",
+      "base_frame": 44,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 72,
+      "drawing": "pose_15",
+      "phase": "original",
+      "base_frame": 45,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 73,
+      "drawing": "pose_15",
+      "phase": "original",
+      "base_frame": 46,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 74,
+      "drawing": "pose_15",
+      "phase": "original",
+      "base_frame": 47,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 75,
+      "drawing": "pose_16",
+      "phase": "original",
+      "base_frame": 48,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 76,
+      "drawing": "pose_16",
+      "phase": "original",
+      "base_frame": 49,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 77,
+      "drawing": "pose_16",
+      "phase": "original",
+      "base_frame": 50,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 78,
+      "drawing": "pose_17",
+      "phase": "original",
+      "base_frame": 51,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 79,
+      "drawing": "pose_17",
+      "phase": "original",
+      "base_frame": 52,
+      "table_cards": 40,
+      "hand": false
+    },
+    {
+      "frame": 80,
+      "drawing": "pose_17",
+      "phase": "original",
+      "base_frame": 53,
+      "table_cards": 40,
+      "hand": false
+    }
+  ]
+}

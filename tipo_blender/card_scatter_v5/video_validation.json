@@ -1,0 +1,23 @@
+{
+  "file": "tipo_card_scatter_v5_pink_40cards_1080p.mp4",
+  "bytes": 831356,
+  "sha256": "ad584ed999d722f8de4510ff00b1653188e2dc358859361b3f9151c6d21b0d71",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 81,
+  "duration_seconds": 2.7,
+  "audio": false,
+  "full_decode": "passed",
+  "final_cards": 40,
+  "background_color": "#FF006F",
+  "opening_six_frames_empty": true,
+  "hand_enters_from_below": true,
+  "entrance_joins_original_without_jump": true,
+  "all_original_54_frames_retained_with_same_timing": true,
+  "original_card_layout_unchanged": true,
+  "source_artwork_unchanged": true,
+  "held_frames_byte_identical": true
+}
