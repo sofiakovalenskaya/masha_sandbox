@@ -1,0 +1,23 @@
+{
+  "file": "tipo_blue_card_exit_v1_1080p.mp4",
+  "bytes": 472797,
+  "sha256": "678c24e5f30e7fa57cbec961b9dd2b24b11a9653dea3f92666d932d92f8dd9f7",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 60,
+  "duration_seconds": 2,
+  "audio": false,
+  "separate_clip": true,
+  "first_source_png_byte_identical_to_previous_last_png": true,
+  "encoded_seam_mean_rgb_difference_0_255": 0.20360677083333334,
+  "anticipation_px": 80,
+  "card_side_px": 972,
+  "card_scale_constant": true,
+  "card_rotation_constant": true,
+  "launch_direction": "right",
+  "final_32_source_frames_empty_background": true,
+  "full_decode": "passed"
+}

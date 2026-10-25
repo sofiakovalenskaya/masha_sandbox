@@ -1,0 +1,522 @@
+{
+  "source_video": "tipo_card_scatter_v11_flip_color_cycles_1080p.mp4",
+  "separate_clip": true,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 60,
+  "duration_seconds": 2.0,
+  "card_side_px": 972,
+  "card_start_center": [
+    960,
+    540
+  ],
+  "anticipation_px": 80,
+  "anticipation_frames": 12,
+  "launch_frames": 15,
+  "start_hold_frames": 3,
+  "empty_background_frames": 30,
+  "first_frame_png_matches_previous_final": true,
+  "source_final_sha256": "e7e4298ad88428fdfce65b3e41a13bb1095728769837b3a83f6d07ec1305c498",
+  "source_artwork_sha256": "debede79c518544e99a779a07f784f689efd6c510d67d0bc43ccb48c51675be2",
+  "camera_fixed": true,
+  "card_size_fixed": true,
+  "card_rotation_degrees": 0,
+  "frame_map": [
+    {
+      "frame": 0,
+      "phase": "matching_start",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 960
+    },
+    {
+      "frame": 1,
+      "phase": "matching_start",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 960
+    },
+    {
+      "frame": 2,
+      "phase": "matching_start",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 960
+    },
+    {
+      "frame": 3,
+      "phase": "anticipation_left",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 959.5929783950618
+    },
+    {
+      "frame": 4,
+      "phase": "anticipation_left",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 957.1604938271605
+    },
+    {
+      "frame": 5,
+      "phase": "anticipation_left",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 951.71875
+    },
+    {
+      "frame": 6,
+      "phase": "anticipation_left",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 943.2098765432099
+    },
+    {
+      "frame": 7,
+      "phase": "anticipation_left",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 932.2704475308642
+    },
+    {
+      "frame": 8,
+      "phase": "anticipation_left",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 920.0
+    },
+    {
+      "frame": 9,
+      "phase": "anticipation_left",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 907.7295524691358
+    },
+    {
+      "frame": 10,
+      "phase": "anticipation_left",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 896.7901234567901
+    },
+    {
+      "frame": 11,
+      "phase": "anticipation_left",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 888.28125
+    },
+    {
+      "frame": 12,
+      "phase": "anticipation_left",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 882.8395061728395
+    },
+    {
+      "frame": 13,
+      "phase": "anticipation_left",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 880.4070216049382
+    },
+    {
+      "frame": 14,
+      "phase": "anticipation_left",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 880.0
+    },
+    {
+      "frame": 15,
+      "phase": "launch_right",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 902.5899697166225,
+      "motion_blur": true
+    },
+    {
+      "frame": 16,
+      "phase": "launch_right",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 950.8949240465248,
+      "motion_blur": true
+    },
+    {
+      "frame": 17,
+      "phase": "launch_right",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 1018.409442389747,
+      "motion_blur": true
+    },
+    {
+      "frame": 18,
+      "phase": "launch_right",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 1102.4921201140053,
+      "motion_blur": true
+    },
+    {
+      "frame": 19,
+      "phase": "launch_right",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 1201.526043118016,
+      "motion_blur": true
+    },
+    {
+      "frame": 20,
+      "phase": "launch_right",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 1314.3753899910078,
+      "motion_blur": true
+    },
+    {
+      "frame": 21,
+      "phase": "launch_right",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 1440.179762036218,
+      "motion_blur": true
+    },
+    {
+      "frame": 22,
+      "phase": "launch_right",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 1578.2551173951292,
+      "motion_blur": true
+    },
+    {
+      "frame": 23,
+      "phase": "launch_right",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 1728.03892979742,
+      "motion_blur": true
+    },
+    {
+      "frame": 24,
+      "phase": "launch_right",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 1889.0568819602418,
+      "motion_blur": true
+    },
+    {
+      "frame": 25,
+      "phase": "launch_right",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 2060.90124162662,
+      "motion_blur": true
+    },
+    {
+      "frame": 26,
+      "phase": "launch_right",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 2243.2160940185763,
+      "motion_blur": true
+    },
+    {
+      "frame": 27,
+      "phase": "launch_right",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 2435.6868475950628,
+      "motion_blur": true
+    },
+    {
+      "frame": 28,
+      "phase": "launch_right",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 2638.0325330288106,
+      "motion_blur": true
+    },
+    {
+      "frame": 29,
+      "phase": "launch_right",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_center_x": 2850.0,
+      "motion_blur": true
+    },
+    {
+      "frame": 30,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 31,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 32,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 33,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 34,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 35,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 36,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 37,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 38,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 39,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 40,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 41,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 42,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 43,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 44,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 45,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 46,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 47,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 48,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 49,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 50,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 51,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 52,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 53,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 54,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 55,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 56,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 57,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 58,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    },
+    {
+      "frame": 59,
+      "phase": "empty_pink",
+      "card_side_px": 972,
+      "card_center_y": 540,
+      "card_angle": 0,
+      "card_visible": false
+    }
+  ]
+}
