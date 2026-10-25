@@ -1,0 +1,45 @@
+{
+  "approach": "Restarted from the three clean user-provided slides; FRONT image used only as the print-texture reference.",
+  "format": "PNG",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "files": [
+    {
+      "file": "tipo_slide_28_texture_v1_1920x1080.png",
+      "text": "УВИДЕЛ",
+      "bytes": 1102107,
+      "sha256": "2adb095063325e557b0071f96c75b5eabe3e2eca119d6118fcff6f56bcc8f688",
+      "generated_source_dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "tipo_slide_29_texture_v1_1920x1080.png",
+      "text": "КРИКНУЛ",
+      "bytes": 1066922,
+      "sha256": "9686d75a2b54e5316f5da5b329d96fefda15a3cd033bca53adfc5456a8f5704a",
+      "generated_source_dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "tipo_slide_30_texture_v1_1920x1080.png",
+      "text": "ВЫИГРАЛ!",
+      "bytes": 1124372,
+      "sha256": "65cb8b84096ef80478368f45f048f9739d2e46a80aa35f53d68b14d82a90b59b",
+      "generated_source_dimensions": [
+        1672,
+        941
+      ]
+    }
+  ],
+  "archive": {
+    "file": "tipo_textured_slides_v1.zip",
+    "bytes": 3294891,
+    "sha256": "d315540a6fd644ea9ee39ec5635b13042c743b4eef4a06f57002da3f6432deaf"
+  }
+}
