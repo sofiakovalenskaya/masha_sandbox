@@ -1,0 +1,31 @@
+{
+  "file": "tipo_card_scatter_v7_sweep_left_black_1080p.mp4",
+  "bytes": 1040202,
+  "sha256": "beaf039109176039225edab37391fc1305ec5082281be7ef402a860168a150e8",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 153,
+  "duration_seconds": 5.1,
+  "audio": false,
+  "original_81_png_frames_byte_identical": true,
+  "reconstructed_layout_seam_pixel_identical": true,
+  "all_39_cards_move_only_left": true,
+  "all_39_cards_exit_left": true,
+  "hand_returns_and_exits": true,
+  "all_physical_card_sides_px": 320,
+  "final_visible_cards": 1,
+  "final_center": [
+    960,
+    540
+  ],
+  "final_angle": 0,
+  "final_side": "black_back",
+  "final_black_field_mean_rgb": 7.3677777777777775,
+  "no_other_pixels_changed_outside_final_card_roi": true,
+  "final_hold_frames": 18,
+  "new_pose_holds_frames": 3,
+  "full_decode": "passed"
+}

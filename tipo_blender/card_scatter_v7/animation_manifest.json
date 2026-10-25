@@ -1,0 +1,4888 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 153,
+  "duration_seconds": 5.1,
+  "preserved_original_frames": 81,
+  "hold_frames": 3,
+  "starting_cards": 40,
+  "final_visible_cards": 1,
+  "uniform_physical_card_side_px": 320,
+  "final_card_center": [
+    960,
+    540
+  ],
+  "final_card_angle": 0,
+  "final_card_back_color": "black",
+  "final_hold_frames": 18,
+  "flip_occlusion_step": 5,
+  "sweep_direction": "left",
+  "hand_appearance": "same woman, flat palm-down sweeping pose",
+  "asset_sha256": {
+    "black_back.png": "b70cbad95dbc040aad484a82aa483c6109b6ff433ae9b2da07b57c5ab80fa7f4",
+    "sweep_hand.png": "45680af8d94ed6bda2226b5e239923524959220f719b7fdbd983e56adcf3526a"
+  },
+  "poses": [
+    {
+      "file": "return_00.png",
+      "phase": "hand_return",
+      "hand_tip_x": 1840.0,
+      "hand_vertical_offset": 650,
+      "hand_bbox": [
+        1568,
+        963,
+        1687,
+        986
+      ],
+      "visible_moving_cards": 39,
+      "hero_side": "face"
+    },
+    {
+      "file": "return_01.png",
+      "phase": "hand_return",
+      "hand_tip_x": 1840.0,
+      "hand_vertical_offset": 400,
+      "hand_bbox": [
+        1568,
+        713,
+        1920,
+        1050
+      ],
+      "visible_moving_cards": 39,
+      "hero_side": "face"
+    },
+    {
+      "file": "return_02.png",
+      "phase": "hand_return",
+      "hand_tip_x": 1840.0,
+      "hand_vertical_offset": 160,
+      "hand_bbox": [
+        1568,
+        473,
+        1920,
+        1054
+      ],
+      "visible_moving_cards": 39,
+      "hero_side": "face"
+    },
+    {
+      "file": "return_03.png",
+      "phase": "hand_return",
+      "hand_tip_x": 1840.0,
+      "hand_vertical_offset": 0,
+      "hand_bbox": [
+        1438,
+        313,
+        1920,
+        1032
+      ],
+      "visible_moving_cards": 39,
+      "hero_side": "face"
+    },
+    {
+      "file": "sweep_00.png",
+      "phase": "sweep_left",
+      "hand_tip_x": 1840.0,
+      "pressure_front_x": 2140.0,
+      "hand_bbox": [
+        1438,
+        313,
+        1920,
+        1032
+      ],
+      "visible_moving_cards": 39,
+      "hero_side": "face",
+      "hero_center": [
+        960,
+        502
+      ],
+      "hero_projected_width": 320,
+      "hero_physical_side": 320
+    },
+    {
+      "file": "sweep_01.png",
+      "phase": "sweep_left",
+      "hand_tip_x": 1761.0443275732532,
+      "pressure_front_x": 2061.044327573253,
+      "hand_bbox": [
+        1359,
+        313,
+        1920,
+        1032
+      ],
+      "visible_moving_cards": 39,
+      "hero_side": "face",
+      "hero_center": [
+        960,
+        502
+      ],
+      "hero_projected_width": 320,
+      "hero_physical_side": 320
+    },
+    {
+      "file": "sweep_02.png",
+      "phase": "sweep_left",
+      "hand_tip_x": 1544.5529676934636,
+      "pressure_front_x": 1844.5529676934636,
+      "hand_bbox": [
+        1143,
+        313,
+        1920,
+        1032
+      ],
+      "visible_moving_cards": 39,
+      "hero_side": "face",
+      "hero_center": [
+        960,
+        502
+      ],
+      "hero_projected_width": 320,
+      "hero_physical_side": 320
+    },
+    {
+      "file": "sweep_03.png",
+      "phase": "sweep_left",
+      "hand_tip_x": 1221.0894064613074,
+      "pressure_front_x": 1521.0894064613074,
+      "hand_bbox": [
+        819,
+        228,
+        1920,
+        1080
+      ],
+      "visible_moving_cards": 39,
+      "hero_side": "face",
+      "hero_center": [
+        960,
+        502
+      ],
+      "hero_projected_width": 320,
+      "hero_physical_side": 320
+    },
+    {
+      "file": "sweep_04.png",
+      "phase": "sweep_left",
+      "hand_tip_x": 821.2171299774607,
+      "pressure_front_x": 1121.2171299774607,
+      "hand_bbox": [
+        419,
+        203,
+        1890,
+        1080
+      ],
+      "visible_moving_cards": 39,
+      "hero_side": "face",
+      "hero_center": [
+        960,
+        515
+      ],
+      "hero_projected_width": 210,
+      "hero_physical_side": 320
+    },
+    {
+      "file": "sweep_05.png",
+      "phase": "sweep_left",
+      "hand_tip_x": 375.4996243425999,
+      "pressure_front_x": 675.4996243425999,
+      "hand_bbox": [
+        62,
+        203,
+        1575,
+        1080
+      ],
+      "visible_moving_cards": 39,
+      "hero_side": "edge",
+      "hero_center": [
+        960,
+        532
+      ],
+      "hero_projected_width": 18,
+      "hero_physical_side": 320
+    },
+    {
+      "file": "sweep_06.png",
+      "phase": "sweep_left",
+      "hand_tip_x": -85.49962434259942,
+      "pressure_front_x": 214.50037565740058,
+      "hand_bbox": [
+        0,
+        203,
+        1115,
+        1080
+      ],
+      "visible_moving_cards": 39,
+      "hero_side": "black_back",
+      "hero_center": [
+        960,
+        540
+      ],
+      "hero_projected_width": 210,
+      "hero_physical_side": 320
+    },
+    {
+      "file": "sweep_07.png",
+      "phase": "sweep_left",
+      "hand_tip_x": -531.2171299774604,
+      "pressure_front_x": -231.21712997746044,
+      "hand_bbox": [
+        0,
+        203,
+        669,
+        1080
+      ],
+      "visible_moving_cards": 0,
+      "hero_side": "black_back",
+      "hero_center": [
+        960,
+        540
+      ],
+      "hero_projected_width": 320,
+      "hero_physical_side": 320
+    },
+    {
+      "file": "sweep_08.png",
+      "phase": "sweep_left",
+      "hand_tip_x": -931.0894064613071,
+      "pressure_front_x": -631.0894064613071,
+      "hand_bbox": [
+        0,
+        203,
+        269,
+        1080
+      ],
+      "visible_moving_cards": 0,
+      "hero_side": "black_back",
+      "hero_center": [
+        960,
+        540
+      ],
+      "hero_projected_width": 320,
+      "hero_physical_side": 320
+    },
+    {
+      "file": "sweep_09.png",
+      "phase": "sweep_left",
+      "hand_tip_x": -1254.5529676934639,
+      "pressure_front_x": -954.5529676934639,
+      "hand_bbox": null,
+      "visible_moving_cards": 0,
+      "hero_side": "black_back",
+      "hero_center": [
+        960,
+        540
+      ],
+      "hero_projected_width": 320,
+      "hero_physical_side": 320
+    },
+    {
+      "file": "sweep_10.png",
+      "phase": "sweep_left",
+      "hand_tip_x": -1471.0443275732532,
+      "pressure_front_x": -1171.0443275732532,
+      "hand_bbox": null,
+      "visible_moving_cards": 0,
+      "hero_side": "black_back",
+      "hero_center": [
+        960,
+        540
+      ],
+      "hero_projected_width": 320,
+      "hero_physical_side": 320
+    },
+    {
+      "file": "sweep_11.png",
+      "phase": "sweep_left",
+      "hand_tip_x": -1550.0,
+      "pressure_front_x": -1250.0,
+      "hand_bbox": null,
+      "visible_moving_cards": 0,
+      "hero_side": "black_back",
+      "hero_center": [
+        960,
+        540
+      ],
+      "hero_projected_width": 320,
+      "hero_physical_side": 320
+    },
+    {
+      "file": "one_black_card.png",
+      "phase": "final_one_card",
+      "visible_moving_cards": 0,
+      "hand_bbox": null,
+      "hero_side": "black_back",
+      "hero_center": [
+        960,
+        540
+      ],
+      "hero_physical_side": 320
+    }
+  ],
+  "card_motion": [
+    {
+      "step": 0,
+      "cards": [
+        {
+          "card": 0,
+          "x": 1096.714445318507,
+          "y": 631.7524511412597,
+          "angle": -33.34747154314356,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 1,
+          "x": 622.87035237847,
+          "y": 673.2113055361019,
+          "angle": 6.578187300531724,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 2,
+          "x": 856.3871984961539,
+          "y": 691.5916159642644,
+          "angle": -5.66561522474538,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 3,
+          "x": 1040.7095394366174,
+          "y": 390.8028941973306,
+          "angle": 102.70978461265629,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 4,
+          "x": 655.6979592501251,
+          "y": 387.96832765740896,
+          "angle": -21.944576596260447,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 5,
+          "x": 1298.4996044606155,
+          "y": 446.9429854220268,
+          "angle": -0.7099974801309301,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 6,
+          "x": 1067.5893025175885,
+          "y": 842.6383352061154,
+          "angle": -1.206442667939129,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 7,
+          "x": 1318.193388964194,
+          "y": 622.8237757566295,
+          "angle": 33.968908804424444,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 8,
+          "x": 407.47019752112374,
+          "y": 638.3221839908269,
+          "angle": -10.45639112206246,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 9,
+          "x": 1496.8028750226329,
+          "y": 438.90851097483227,
+          "angle": 4.006783196029062,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 10,
+          "x": 582.954270434576,
+          "y": 849.0823575223601,
+          "angle": 12.667491553170223,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 11,
+          "x": 1488.2396805189157,
+          "y": 677.5060930737047,
+          "angle": -33.324475906102364,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 12,
+          "x": 902.9660884765937,
+          "y": 220.87199305228484,
+          "angle": 35.533277240484296,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 13,
+          "x": 803.4894821725763,
+          "y": 834.7305388943895,
+          "angle": -13.415419151019407,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 14,
+          "x": 1103.1207613911374,
+          "y": 162.43909405437242,
+          "angle": 0.14994334627829886,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 15,
+          "x": 1337.5400015806745,
+          "y": 872.1093608893498,
+          "angle": 32.784767663381814,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 16,
+          "x": 360.34234318892084,
+          "y": 444.0058743719972,
+          "angle": 72.34391427123231,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 17,
+          "x": 1465.5248499000716,
+          "y": 238.54502611506487,
+          "angle": -25.259645412452247,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 18,
+          "x": 1728.0260715672352,
+          "y": 400.05877362328226,
+          "angle": 3.872459618420187,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 19,
+          "x": 1716.4986710437033,
+          "y": 604.1788879456537,
+          "angle": 23.129785194083595,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 20,
+          "x": 1304.3583111141627,
+          "y": 196.89986887356122,
+          "angle": -18.418609296343,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 21,
+          "x": 218.27054805143024,
+          "y": 672.3087023757797,
+          "angle": -26.46267294927698,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 22,
+          "x": 405.1211364932948,
+          "y": 863.0331794001746,
+          "angle": 28.353771748246587,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 23,
+          "x": 583.2666329381175,
+          "y": 171.23846676667893,
+          "angle": 1.2386008308103982,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 24,
+          "x": 1515.1768440143956,
+          "y": 927.1784837270407,
+          "angle": -13.700781548570681,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 25,
+          "x": 201.28864238265646,
+          "y": 427.13231506163913,
+          "angle": -33.90980011679968,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 26,
+          "x": 362.81701866222437,
+          "y": 174.72598505384812,
+          "angle": 35.670250243283505,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 27,
+          "x": 188.53635005913543,
+          "y": 235.952174685858,
+          "angle": -2.8519037801629636,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 28,
+          "x": 833.0675948302252,
+          "y": 1099.7817888119077,
+          "angle": -17.385345632231413,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 29,
+          "x": -32.41089404569223,
+          "y": 658.0202436813571,
+          "angle": 90.3249669940436,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 30,
+          "x": 584.8608216653852,
+          "y": -21.09078213963008,
+          "angle": 15.106151063554655,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 31,
+          "x": 1931.5413154015137,
+          "y": 661.0849416865198,
+          "angle": 5.01669292306827,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 32,
+          "x": 1773.745652860036,
+          "y": 912.03137777703,
+          "angle": -22.799828372035897,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 33,
+          "x": -73.26026840188985,
+          "y": 406.45996668345805,
+          "angle": -18.061541296773893,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 34,
+          "x": 1064.8475300160087,
+          "y": -16.604610326264222,
+          "angle": 19.859720715790353,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 35,
+          "x": 1712.12778490869,
+          "y": 179.48773791955392,
+          "angle": -22.137230263586623,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 36,
+          "x": 146.14166836297557,
+          "y": 916.9523736405289,
+          "angle": 0.3894308842294194,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 37,
+          "x": 1919.9013439244904,
+          "y": 447.77228824095613,
+          "angle": -30.66708901896194,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 38,
+          "x": 1311.6503553375192,
+          "y": -20.5603045848912,
+          "angle": 13.83551680567404,
+          "moving": false,
+          "physical_side": 320
+        }
+      ]
+    },
+    {
+      "step": 1,
+      "cards": [
+        {
+          "card": 0,
+          "x": 1096.714445318507,
+          "y": 631.7524511412597,
+          "angle": -33.34747154314356,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 1,
+          "x": 622.87035237847,
+          "y": 673.2113055361019,
+          "angle": 6.578187300531724,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 2,
+          "x": 856.3871984961539,
+          "y": 691.5916159642644,
+          "angle": -5.66561522474538,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 3,
+          "x": 1040.7095394366174,
+          "y": 390.8028941973306,
+          "angle": 102.70978461265629,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 4,
+          "x": 655.6979592501251,
+          "y": 387.96832765740896,
+          "angle": -21.944576596260447,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 5,
+          "x": 1298.4996044606155,
+          "y": 446.9429854220268,
+          "angle": -0.7099974801309301,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 6,
+          "x": 1067.5893025175885,
+          "y": 842.6383352061154,
+          "angle": -1.206442667939129,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 7,
+          "x": 1318.193388964194,
+          "y": 622.8237757566295,
+          "angle": 33.968908804424444,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 8,
+          "x": 407.47019752112374,
+          "y": 638.3221839908269,
+          "angle": -10.45639112206246,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 9,
+          "x": 1496.8028750226329,
+          "y": 438.90851097483227,
+          "angle": 4.006783196029062,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 10,
+          "x": 582.954270434576,
+          "y": 849.0823575223601,
+          "angle": 12.667491553170223,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 11,
+          "x": 1488.2396805189157,
+          "y": 677.5060930737047,
+          "angle": -33.324475906102364,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 12,
+          "x": 902.9660884765937,
+          "y": 220.87199305228484,
+          "angle": 35.533277240484296,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 13,
+          "x": 803.4894821725763,
+          "y": 834.7305388943895,
+          "angle": -13.415419151019407,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 14,
+          "x": 1103.1207613911374,
+          "y": 162.43909405437242,
+          "angle": 0.14994334627829886,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 15,
+          "x": 1337.5400015806745,
+          "y": 872.1093608893498,
+          "angle": 32.784767663381814,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 16,
+          "x": 360.34234318892084,
+          "y": 444.0058743719972,
+          "angle": 72.34391427123231,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 17,
+          "x": 1465.5248499000716,
+          "y": 238.54502611506487,
+          "angle": -25.259645412452247,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 18,
+          "x": 1728.0260715672352,
+          "y": 400.05877362328226,
+          "angle": 3.872459618420187,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 19,
+          "x": 1716.4986710437033,
+          "y": 604.1788879456537,
+          "angle": 23.129785194083595,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 20,
+          "x": 1304.3583111141627,
+          "y": 196.89986887356122,
+          "angle": -18.418609296343,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 21,
+          "x": 218.27054805143024,
+          "y": 672.3087023757797,
+          "angle": -26.46267294927698,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 22,
+          "x": 405.1211364932948,
+          "y": 863.0331794001746,
+          "angle": 28.353771748246587,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 23,
+          "x": 583.2666329381175,
+          "y": 171.23846676667893,
+          "angle": 1.2386008308103982,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 24,
+          "x": 1515.1768440143956,
+          "y": 927.1784837270407,
+          "angle": -13.700781548570681,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 25,
+          "x": 201.28864238265646,
+          "y": 427.13231506163913,
+          "angle": -33.90980011679968,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 26,
+          "x": 362.81701866222437,
+          "y": 174.72598505384812,
+          "angle": 35.670250243283505,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 27,
+          "x": 188.53635005913543,
+          "y": 235.952174685858,
+          "angle": -2.8519037801629636,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 28,
+          "x": 833.0675948302252,
+          "y": 1099.7817888119077,
+          "angle": -17.385345632231413,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 29,
+          "x": -32.41089404569223,
+          "y": 658.0202436813571,
+          "angle": 90.3249669940436,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 30,
+          "x": 584.8608216653852,
+          "y": -21.09078213963008,
+          "angle": 15.106151063554655,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 31,
+          "x": 1887.0077577559755,
+          "y": 659.6682341054088,
+          "angle": 5.01669292306827,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 32,
+          "x": 1773.745652860036,
+          "y": 912.03137777703,
+          "angle": -22.799828372035897,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 33,
+          "x": -73.26026840188985,
+          "y": 406.45996668345805,
+          "angle": -18.061541296773893,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 34,
+          "x": 1064.8475300160087,
+          "y": -16.604610326264222,
+          "angle": 19.859720715790353,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 35,
+          "x": 1712.12778490869,
+          "y": 179.48773791955392,
+          "angle": -22.137230263586623,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 36,
+          "x": 146.14166836297557,
+          "y": 916.9523736405289,
+          "angle": 0.3894308842294194,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 37,
+          "x": 1838.5770013249414,
+          "y": 449.3330270735121,
+          "angle": -30.956593151193342,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 38,
+          "x": 1311.6503553375192,
+          "y": -20.5603045848912,
+          "angle": 13.83551680567404,
+          "moving": false,
+          "physical_side": 320
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "cards": [
+        {
+          "card": 0,
+          "x": 1096.714445318507,
+          "y": 631.7524511412597,
+          "angle": -33.34747154314356,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 1,
+          "x": 622.87035237847,
+          "y": 673.2113055361019,
+          "angle": 6.578187300531724,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 2,
+          "x": 856.3871984961539,
+          "y": 691.5916159642644,
+          "angle": -5.66561522474538,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 3,
+          "x": 1040.7095394366174,
+          "y": 390.8028941973306,
+          "angle": 102.70978461265629,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 4,
+          "x": 655.6979592501251,
+          "y": 387.96832765740896,
+          "angle": -21.944576596260447,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 5,
+          "x": 1298.4996044606155,
+          "y": 446.9429854220268,
+          "angle": -0.7099974801309301,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 6,
+          "x": 1067.5893025175885,
+          "y": 842.6383352061154,
+          "angle": -1.206442667939129,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 7,
+          "x": 1318.193388964194,
+          "y": 622.8237757566295,
+          "angle": 33.968908804424444,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 8,
+          "x": 407.47019752112374,
+          "y": 638.3221839908269,
+          "angle": -10.45639112206246,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 9,
+          "x": 1496.8028750226329,
+          "y": 438.90851097483227,
+          "angle": 4.006783196029062,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 10,
+          "x": 582.954270434576,
+          "y": 849.0823575223601,
+          "angle": 12.667491553170223,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 11,
+          "x": 1488.2396805189157,
+          "y": 677.5060930737047,
+          "angle": -33.324475906102364,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 12,
+          "x": 902.9660884765937,
+          "y": 220.87199305228484,
+          "angle": 35.533277240484296,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 13,
+          "x": 803.4894821725763,
+          "y": 834.7305388943895,
+          "angle": -13.415419151019407,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 14,
+          "x": 1103.1207613911374,
+          "y": 162.43909405437242,
+          "angle": 0.14994334627829886,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 15,
+          "x": 1337.5400015806745,
+          "y": 872.1093608893498,
+          "angle": 32.784767663381814,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 16,
+          "x": 360.34234318892084,
+          "y": 444.0058743719972,
+          "angle": 72.34391427123231,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 17,
+          "x": 1465.5248499000716,
+          "y": 238.54502611506487,
+          "angle": -25.259645412452247,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 18,
+          "x": 1671.686446291759,
+          "y": 402.34026752530974,
+          "angle": 4.070142514123613,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 19,
+          "x": 1629.6476481861948,
+          "y": 603.5959725477214,
+          "angle": 23.73064132706007,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 20,
+          "x": 1304.3583111141627,
+          "y": 196.89986887356122,
+          "angle": -18.418609296343,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 21,
+          "x": 218.27054805143024,
+          "y": 672.3087023757797,
+          "angle": -26.46267294927698,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 22,
+          "x": 405.1211364932948,
+          "y": 863.0331794001746,
+          "angle": 28.353771748246587,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 23,
+          "x": 583.2666329381175,
+          "y": 171.23846676667893,
+          "angle": 1.2386008308103982,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 24,
+          "x": 1515.1768440143956,
+          "y": 927.1784837270407,
+          "angle": -13.700781548570681,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 25,
+          "x": 201.28864238265646,
+          "y": 427.13231506163913,
+          "angle": -33.90980011679968,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 26,
+          "x": 362.81701866222437,
+          "y": 174.72598505384812,
+          "angle": 35.670250243283505,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 27,
+          "x": 188.53635005913543,
+          "y": 235.952174685858,
+          "angle": -2.8519037801629636,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 28,
+          "x": 833.0675948302252,
+          "y": 1099.7817888119077,
+          "angle": -17.385345632231413,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 29,
+          "x": -32.41089404569223,
+          "y": 658.0202436813571,
+          "angle": 90.3249669940436,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 30,
+          "x": 584.8608216653852,
+          "y": -21.09078213963008,
+          "angle": 15.106151063554655,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 31,
+          "x": 1667.269027477989,
+          "y": 652.6778757889609,
+          "angle": 5.01669292306827,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 32,
+          "x": 1630.891834893135,
+          "y": 898.9653341182453,
+          "angle": -22.291287272477348,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 33,
+          "x": -73.26026840188985,
+          "y": 406.45996668345805,
+          "angle": -18.061541296773893,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 34,
+          "x": 1064.8475300160087,
+          "y": -16.604610326264222,
+          "angle": 19.859720715790353,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 35,
+          "x": 1636.0553354364122,
+          "y": 185.65999806847012,
+          "angle": -22.97402720778168,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 36,
+          "x": 146.14166836297557,
+          "y": 916.9523736405289,
+          "angle": 0.3894308842294194,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 37,
+          "x": 1615.5909006487582,
+          "y": 453.6124722595526,
+          "angle": -31.750394804085907,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 38,
+          "x": 1311.6503553375192,
+          "y": -20.5603045848912,
+          "angle": 13.83551680567404,
+          "moving": false,
+          "physical_side": 320
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "cards": [
+        {
+          "card": 0,
+          "x": 1096.714445318507,
+          "y": 631.7524511412597,
+          "angle": -33.34747154314356,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 1,
+          "x": 622.87035237847,
+          "y": 673.2113055361019,
+          "angle": 6.578187300531724,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 2,
+          "x": 856.3871984961539,
+          "y": 691.5916159642644,
+          "angle": -5.66561522474538,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 3,
+          "x": 1040.7095394366174,
+          "y": 390.8028941973306,
+          "angle": 102.70978461265629,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 4,
+          "x": 655.6979592501251,
+          "y": 387.96832765740896,
+          "angle": -21.944576596260447,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 5,
+          "x": 1298.4996044606155,
+          "y": 446.9429854220268,
+          "angle": -0.7099974801309301,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 6,
+          "x": 1067.5893025175885,
+          "y": 842.6383352061154,
+          "angle": -1.206442667939129,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 7,
+          "x": 1298.420069804153,
+          "y": 622.1118145514961,
+          "angle": 33.757737434754105,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 8,
+          "x": 407.47019752112374,
+          "y": 638.3221839908269,
+          "angle": -10.45639112206246,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 9,
+          "x": 1341.510409489709,
+          "y": 442.1253695525355,
+          "angle": 3.469608000789388,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 10,
+          "x": 582.954270434576,
+          "y": 849.0823575223601,
+          "angle": 12.667491553170223,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 11,
+          "x": 1296.6658561024053,
+          "y": 671.528934735999,
+          "angle": -32.63241939753697,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 12,
+          "x": 902.9660884765937,
+          "y": 220.87199305228484,
+          "angle": 35.533277240484296,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 13,
+          "x": 803.4894821725763,
+          "y": 834.7305388943895,
+          "angle": -13.415419151019407,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 14,
+          "x": 1103.1207613911374,
+          "y": 162.43909405437242,
+          "angle": 0.14994334627829886,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 15,
+          "x": 1299.9381565246765,
+          "y": 868.4032291775077,
+          "angle": 32.50902079963783,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 16,
+          "x": 360.34234318892084,
+          "y": 444.0058743719972,
+          "angle": 72.34391427123231,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 17,
+          "x": 1303.390351897492,
+          "y": 251.19907164547644,
+          "angle": -25.259645412452247,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 18,
+          "x": 1333.6670248041557,
+          "y": 416.0284886506727,
+          "angle": 5.256175571974852,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 19,
+          "x": 1286.776273280109,
+          "y": 601.2947330531574,
+          "angle": 26.10270744276255,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 20,
+          "x": 1304.3583111141627,
+          "y": 196.89986887356122,
+          "angle": -18.418609296343,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 21,
+          "x": 218.27054805143024,
+          "y": 672.3087023757797,
+          "angle": -26.46267294927698,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 22,
+          "x": 405.1211364932948,
+          "y": 863.0331794001746,
+          "angle": 28.353771748246587,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 23,
+          "x": 583.2666329381175,
+          "y": 171.23846676667893,
+          "angle": 1.2386008308103982,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 24,
+          "x": 1316.4999801893916,
+          "y": 907.8266832522208,
+          "angle": -13.700781548570681,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 25,
+          "x": 201.28864238265646,
+          "y": 427.13231506163913,
+          "angle": -33.90980011679968,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 26,
+          "x": 362.81701866222437,
+          "y": 174.72598505384812,
+          "angle": 35.670250243283505,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 27,
+          "x": 188.53635005913543,
+          "y": 235.952174685858,
+          "angle": -2.8519037801629636,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 28,
+          "x": 833.0675948302252,
+          "y": 1099.7817888119077,
+          "angle": -17.385345632231413,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 29,
+          "x": -32.41089404569223,
+          "y": 658.0202436813571,
+          "angle": 90.3249669940436,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 30,
+          "x": 584.8608216653852,
+          "y": -21.09078213963008,
+          "angle": 15.106151063554655,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 31,
+          "x": 1338.9535128273503,
+          "y": 642.2334580690917,
+          "angle": 5.01669292306827,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 32,
+          "x": 1297.724366824014,
+          "y": 868.4923600988424,
+          "angle": -21.10525421462611,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 33,
+          "x": -73.26026840188985,
+          "y": 406.45996668345805,
+          "angle": -18.061541296773893,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 34,
+          "x": 1064.8475300160087,
+          "y": -16.604610326264222,
+          "angle": 19.859720715790353,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 35,
+          "x": 1312.591774204256,
+          "y": 211.9047326927615,
+          "angle": -26.5321263813354,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 36,
+          "x": 146.14166836297557,
+          "y": 916.9523736405289,
+          "angle": 0.3894308842294194,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 37,
+          "x": 1283.9766004338846,
+          "y": 458.9830700702659,
+          "angle": -32.746596235306896,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 38,
+          "x": 1311.6503553375192,
+          "y": -20.5603045848912,
+          "angle": 13.83551680567404,
+          "moving": false,
+          "physical_side": 320
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "cards": [
+        {
+          "card": 0,
+          "x": 899.6063595820879,
+          "y": 623.973123186926,
+          "angle": -35.51566048624417,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 1,
+          "x": 622.87035237847,
+          "y": 673.2113055361019,
+          "angle": 6.578187300531724,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 2,
+          "x": 856.3871984961539,
+          "y": 691.5916159642644,
+          "angle": -5.66561522474538,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 3,
+          "x": 924.9507359067248,
+          "y": 395.21013590906006,
+          "angle": 102.70978461265629,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 4,
+          "x": 655.6979592501251,
+          "y": 387.96832765740896,
+          "angle": -21.944576596260447,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 5,
+          "x": 959.2467780929467,
+          "y": 458.7541417414141,
+          "angle": 1.7778565798986414,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 6,
+          "x": 956.2382416977973,
+          "y": 835.430295140743,
+          "angle": 0.0003175971029436564,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 7,
+          "x": 886.5516250257909,
+          "y": 607.2820152685607,
+          "angle": 29.35914239343179,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 8,
+          "x": 407.47019752112374,
+          "y": 638.3221839908269,
+          "angle": -10.45639112206246,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 9,
+          "x": 917.6457964168316,
+          "y": 450.90565719668575,
+          "angle": 2.0034096536819503,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 10,
+          "x": 582.954270434576,
+          "y": 849.0823575223601,
+          "angle": 12.667491553170223,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 11,
+          "x": 890.795495471301,
+          "y": 658.8656629270097,
+          "angle": -31.166221050429535,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 12,
+          "x": 897.876274287353,
+          "y": 221.34194005294324,
+          "angle": 35.56951539976044,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 13,
+          "x": 803.4894821725763,
+          "y": 834.7305388943895,
+          "angle": -13.415419151019407,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 14,
+          "x": 952.2596493077702,
+          "y": 174.6336401161263,
+          "angle": -1.4155964960962661,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 15,
+          "x": 900.0658800408298,
+          "y": 828.9908194312239,
+          "angle": 29.57662410542295,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 16,
+          "x": 360.34234318892084,
+          "y": 444.0058743719972,
+          "angle": 72.34391427123231,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 17,
+          "x": 891.5219071191301,
+          "y": 283.34400142274245,
+          "angle": -25.259645412452247,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 18,
+          "x": 923.7767168412072,
+          "y": 425.4493698435571,
+          "angle": 6.072459618420187,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 19,
+          "x": 875.2279061036356,
+          "y": 599.9102658743492,
+          "angle": 27.529785194083594,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 20,
+          "x": 918.8602259949234,
+          "y": 237.952858431257,
+          "angle": -14.178130360031368,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 21,
+          "x": 218.27054805143024,
+          "y": 672.3087023757797,
+          "angle": -26.46267294927698,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 22,
+          "x": 405.1211364932948,
+          "y": 863.0331794001746,
+          "angle": 28.353771748246587,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 23,
+          "x": 583.2666329381175,
+          "y": 171.23846676667893,
+          "angle": 1.2386008308103982,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 24,
+          "x": 892.6353671165142,
+          "y": 866.5408321339553,
+          "angle": -13.700781548570681,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 25,
+          "x": 201.28864238265646,
+          "y": 427.13231506163913,
+          "angle": -33.90980011679968,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 26,
+          "x": 362.81701866222437,
+          "y": 174.72598505384812,
+          "angle": 35.670250243283505,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 27,
+          "x": 188.53635005913543,
+          "y": 235.952174685858,
+          "angle": -2.8519037801629636,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 28,
+          "x": 833.0675948302252,
+          "y": 1099.7817888119077,
+          "angle": -17.385345632231413,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 29,
+          "x": -32.41089404569223,
+          "y": 658.0202436813571,
+          "angle": 90.3249669940436,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 30,
+          "x": 584.8608216653852,
+          "y": -21.09078213963008,
+          "angle": 15.106151063554655,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 31,
+          "x": 938.8386915539593,
+          "y": 641.7113510166766,
+          "angle": 5.01669292306827,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 32,
+          "x": 893.716787991702,
+          "y": 855.5063573327052,
+          "angle": -20.599828372035898,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 33,
+          "x": -73.26026840188985,
+          "y": 406.45996668345805,
+          "angle": -18.061541296773893,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 34,
+          "x": 907.469648587888,
+          "y": 7.659480289233628,
+          "angle": 21.492887409855758,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 35,
+          "x": 912.7194977204092,
+          "y": 228.1696998524253,
+          "angle": -28.737230263586625,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 36,
+          "x": 146.14166836297557,
+          "y": 916.9523736405289,
+          "angle": 0.3894308842294194,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 37,
+          "x": 884.104323950038,
+          "y": 458.9830700702659,
+          "angle": -32.746596235306896,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 38,
+          "x": 910.3152977228348,
+          "y": 36.84894635918085,
+          "angle": 13.83551680567404,
+          "moving": true,
+          "physical_side": 320
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "cards": [
+        {
+          "card": 0,
+          "x": 453.88885394722706,
+          "y": 608.0720589586582,
+          "angle": -39.947471543143564,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 1,
+          "x": 496.3538564583719,
+          "y": 667.5370076864144,
+          "angle": 5.664110811125433,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 2,
+          "x": 489.8085660877851,
+          "y": 675.4249890070057,
+          "angle": -6.970587702574525,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 3,
+          "x": 459.1759425182953,
+          "y": 412.9434057347417,
+          "angle": 102.70978461265629,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 4,
+          "x": 455.99482206166584,
+          "y": 396.5483618061151,
+          "angle": -21.25377958082867,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 5,
+          "x": 513.5292724580859,
+          "y": 467.83210775450254,
+          "angle": 3.6900025198690702,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 6,
+          "x": 503.8349734784136,
+          "y": 806.1450700245842,
+          "angle": 4.903210159086413,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 7,
+          "x": 435.40620960272827,
+          "y": 600.5719716355688,
+          "angle": 27.368908804424443,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 8,
+          "x": 407.47019752112374,
+          "y": 638.3221839908269,
+          "angle": -10.45639112206246,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 9,
+          "x": 468.71076692946895,
+          "y": 452.0831492188591,
+          "angle": 1.8067831960290617,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 10,
+          "x": 484.30733731975795,
+          "y": 840.9516837491658,
+          "angle": 12.667491553170223,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 11,
+          "x": 444.9072142460109,
+          "y": 658.5051181819119,
+          "angle": -31.124475906102365,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 12,
+          "x": 438.7872434834464,
+          "y": 263.7300322386145,
+          "angle": 38.838110441082755,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 13,
+          "x": 468.3103684229753,
+          "y": 814.3327856125653,
+          "angle": -9.887217953655185,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 14,
+          "x": 479.79909333481777,
+          "y": 212.82401225782294,
+          "angle": -6.318489058079735,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 15,
+          "x": 454.348374405969,
+          "y": 812.9718631470538,
+          "angle": 28.384767663381815,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 16,
+          "x": 360.34234318892084,
+          "y": 444.0058743719972,
+          "angle": 72.34391427123231,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 17,
+          "x": 444.52293379827734,
+          "y": 286.7778219366545,
+          "angle": -25.259645412452247,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 18,
+          "x": 478.0592112063464,
+          "y": 425.4493698435571,
+          "angle": 6.072459618420187,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 19,
+          "x": 429.51040046877483,
+          "y": 599.9102658743492,
+          "angle": 27.529785194083594,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 20,
+          "x": 473.14272036006264,
+          "y": 260.79588985379144,
+          "angle": -11.818609296342999,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 21,
+          "x": 218.27054805143024,
+          "y": 672.3087023757797,
+          "angle": -26.46267294927698,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 22,
+          "x": 405.1211364932948,
+          "y": 863.0331794001746,
+          "angle": 28.353771748246587,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 23,
+          "x": 508.8749839907131,
+          "y": 177.8829159170039,
+          "angle": 0.9775775011703827,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 24,
+          "x": 446.1560582871939,
+          "y": 865.2299263307142,
+          "angle": -13.700781548570681,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 25,
+          "x": 201.28864238265646,
+          "y": 427.13231506163913,
+          "angle": -33.90980011679968,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 26,
+          "x": 362.81701866222437,
+          "y": 174.72598505384812,
+          "angle": 35.670250243283505,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 27,
+          "x": 188.53635005913543,
+          "y": 235.952174685858,
+          "angle": -2.8519037801629636,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 28,
+          "x": 458.8884882394186,
+          "y": 1040.9604237416236,
+          "angle": -21.324073070029378,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 29,
+          "x": -32.41089404569223,
+          "y": 658.0202436813571,
+          "angle": 90.3249669940436,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 30,
+          "x": 479.33117390513564,
+          "y": -5.828640351573175,
+          "angle": 14.719209021767075,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 31,
+          "x": 493.1211859190985,
+          "y": 641.7113510166766,
+          "angle": 5.01669292306827,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 32,
+          "x": 447.99928235684115,
+          "y": 855.5063573327052,
+          "angle": -20.599828372035898,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 33,
+          "x": -73.26026840188985,
+          "y": 406.45996668345805,
+          "angle": -18.061541296773893,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 34,
+          "x": 435.0090926149355,
+          "y": 80.5021544842862,
+          "angle": 26.395779971839225,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 35,
+          "x": 467.0019920855484,
+          "y": 228.1696998524253,
+          "angle": -28.737230263586625,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 36,
+          "x": 146.14166836297557,
+          "y": 916.9523736405289,
+          "angle": 0.3894308842294194,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 37,
+          "x": 438.38681831517715,
+          "y": 458.9830700702659,
+          "angle": -32.746596235306896,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 38,
+          "x": 454.88016299004175,
+          "y": 69.1293441486914,
+          "angle": 13.83551680567404,
+          "moving": true,
+          "physical_side": 320
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "cards": [
+        {
+          "card": 0,
+          "x": -7.1103947379722285,
+          "y": 608.0720589586582,
+          "angle": -39.947471543143564,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 1,
+          "x": 28.439619042894627,
+          "y": 646.5509320612912,
+          "angle": 2.283449654100637,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 2,
+          "x": 21.48636494846062,
+          "y": 664.3369574099821,
+          "angle": -7.8656152247453806,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 3,
+          "x": -3.7811895531963273,
+          "y": 414.6744311257577,
+          "angle": 102.70978461265629,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 4,
+          "x": -29.700475461922565,
+          "y": 415.29339523222353,
+          "angle": -19.744576596260448,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 5,
+          "x": 52.53002377288658,
+          "y": 467.83210775450254,
+          "angle": 3.6900025198690702,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 6,
+          "x": 42.16706955734003,
+          "y": 803.2162015731369,
+          "angle": 5.393557332060872,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 7,
+          "x": -25.593039082471023,
+          "y": 600.5719716355688,
+          "angle": 27.368908804424443,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 8,
+          "x": 11.048726637470761,
+          "y": 624.5823868727986,
+          "angle": -13.238296180895112,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 9,
+          "x": 7.711518244269655,
+          "y": 452.0831492188591,
+          "angle": 1.8067831960290617,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 10,
+          "x": 23.308088634558658,
+          "y": 802.955221189257,
+          "angle": 12.667491553170223,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 11,
+          "x": -16.09203443918841,
+          "y": 658.5051181819119,
+          "angle": -31.124475906102365,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 12,
+          "x": -26.6922330174865,
+          "y": 277.93247416391927,
+          "angle": 39.933277240484294,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 13,
+          "x": -5.255329909370403,
+          "y": 796.5736526712872,
+          "angle": -6.815419151019406,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 14,
+          "x": 18.082203218844143,
+          "y": 213.84883900567283,
+          "angle": -6.450056653721702,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 15,
+          "x": -6.6508742792302655,
+          "y": 812.9718631470538,
+          "angle": 28.384767663381815,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 16,
+          "x": 8.306348025738016,
+          "y": 451.15010100870364,
+          "angle": 71.07219146440308,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 17,
+          "x": -16.476314886921955,
+          "y": 286.7778219366545,
+          "angle": -25.259645412452247,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 18,
+          "x": 17.0599625211471,
+          "y": 425.4493698435571,
+          "angle": 6.072459618420187,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 19,
+          "x": -31.488848216424458,
+          "y": 599.9102658743492,
+          "angle": 27.529785194083594,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 20,
+          "x": 12.143471674863349,
+          "y": 260.79588985379144,
+          "angle": -11.818609296342999,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 21,
+          "x": -3.308519405035671,
+          "y": 661.3318455131914,
+          "angle": -28.86402244880518,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 22,
+          "x": -14.51340725676692,
+          "y": 823.8636839323814,
+          "angle": 25.36608243999372,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 23,
+          "x": 27.130769114679815,
+          "y": 220.91093027746143,
+          "angle": -0.7127530773420148,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 24,
+          "x": -14.84319039800539,
+          "y": 865.2299263307142,
+          "angle": -13.700781548570681,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 25,
+          "x": -7.548255306533065,
+          "y": 434.4620827959219,
+          "angle": -33.14406482527265,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 26,
+          "x": -14.354529520058229,
+          "y": 214.63794532572567,
+          "angle": 38.39529919566781,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 27,
+          "x": 42.48385387645554,
+          "y": 249.5760961761678,
+          "angle": -1.2921198403479355,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 28,
+          "x": -12.997784563879918,
+          "y": 1001.2167026020024,
+          "angle": -23.985345632231414,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 29,
+          "x": -32.41089404569223,
+          "y": 658.0202436813571,
+          "angle": 90.3249669940436,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 30,
+          "x": 18.331925219936352,
+          "y": 60.843011141150235,
+          "angle": 13.028878443254676,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 31,
+          "x": 32.12193723389919,
+          "y": 641.7113510166766,
+          "angle": 5.01669292306827,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 32,
+          "x": -12.999966328358141,
+          "y": 855.5063573327052,
+          "angle": -20.599828372035898,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 33,
+          "x": -73.26026840188985,
+          "y": 406.45996668345805,
+          "angle": -18.061541296773893,
+          "moving": false,
+          "physical_side": 320
+        },
+        {
+          "card": 34,
+          "x": -26.338923764542642,
+          "y": 81.45212732593806,
+          "angle": 26.459720715790354,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 35,
+          "x": 6.002743400349118,
+          "y": 228.1696998524253,
+          "angle": -28.737230263586625,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 36,
+          "x": 52.02570733768533,
+          "y": 906.7043385812472,
+          "angle": -0.29055307063310454,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 37,
+          "x": -22.61243037002214,
+          "y": 458.9830700702659,
+          "angle": -32.746596235306896,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 38,
+          "x": -6.119085695157537,
+          "y": 69.1293441486914,
+          "angle": 13.83551680567404,
+          "moving": true,
+          "physical_side": 320
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "cards": [
+        {
+          "card": 0,
+          "x": -452.82790037283326,
+          "y": 608.0720589586582,
+          "angle": -39.947471543143564,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 1,
+          "x": -417.49319595153906,
+          "y": 645.8974966503256,
+          "angle": 2.1781873005317234,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 2,
+          "x": -424.2311406864004,
+          "y": 664.3369574099821,
+          "angle": -7.8656152247453806,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 3,
+          "x": -449.49869518805735,
+          "y": 414.6744311257577,
+          "angle": 102.70978461265629,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 4,
+          "x": -475.4179810967836,
+          "y": 415.29339523222353,
+          "angle": -19.744576596260448,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 5,
+          "x": -393.18748186197445,
+          "y": 467.83210775450254,
+          "angle": 3.6900025198690702,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 6,
+          "x": -403.550436077521,
+          "y": 803.2162015731369,
+          "angle": 5.393557332060872,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 7,
+          "x": -471.31054471733205,
+          "y": 600.5719716355688,
+          "angle": 27.368908804424443,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 8,
+          "x": -444.59799795455353,
+          "y": 616.5906345522947,
+          "angle": -14.85639112206246,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 9,
+          "x": -438.0059873905914,
+          "y": 452.0831492188591,
+          "angle": 1.8067831960290617,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 10,
+          "x": -422.40941700030237,
+          "y": 799.6291803187825,
+          "angle": 12.667491553170223,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 11,
+          "x": -461.80954007404944,
+          "y": 658.5051181819119,
+          "angle": -31.124475906102365,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 12,
+          "x": -472.4097386523475,
+          "y": 277.93247416391927,
+          "angle": 39.933277240484294,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 13,
+          "x": -450.97283554423143,
+          "y": 796.5736526712872,
+          "angle": -6.815419151019406,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 14,
+          "x": -427.6353024160169,
+          "y": 213.84883900567283,
+          "angle": -6.450056653721702,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 15,
+          "x": -452.3683799140913,
+          "y": 812.9718631470538,
+          "angle": 28.384767663381815,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 16,
+          "x": -441.2086552175489,
+          "y": 456.36493447247767,
+          "angle": 70.1439142712323,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 17,
+          "x": -462.193820521783,
+          "y": 286.7778219366545,
+          "angle": -25.259645412452247,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 18,
+          "x": -428.6575431137139,
+          "y": 425.4493698435571,
+          "angle": 6.072459618420187,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 19,
+          "x": -477.2063538512857,
+          "y": 599.9102658743492,
+          "angle": 27.529785194083594,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 20,
+          "x": -433.5740339599977,
+          "y": 260.79588985379144,
+          "angle": -11.818609296342999,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 21,
+          "x": -454.7514575405401,
+          "y": 642.1393099956549,
+          "angle": -33.06267294927698,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 22,
+          "x": -466.0085475396844,
+          "y": 805.3478706961466,
+          "angle": 23.953771748246588,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 23,
+          "x": -421.63830219285614,
+          "y": 227.2403120840103,
+          "angle": -0.961399169189602,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 24,
+          "x": -460.5606960328664,
+          "y": 865.2299263307142,
+          "angle": -13.700781548570681,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 25,
+          "x": -453.2657609413941,
+          "y": 448.1911446517769,
+          "angle": -31.70980011679968,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 26,
+          "x": -463.4980713886786,
+          "y": 239.16982744523241,
+          "angle": 40.0702502432835,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 27,
+          "x": -416.60517692745134,
+          "y": 292.4003756387503,
+          "angle": 3.610772721635536,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 28,
+          "x": -458.71529019874095,
+          "y": 1001.2167026020024,
+          "angle": -23.985345632231414,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 29,
+          "x": -413.70469886277306,
+          "y": 643.1022800488176,
+          "angle": 87.68708532549776,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 30,
+          "x": -427.3855804149247,
+          "y": 65.68374300271073,
+          "angle": 12.906151063554656,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 31,
+          "x": -413.59556840096184,
+          "y": 641.7113510166766,
+          "angle": 5.01669292306827,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 32,
+          "x": -458.7174719632194,
+          "y": 855.5063573327052,
+          "angle": -20.599828372035898,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 33,
+          "x": -449.12466156057405,
+          "y": 422.86516179117433,
+          "angle": -15.423896432502424,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 34,
+          "x": -472.05642939940367,
+          "y": 81.45212732593806,
+          "angle": 26.459720715790354,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 35,
+          "x": -439.7147622345119,
+          "y": 228.1696998524253,
+          "angle": -28.737230263586625,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 36,
+          "x": -400.3775608816987,
+          "y": 857.4433577323127,
+          "angle": -3.5591481119554196,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 37,
+          "x": -468.32993600488317,
+          "y": 458.9830700702659,
+          "angle": -32.746596235306896,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 38,
+          "x": -451.83659133001856,
+          "y": 69.1293441486914,
+          "angle": 13.83551680567404,
+          "moving": true,
+          "physical_side": 320
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "cards": [
+        {
+          "card": 0,
+          "x": -852.70017685668,
+          "y": 608.0720589586582,
+          "angle": -39.947471543143564,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 1,
+          "x": -817.3654724353858,
+          "y": 645.8974966503256,
+          "angle": 2.1781873005317234,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 2,
+          "x": -824.1034171702471,
+          "y": 664.3369574099821,
+          "angle": -7.8656152247453806,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 3,
+          "x": -849.370971671904,
+          "y": 414.6744311257577,
+          "angle": 102.70978461265629,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 4,
+          "x": -875.2902575806303,
+          "y": 415.29339523222353,
+          "angle": -19.744576596260448,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 5,
+          "x": -793.0597583458211,
+          "y": 467.83210775450254,
+          "angle": 3.6900025198690702,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 6,
+          "x": -803.4227125613677,
+          "y": 803.2162015731369,
+          "angle": 5.393557332060872,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 7,
+          "x": -871.182821201179,
+          "y": 600.5719716355688,
+          "angle": 27.368908804424443,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 8,
+          "x": -844.4702744384003,
+          "y": 616.5906345522947,
+          "angle": -14.85639112206246,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 9,
+          "x": -837.8782638744381,
+          "y": 452.0831492188591,
+          "angle": 1.8067831960290617,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 10,
+          "x": -822.2816934841491,
+          "y": 799.6291803187825,
+          "angle": 12.667491553170223,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 11,
+          "x": -861.6818165578959,
+          "y": 658.5051181819119,
+          "angle": -31.124475906102365,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 12,
+          "x": -872.2820151361942,
+          "y": 277.93247416391927,
+          "angle": 39.933277240484294,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 13,
+          "x": -850.8451120280781,
+          "y": 796.5736526712872,
+          "angle": -6.815419151019406,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 14,
+          "x": -827.5075788998636,
+          "y": 213.84883900567283,
+          "angle": -6.450056653721702,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 15,
+          "x": -852.240656397938,
+          "y": 812.9718631470538,
+          "angle": 28.384767663381815,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 16,
+          "x": -841.0809317013956,
+          "y": 456.36493447247767,
+          "angle": 70.1439142712323,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 17,
+          "x": -862.0660970056299,
+          "y": 286.7778219366545,
+          "angle": -25.259645412452247,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 18,
+          "x": -828.5298195975606,
+          "y": 425.4493698435571,
+          "angle": 6.072459618420187,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 19,
+          "x": -877.0786303351324,
+          "y": 599.9102658743492,
+          "angle": 27.529785194083594,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 20,
+          "x": -833.4463104438444,
+          "y": 260.79588985379144,
+          "angle": -11.818609296342999,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 21,
+          "x": -854.6237340243867,
+          "y": 642.1393099956549,
+          "angle": -33.06267294927698,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 22,
+          "x": -865.8808240235311,
+          "y": 805.3478706961466,
+          "angle": 23.953771748246588,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 23,
+          "x": -821.5105786767028,
+          "y": 227.2403120840103,
+          "angle": -0.961399169189602,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 24,
+          "x": -860.4329725167131,
+          "y": 865.2299263307142,
+          "angle": -13.700781548570681,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 25,
+          "x": -853.1380374252408,
+          "y": 448.1911446517769,
+          "angle": -31.70980011679968,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 26,
+          "x": -863.3703478725254,
+          "y": 239.16982744523241,
+          "angle": 40.0702502432835,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 27,
+          "x": -816.8519720427566,
+          "y": 293.59982673612075,
+          "angle": 3.748096219837037,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 28,
+          "x": -858.5875666825876,
+          "y": 1001.2167026020024,
+          "angle": -23.985345632231414,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 29,
+          "x": -827.9943071494265,
+          "y": 633.1370046923399,
+          "angle": 85.9249669940436,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 30,
+          "x": -827.2578568987715,
+          "y": 65.68374300271073,
+          "angle": 12.906151063554656,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 31,
+          "x": -813.4678448848085,
+          "y": 641.7113510166766,
+          "angle": 5.01669292306827,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 32,
+          "x": -858.5897484470661,
+          "y": 855.5063573327052,
+          "angle": -20.599828372035898,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 33,
+          "x": -859.8113900136639,
+          "y": 433.8263720141048,
+          "angle": -13.661541296773892,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 34,
+          "x": -871.9287058832504,
+          "y": 81.45212732593806,
+          "angle": 26.459720715790354,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 35,
+          "x": -839.5870387183586,
+          "y": 228.1696998524253,
+          "angle": -28.737230263586625,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 36,
+          "x": -801.1731985097127,
+          "y": 850.6399938580442,
+          "angle": -4.010569115770581,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 37,
+          "x": -868.2022124887299,
+          "y": 458.9830700702659,
+          "angle": -32.746596235306896,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 38,
+          "x": -851.7088678138653,
+          "y": 69.1293441486914,
+          "angle": 13.83551680567404,
+          "moving": true,
+          "physical_side": 320
+        }
+      ]
+    },
+    {
+      "step": 9,
+      "cards": [
+        {
+          "card": 0,
+          "x": -1176.1637380888365,
+          "y": 608.0720589586582,
+          "angle": -39.947471543143564,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 1,
+          "x": -1140.8290336675425,
+          "y": 645.8974966503256,
+          "angle": 2.1781873005317234,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 2,
+          "x": -1147.566978402404,
+          "y": 664.3369574099821,
+          "angle": -7.8656152247453806,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 3,
+          "x": -1172.8345329040608,
+          "y": 414.6744311257577,
+          "angle": 102.70978461265629,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 4,
+          "x": -1198.753818812787,
+          "y": 415.29339523222353,
+          "angle": -19.744576596260448,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 5,
+          "x": -1116.5233195779779,
+          "y": 467.83210775450254,
+          "angle": 3.6900025198690702,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 6,
+          "x": -1126.8862737935244,
+          "y": 803.2162015731369,
+          "angle": 5.393557332060872,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 7,
+          "x": -1194.6463824333352,
+          "y": 600.5719716355688,
+          "angle": 27.368908804424443,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 8,
+          "x": -1167.933835670557,
+          "y": 616.5906345522947,
+          "angle": -14.85639112206246,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 9,
+          "x": -1161.3418251065948,
+          "y": 452.0831492188591,
+          "angle": 1.8067831960290617,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 10,
+          "x": -1145.7452547163057,
+          "y": 799.6291803187825,
+          "angle": 12.667491553170223,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 11,
+          "x": -1185.145377790053,
+          "y": 658.5051181819119,
+          "angle": -31.124475906102365,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 12,
+          "x": -1195.745576368351,
+          "y": 277.93247416391927,
+          "angle": 39.933277240484294,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 13,
+          "x": -1174.3086732602349,
+          "y": 796.5736526712872,
+          "angle": -6.815419151019406,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 14,
+          "x": -1150.97114013202,
+          "y": 213.84883900567283,
+          "angle": -6.450056653721702,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 15,
+          "x": -1175.7042176300947,
+          "y": 812.9718631470538,
+          "angle": 28.384767663381815,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 16,
+          "x": -1164.5444929335522,
+          "y": 456.36493447247767,
+          "angle": 70.1439142712323,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 17,
+          "x": -1185.5296582377862,
+          "y": 286.7778219366545,
+          "angle": -25.259645412452247,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 18,
+          "x": -1151.9933808297174,
+          "y": 425.4493698435571,
+          "angle": 6.072459618420187,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 19,
+          "x": -1200.5421915672887,
+          "y": 599.9102658743492,
+          "angle": 27.529785194083594,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 20,
+          "x": -1156.909871676001,
+          "y": 260.79588985379144,
+          "angle": -11.818609296342999,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 21,
+          "x": -1178.0872952565435,
+          "y": 642.1393099956549,
+          "angle": -33.06267294927698,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 22,
+          "x": -1189.344385255688,
+          "y": 805.3478706961466,
+          "angle": 23.953771748246588,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 23,
+          "x": -1144.9741399088596,
+          "y": 227.2403120840103,
+          "angle": -0.961399169189602,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 24,
+          "x": -1183.8965337488698,
+          "y": 865.2299263307142,
+          "angle": -13.700781548570681,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 25,
+          "x": -1176.6015986573975,
+          "y": 448.1911446517769,
+          "angle": -31.70980011679968,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 26,
+          "x": -1186.833909104682,
+          "y": 239.16982744523241,
+          "angle": 40.0702502432835,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 27,
+          "x": -1140.3155332749134,
+          "y": 293.59982673612075,
+          "angle": 3.748096219837037,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 28,
+          "x": -1182.0511279147445,
+          "y": 1001.2167026020024,
+          "angle": -23.985345632231414,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 29,
+          "x": -1151.4578683815832,
+          "y": 633.1370046923399,
+          "angle": 85.9249669940436,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 30,
+          "x": -1150.7214181309282,
+          "y": 65.68374300271073,
+          "angle": 12.906151063554656,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 31,
+          "x": -1136.9314061169653,
+          "y": 641.7113510166766,
+          "angle": 5.01669292306827,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 32,
+          "x": -1182.0533096792224,
+          "y": 855.5063573327052,
+          "angle": -20.599828372035898,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 33,
+          "x": -1183.2749512458206,
+          "y": 433.8263720141048,
+          "angle": -13.661541296773892,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 34,
+          "x": -1195.392267115407,
+          "y": 81.45212732593806,
+          "angle": 26.459720715790354,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 35,
+          "x": -1163.0505999505153,
+          "y": 228.1696998524253,
+          "angle": -28.737230263586625,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 36,
+          "x": -1124.6367597418694,
+          "y": 850.6399938580442,
+          "angle": -4.010569115770581,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 37,
+          "x": -1191.6657737208866,
+          "y": 458.9830700702659,
+          "angle": -32.746596235306896,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 38,
+          "x": -1175.172429046022,
+          "y": 69.1293441486914,
+          "angle": 13.83551680567404,
+          "moving": true,
+          "physical_side": 320
+        }
+      ]
+    },
+    {
+      "step": 10,
+      "cards": [
+        {
+          "card": 0,
+          "x": -1392.6550979686258,
+          "y": 608.0720589586582,
+          "angle": -39.947471543143564,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 1,
+          "x": -1357.3203935473318,
+          "y": 645.8974966503256,
+          "angle": 2.1781873005317234,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 2,
+          "x": -1364.0583382821933,
+          "y": 664.3369574099821,
+          "angle": -7.8656152247453806,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 3,
+          "x": -1389.3258927838501,
+          "y": 414.6744311257577,
+          "angle": 102.70978461265629,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 4,
+          "x": -1415.2451786925762,
+          "y": 415.29339523222353,
+          "angle": -19.744576596260448,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 5,
+          "x": -1333.0146794577672,
+          "y": 467.83210775450254,
+          "angle": 3.6900025198690702,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 6,
+          "x": -1343.3776336733138,
+          "y": 803.2162015731369,
+          "angle": 5.393557332060872,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 7,
+          "x": -1411.1377423131246,
+          "y": 600.5719716355688,
+          "angle": 27.368908804424443,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 8,
+          "x": -1384.4251955503464,
+          "y": 616.5906345522947,
+          "angle": -14.85639112206246,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 9,
+          "x": -1377.8331849863841,
+          "y": 452.0831492188591,
+          "angle": 1.8067831960290617,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 10,
+          "x": -1362.236614596095,
+          "y": 799.6291803187825,
+          "angle": 12.667491553170223,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 11,
+          "x": -1401.6367376698424,
+          "y": 658.5051181819119,
+          "angle": -31.124475906102365,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 12,
+          "x": -1412.2369362481404,
+          "y": 277.93247416391927,
+          "angle": 39.933277240484294,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 13,
+          "x": -1390.8000331400242,
+          "y": 796.5736526712872,
+          "angle": -6.815419151019406,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 14,
+          "x": -1367.4625000118094,
+          "y": 213.84883900567283,
+          "angle": -6.450056653721702,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 15,
+          "x": -1392.195577509884,
+          "y": 812.9718631470538,
+          "angle": 28.384767663381815,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 16,
+          "x": -1381.0358528133415,
+          "y": 456.36493447247767,
+          "angle": 70.1439142712323,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 17,
+          "x": -1402.0210181175755,
+          "y": 286.7778219366545,
+          "angle": -25.259645412452247,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 18,
+          "x": -1368.4847407095067,
+          "y": 425.4493698435571,
+          "angle": 6.072459618420187,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 19,
+          "x": -1417.033551447078,
+          "y": 599.9102658743492,
+          "angle": 27.529785194083594,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 20,
+          "x": -1373.4012315557904,
+          "y": 260.79588985379144,
+          "angle": -11.818609296342999,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 21,
+          "x": -1394.5786551363328,
+          "y": 642.1393099956549,
+          "angle": -33.06267294927698,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 22,
+          "x": -1405.8357451354773,
+          "y": 805.3478706961466,
+          "angle": 23.953771748246588,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 23,
+          "x": -1361.465499788649,
+          "y": 227.2403120840103,
+          "angle": -0.961399169189602,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 24,
+          "x": -1400.3878936286592,
+          "y": 865.2299263307142,
+          "angle": -13.700781548570681,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 25,
+          "x": -1393.0929585371869,
+          "y": 448.1911446517769,
+          "angle": -31.70980011679968,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 26,
+          "x": -1403.3252689844714,
+          "y": 239.16982744523241,
+          "angle": 40.0702502432835,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 27,
+          "x": -1356.8068931547027,
+          "y": 293.59982673612075,
+          "angle": 3.748096219837037,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 28,
+          "x": -1398.5424877945338,
+          "y": 1001.2167026020024,
+          "angle": -23.985345632231414,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 29,
+          "x": -1367.9492282613726,
+          "y": 633.1370046923399,
+          "angle": 85.9249669940436,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 30,
+          "x": -1367.2127780107176,
+          "y": 65.68374300271073,
+          "angle": 12.906151063554656,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 31,
+          "x": -1353.4227659967546,
+          "y": 641.7113510166766,
+          "angle": 5.01669292306827,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 32,
+          "x": -1398.5446695590117,
+          "y": 855.5063573327052,
+          "angle": -20.599828372035898,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 33,
+          "x": -1399.76631112561,
+          "y": 433.8263720141048,
+          "angle": -13.661541296773892,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 34,
+          "x": -1411.8836269951964,
+          "y": 81.45212732593806,
+          "angle": 26.459720715790354,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 35,
+          "x": -1379.5419598303047,
+          "y": 228.1696998524253,
+          "angle": -28.737230263586625,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 36,
+          "x": -1341.1281196216587,
+          "y": 850.6399938580442,
+          "angle": -4.010569115770581,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 37,
+          "x": -1408.157133600676,
+          "y": 458.9830700702659,
+          "angle": -32.746596235306896,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 38,
+          "x": -1391.6637889258113,
+          "y": 69.1293441486914,
+          "angle": 13.83551680567404,
+          "moving": true,
+          "physical_side": 320
+        }
+      ]
+    },
+    {
+      "step": 11,
+      "cards": [
+        {
+          "card": 0,
+          "x": -1471.6107703953726,
+          "y": 608.0720589586582,
+          "angle": -39.947471543143564,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 1,
+          "x": -1436.2760659740786,
+          "y": 645.8974966503256,
+          "angle": 2.1781873005317234,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 2,
+          "x": -1443.01401070894,
+          "y": 664.3369574099821,
+          "angle": -7.8656152247453806,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 3,
+          "x": -1468.281565210597,
+          "y": 414.6744311257577,
+          "angle": 102.70978461265629,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 4,
+          "x": -1494.200851119323,
+          "y": 415.29339523222353,
+          "angle": -19.744576596260448,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 5,
+          "x": -1411.970351884514,
+          "y": 467.83210775450254,
+          "angle": 3.6900025198690702,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 6,
+          "x": -1422.3333061000606,
+          "y": 803.2162015731369,
+          "angle": 5.393557332060872,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 7,
+          "x": -1490.0934147398714,
+          "y": 600.5719716355688,
+          "angle": 27.368908804424443,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 8,
+          "x": -1463.3808679770932,
+          "y": 616.5906345522947,
+          "angle": -14.85639112206246,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 9,
+          "x": -1456.788857413131,
+          "y": 452.0831492188591,
+          "angle": 1.8067831960290617,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 10,
+          "x": -1441.1922870228418,
+          "y": 799.6291803187825,
+          "angle": 12.667491553170223,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 11,
+          "x": -1480.5924100965892,
+          "y": 658.5051181819119,
+          "angle": -31.124475906102365,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 12,
+          "x": -1491.1926086748872,
+          "y": 277.93247416391927,
+          "angle": 39.933277240484294,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 13,
+          "x": -1469.755705566771,
+          "y": 796.5736526712872,
+          "angle": -6.815419151019406,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 14,
+          "x": -1446.4181724385562,
+          "y": 213.84883900567283,
+          "angle": -6.450056653721702,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 15,
+          "x": -1471.1512499366308,
+          "y": 812.9718631470538,
+          "angle": 28.384767663381815,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 16,
+          "x": -1459.9915252400883,
+          "y": 456.36493447247767,
+          "angle": 70.1439142712323,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 17,
+          "x": -1480.9766905443223,
+          "y": 286.7778219366545,
+          "angle": -25.259645412452247,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 18,
+          "x": -1447.4404131362535,
+          "y": 425.4493698435571,
+          "angle": 6.072459618420187,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 19,
+          "x": -1495.9892238738248,
+          "y": 599.9102658743492,
+          "angle": 27.529785194083594,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 20,
+          "x": -1452.3569039825372,
+          "y": 260.79588985379144,
+          "angle": -11.818609296342999,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 21,
+          "x": -1473.5343275630796,
+          "y": 642.1393099956549,
+          "angle": -33.06267294927698,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 22,
+          "x": -1484.791417562224,
+          "y": 805.3478706961466,
+          "angle": 23.953771748246588,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 23,
+          "x": -1440.4211722153957,
+          "y": 227.2403120840103,
+          "angle": -0.961399169189602,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 24,
+          "x": -1479.343566055406,
+          "y": 865.2299263307142,
+          "angle": -13.700781548570681,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 25,
+          "x": -1472.0486309639336,
+          "y": 448.1911446517769,
+          "angle": -31.70980011679968,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 26,
+          "x": -1482.2809414112182,
+          "y": 239.16982744523241,
+          "angle": 40.0702502432835,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 27,
+          "x": -1435.7625655814495,
+          "y": 293.59982673612075,
+          "angle": 3.748096219837037,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 28,
+          "x": -1477.4981602212806,
+          "y": 1001.2167026020024,
+          "angle": -23.985345632231414,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 29,
+          "x": -1446.9049006881194,
+          "y": 633.1370046923399,
+          "angle": 85.9249669940436,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 30,
+          "x": -1446.1684504374643,
+          "y": 65.68374300271073,
+          "angle": 12.906151063554656,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 31,
+          "x": -1432.3784384235014,
+          "y": 641.7113510166766,
+          "angle": 5.01669292306827,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 32,
+          "x": -1477.5003419857585,
+          "y": 855.5063573327052,
+          "angle": -20.599828372035898,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 33,
+          "x": -1478.7219835523567,
+          "y": 433.8263720141048,
+          "angle": -13.661541296773892,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 34,
+          "x": -1490.8392994219432,
+          "y": 81.45212732593806,
+          "angle": 26.459720715790354,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 35,
+          "x": -1458.4976322570515,
+          "y": 228.1696998524253,
+          "angle": -28.737230263586625,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 36,
+          "x": -1420.0837920484055,
+          "y": 850.6399938580442,
+          "angle": -4.010569115770581,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 37,
+          "x": -1487.1128060274227,
+          "y": 458.9830700702659,
+          "angle": -32.746596235306896,
+          "moving": true,
+          "physical_side": 320
+        },
+        {
+          "card": 38,
+          "x": -1470.6194613525581,
+          "y": 69.1293441486914,
+          "angle": 13.83551680567404,
+          "moving": true,
+          "physical_side": 320
+        }
+      ]
+    }
+  ],
+  "frame_map": [
+    {
+      "frame": 0,
+      "phase": "approved_scatter",
+      "source_frame": 0
+    },
+    {
+      "frame": 1,
+      "phase": "approved_scatter",
+      "source_frame": 1
+    },
+    {
+      "frame": 2,
+      "phase": "approved_scatter",
+      "source_frame": 2
+    },
+    {
+      "frame": 3,
+      "phase": "approved_scatter",
+      "source_frame": 3
+    },
+    {
+      "frame": 4,
+      "phase": "approved_scatter",
+      "source_frame": 4
+    },
+    {
+      "frame": 5,
+      "phase": "approved_scatter",
+      "source_frame": 5
+    },
+    {
+      "frame": 6,
+      "phase": "approved_scatter",
+      "source_frame": 6
+    },
+    {
+      "frame": 7,
+      "phase": "approved_scatter",
+      "source_frame": 7
+    },
+    {
+      "frame": 8,
+      "phase": "approved_scatter",
+      "source_frame": 8
+    },
+    {
+      "frame": 9,
+      "phase": "approved_scatter",
+      "source_frame": 9
+    },
+    {
+      "frame": 10,
+      "phase": "approved_scatter",
+      "source_frame": 10
+    },
+    {
+      "frame": 11,
+      "phase": "approved_scatter",
+      "source_frame": 11
+    },
+    {
+      "frame": 12,
+      "phase": "approved_scatter",
+      "source_frame": 12
+    },
+    {
+      "frame": 13,
+      "phase": "approved_scatter",
+      "source_frame": 13
+    },
+    {
+      "frame": 14,
+      "phase": "approved_scatter",
+      "source_frame": 14
+    },
+    {
+      "frame": 15,
+      "phase": "approved_scatter",
+      "source_frame": 15
+    },
+    {
+      "frame": 16,
+      "phase": "approved_scatter",
+      "source_frame": 16
+    },
+    {
+      "frame": 17,
+      "phase": "approved_scatter",
+      "source_frame": 17
+    },
+    {
+      "frame": 18,
+      "phase": "approved_scatter",
+      "source_frame": 18
+    },
+    {
+      "frame": 19,
+      "phase": "approved_scatter",
+      "source_frame": 19
+    },
+    {
+      "frame": 20,
+      "phase": "approved_scatter",
+      "source_frame": 20
+    },
+    {
+      "frame": 21,
+      "phase": "approved_scatter",
+      "source_frame": 21
+    },
+    {
+      "frame": 22,
+      "phase": "approved_scatter",
+      "source_frame": 22
+    },
+    {
+      "frame": 23,
+      "phase": "approved_scatter",
+      "source_frame": 23
+    },
+    {
+      "frame": 24,
+      "phase": "approved_scatter",
+      "source_frame": 24
+    },
+    {
+      "frame": 25,
+      "phase": "approved_scatter",
+      "source_frame": 25
+    },
+    {
+      "frame": 26,
+      "phase": "approved_scatter",
+      "source_frame": 26
+    },
+    {
+      "frame": 27,
+      "phase": "approved_scatter",
+      "source_frame": 27
+    },
+    {
+      "frame": 28,
+      "phase": "approved_scatter",
+      "source_frame": 28
+    },
+    {
+      "frame": 29,
+      "phase": "approved_scatter",
+      "source_frame": 29
+    },
+    {
+      "frame": 30,
+      "phase": "approved_scatter",
+      "source_frame": 30
+    },
+    {
+      "frame": 31,
+      "phase": "approved_scatter",
+      "source_frame": 31
+    },
+    {
+      "frame": 32,
+      "phase": "approved_scatter",
+      "source_frame": 32
+    },
+    {
+      "frame": 33,
+      "phase": "approved_scatter",
+      "source_frame": 33
+    },
+    {
+      "frame": 34,
+      "phase": "approved_scatter",
+      "source_frame": 34
+    },
+    {
+      "frame": 35,
+      "phase": "approved_scatter",
+      "source_frame": 35
+    },
+    {
+      "frame": 36,
+      "phase": "approved_scatter",
+      "source_frame": 36
+    },
+    {
+      "frame": 37,
+      "phase": "approved_scatter",
+      "source_frame": 37
+    },
+    {
+      "frame": 38,
+      "phase": "approved_scatter",
+      "source_frame": 38
+    },
+    {
+      "frame": 39,
+      "phase": "approved_scatter",
+      "source_frame": 39
+    },
+    {
+      "frame": 40,
+      "phase": "approved_scatter",
+      "source_frame": 40
+    },
+    {
+      "frame": 41,
+      "phase": "approved_scatter",
+      "source_frame": 41
+    },
+    {
+      "frame": 42,
+      "phase": "approved_scatter",
+      "source_frame": 42
+    },
+    {
+      "frame": 43,
+      "phase": "approved_scatter",
+      "source_frame": 43
+    },
+    {
+      "frame": 44,
+      "phase": "approved_scatter",
+      "source_frame": 44
+    },
+    {
+      "frame": 45,
+      "phase": "approved_scatter",
+      "source_frame": 45
+    },
+    {
+      "frame": 46,
+      "phase": "approved_scatter",
+      "source_frame": 46
+    },
+    {
+      "frame": 47,
+      "phase": "approved_scatter",
+      "source_frame": 47
+    },
+    {
+      "frame": 48,
+      "phase": "approved_scatter",
+      "source_frame": 48
+    },
+    {
+      "frame": 49,
+      "phase": "approved_scatter",
+      "source_frame": 49
+    },
+    {
+      "frame": 50,
+      "phase": "approved_scatter",
+      "source_frame": 50
+    },
+    {
+      "frame": 51,
+      "phase": "approved_scatter",
+      "source_frame": 51
+    },
+    {
+      "frame": 52,
+      "phase": "approved_scatter",
+      "source_frame": 52
+    },
+    {
+      "frame": 53,
+      "phase": "approved_scatter",
+      "source_frame": 53
+    },
+    {
+      "frame": 54,
+      "phase": "approved_scatter",
+      "source_frame": 54
+    },
+    {
+      "frame": 55,
+      "phase": "approved_scatter",
+      "source_frame": 55
+    },
+    {
+      "frame": 56,
+      "phase": "approved_scatter",
+      "source_frame": 56
+    },
+    {
+      "frame": 57,
+      "phase": "approved_scatter",
+      "source_frame": 57
+    },
+    {
+      "frame": 58,
+      "phase": "approved_scatter",
+      "source_frame": 58
+    },
+    {
+      "frame": 59,
+      "phase": "approved_scatter",
+      "source_frame": 59
+    },
+    {
+      "frame": 60,
+      "phase": "approved_scatter",
+      "source_frame": 60
+    },
+    {
+      "frame": 61,
+      "phase": "approved_scatter",
+      "source_frame": 61
+    },
+    {
+      "frame": 62,
+      "phase": "approved_scatter",
+      "source_frame": 62
+    },
+    {
+      "frame": 63,
+      "phase": "approved_scatter",
+      "source_frame": 63
+    },
+    {
+      "frame": 64,
+      "phase": "approved_scatter",
+      "source_frame": 64
+    },
+    {
+      "frame": 65,
+      "phase": "approved_scatter",
+      "source_frame": 65
+    },
+    {
+      "frame": 66,
+      "phase": "approved_scatter",
+      "source_frame": 66
+    },
+    {
+      "frame": 67,
+      "phase": "approved_scatter",
+      "source_frame": 67
+    },
+    {
+      "frame": 68,
+      "phase": "approved_scatter",
+      "source_frame": 68
+    },
+    {
+      "frame": 69,
+      "phase": "approved_scatter",
+      "source_frame": 69
+    },
+    {
+      "frame": 70,
+      "phase": "approved_scatter",
+      "source_frame": 70
+    },
+    {
+      "frame": 71,
+      "phase": "approved_scatter",
+      "source_frame": 71
+    },
+    {
+      "frame": 72,
+      "phase": "approved_scatter",
+      "source_frame": 72
+    },
+    {
+      "frame": 73,
+      "phase": "approved_scatter",
+      "source_frame": 73
+    },
+    {
+      "frame": 74,
+      "phase": "approved_scatter",
+      "source_frame": 74
+    },
+    {
+      "frame": 75,
+      "phase": "approved_scatter",
+      "source_frame": 75
+    },
+    {
+      "frame": 76,
+      "phase": "approved_scatter",
+      "source_frame": 76
+    },
+    {
+      "frame": 77,
+      "phase": "approved_scatter",
+      "source_frame": 77
+    },
+    {
+      "frame": 78,
+      "phase": "approved_scatter",
+      "source_frame": 78
+    },
+    {
+      "frame": 79,
+      "phase": "approved_scatter",
+      "source_frame": 79
+    },
+    {
+      "frame": 80,
+      "phase": "approved_scatter",
+      "source_frame": 80
+    },
+    {
+      "frame": 81,
+      "phase": "layout_hold"
+    },
+    {
+      "frame": 82,
+      "phase": "layout_hold"
+    },
+    {
+      "frame": 83,
+      "phase": "layout_hold"
+    },
+    {
+      "frame": 84,
+      "phase": "layout_hold"
+    },
+    {
+      "frame": 85,
+      "phase": "layout_hold"
+    },
+    {
+      "frame": 86,
+      "phase": "layout_hold"
+    },
+    {
+      "frame": 87,
+      "phase": "hand_return",
+      "pose": "return_00"
+    },
+    {
+      "frame": 88,
+      "phase": "hand_return",
+      "pose": "return_00"
+    },
+    {
+      "frame": 89,
+      "phase": "hand_return",
+      "pose": "return_00"
+    },
+    {
+      "frame": 90,
+      "phase": "hand_return",
+      "pose": "return_01"
+    },
+    {
+      "frame": 91,
+      "phase": "hand_return",
+      "pose": "return_01"
+    },
+    {
+      "frame": 92,
+      "phase": "hand_return",
+      "pose": "return_01"
+    },
+    {
+      "frame": 93,
+      "phase": "hand_return",
+      "pose": "return_02"
+    },
+    {
+      "frame": 94,
+      "phase": "hand_return",
+      "pose": "return_02"
+    },
+    {
+      "frame": 95,
+      "phase": "hand_return",
+      "pose": "return_02"
+    },
+    {
+      "frame": 96,
+      "phase": "hand_return",
+      "pose": "return_03"
+    },
+    {
+      "frame": 97,
+      "phase": "hand_return",
+      "pose": "return_03"
+    },
+    {
+      "frame": 98,
+      "phase": "hand_return",
+      "pose": "return_03"
+    },
+    {
+      "frame": 99,
+      "phase": "sweep_left",
+      "pose": "sweep_00"
+    },
+    {
+      "frame": 100,
+      "phase": "sweep_left",
+      "pose": "sweep_00"
+    },
+    {
+      "frame": 101,
+      "phase": "sweep_left",
+      "pose": "sweep_00"
+    },
+    {
+      "frame": 102,
+      "phase": "sweep_left",
+      "pose": "sweep_01"
+    },
+    {
+      "frame": 103,
+      "phase": "sweep_left",
+      "pose": "sweep_01"
+    },
+    {
+      "frame": 104,
+      "phase": "sweep_left",
+      "pose": "sweep_01"
+    },
+    {
+      "frame": 105,
+      "phase": "sweep_left",
+      "pose": "sweep_02"
+    },
+    {
+      "frame": 106,
+      "phase": "sweep_left",
+      "pose": "sweep_02"
+    },
+    {
+      "frame": 107,
+      "phase": "sweep_left",
+      "pose": "sweep_02"
+    },
+    {
+      "frame": 108,
+      "phase": "sweep_left",
+      "pose": "sweep_03"
+    },
+    {
+      "frame": 109,
+      "phase": "sweep_left",
+      "pose": "sweep_03"
+    },
+    {
+      "frame": 110,
+      "phase": "sweep_left",
+      "pose": "sweep_03"
+    },
+    {
+      "frame": 111,
+      "phase": "sweep_left",
+      "pose": "sweep_04"
+    },
+    {
+      "frame": 112,
+      "phase": "sweep_left",
+      "pose": "sweep_04"
+    },
+    {
+      "frame": 113,
+      "phase": "sweep_left",
+      "pose": "sweep_04"
+    },
+    {
+      "frame": 114,
+      "phase": "sweep_left",
+      "pose": "sweep_05"
+    },
+    {
+      "frame": 115,
+      "phase": "sweep_left",
+      "pose": "sweep_05"
+    },
+    {
+      "frame": 116,
+      "phase": "sweep_left",
+      "pose": "sweep_05"
+    },
+    {
+      "frame": 117,
+      "phase": "sweep_left",
+      "pose": "sweep_06"
+    },
+    {
+      "frame": 118,
+      "phase": "sweep_left",
+      "pose": "sweep_06"
+    },
+    {
+      "frame": 119,
+      "phase": "sweep_left",
+      "pose": "sweep_06"
+    },
+    {
+      "frame": 120,
+      "phase": "sweep_left",
+      "pose": "sweep_07"
+    },
+    {
+      "frame": 121,
+      "phase": "sweep_left",
+      "pose": "sweep_07"
+    },
+    {
+      "frame": 122,
+      "phase": "sweep_left",
+      "pose": "sweep_07"
+    },
+    {
+      "frame": 123,
+      "phase": "sweep_left",
+      "pose": "sweep_08"
+    },
+    {
+      "frame": 124,
+      "phase": "sweep_left",
+      "pose": "sweep_08"
+    },
+    {
+      "frame": 125,
+      "phase": "sweep_left",
+      "pose": "sweep_08"
+    },
+    {
+      "frame": 126,
+      "phase": "sweep_left",
+      "pose": "sweep_09"
+    },
+    {
+      "frame": 127,
+      "phase": "sweep_left",
+      "pose": "sweep_09"
+    },
+    {
+      "frame": 128,
+      "phase": "sweep_left",
+      "pose": "sweep_09"
+    },
+    {
+      "frame": 129,
+      "phase": "sweep_left",
+      "pose": "sweep_10"
+    },
+    {
+      "frame": 130,
+      "phase": "sweep_left",
+      "pose": "sweep_10"
+    },
+    {
+      "frame": 131,
+      "phase": "sweep_left",
+      "pose": "sweep_10"
+    },
+    {
+      "frame": 132,
+      "phase": "sweep_left",
+      "pose": "sweep_11"
+    },
+    {
+      "frame": 133,
+      "phase": "sweep_left",
+      "pose": "sweep_11"
+    },
+    {
+      "frame": 134,
+      "phase": "sweep_left",
+      "pose": "sweep_11"
+    },
+    {
+      "frame": 135,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 136,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 137,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 138,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 139,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 140,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 141,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 142,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 143,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 144,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 145,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 146,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 147,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 148,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 149,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 150,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 151,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    },
+    {
+      "frame": 152,
+      "phase": "final_one_card",
+      "pose": "one_black_card"
+    }
+  ]
+}
