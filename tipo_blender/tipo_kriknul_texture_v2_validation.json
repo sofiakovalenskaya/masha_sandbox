@@ -1,0 +1,18 @@
+{
+  "file": "tipo_kriknul_texture_v2_1920x1080.png",
+  "format": "PNG",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "color_mode": "RGB",
+  "bytes": 1057218,
+  "sha256": "1272d7c6ef64a1d38d2ae971749b3be6a50e7fa6aa72640c6fd0e51bfeb7a84b",
+  "text": "КРИКНУЛ",
+  "edit": "Restrained print texture on white lettering: sparse small missing-ink pinholes and lightly irregular hand-drawn contours, replacing excessive heavy erosion.",
+  "generated_source_dimensions": [
+    1672,
+    941
+  ],
+  "export": "Lanczos resampling and centered aspect-ratio fit to exact slide dimensions"
+}
