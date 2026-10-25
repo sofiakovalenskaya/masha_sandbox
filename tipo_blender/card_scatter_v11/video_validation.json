@@ -1,0 +1,38 @@
+{
+  "file": "tipo_card_scatter_v11_flip_color_cycles_1080p.mp4",
+  "bytes": 2464523,
+  "sha256": "b643bb08a0dd277b8d4bbd8063b3c73e9d0fbe8bc78ca6dbd487fcb51eeb765e",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 331,
+  "duration_seconds": 11.033333,
+  "audio": false,
+  "all_228_source_png_frames_byte_identical": true,
+  "flip_boundary_pixel_identical": true,
+  "flip_axis": "Y",
+  "flip_degrees": 180,
+  "black_back_uses_original_logo": true,
+  "color_order": [
+    "green",
+    "pink",
+    "yellow",
+    "blue",
+    "green",
+    "pink",
+    "yellow",
+    "blue"
+  ],
+  "color_cycles": 2,
+  "frames_per_color": 6,
+  "seconds_per_color": 0.2,
+  "card_side_px": 972,
+  "card_center": [
+    960,
+    540
+  ],
+  "background_outside_card_region_unchanged": true,
+  "full_decode": "passed"
+}
