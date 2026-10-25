@@ -1,0 +1,35 @@
+{
+  "file": "tipo_word_sequence_v6_gradual_crumple_1080p.mp4",
+  "bytes": 3342739,
+  "sha256": "050d7c885ae0e65e9b86355423047fde7a6a26c4d36e47b6ff74f6abe3f80988",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 179,
+  "duration_seconds": 5.966667,
+  "audio": false,
+  "original_92_png_frames_byte_identical": true,
+  "previous_tail_57_frames_byte_identical": true,
+  "tail_offset_frames": 30,
+  "added_frames": 30,
+  "added_distinct_drawings": 10,
+  "hold_frames": 3,
+  "old_first_transition_mean_rgb_difference": 90.13633053626543,
+  "new_first_transition_mean_rgb_difference": 1.932173353909465,
+  "first_step_difference_reduction_percent": 97.85638782673533,
+  "rolling_unchanged": true,
+  "final_color": "#FF006F",
+  "decoded_final_rgb": [
+    254,
+    0,
+    109
+  ],
+  "decoded_final_channel_ranges": [
+    2,
+    0,
+    0
+  ],
+  "full_decode_to_final_frame": "passed"
+}
