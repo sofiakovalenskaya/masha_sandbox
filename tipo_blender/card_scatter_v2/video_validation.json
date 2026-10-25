@@ -1,0 +1,21 @@
+{
+  "file": "tipo_card_scatter_v2_stopmotion_1080p.mp4",
+  "bytes": 686800,
+  "sha256": "a5dadcc3e931dce5f51f11d4393aec5ae3a69ee7527235cfb3a4aa53011806f1",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "frames": 72,
+  "fps": 30,
+  "seconds": 2.4,
+  "audio": false,
+  "opening_is_empty_background": true,
+  "hand_enters_from_below": true,
+  "final_cards": 24,
+  "previous_cards": 60,
+  "visible_table_fraction": 0.2720601851851852,
+  "source_artwork_unchanged": true,
+  "held_frames_byte_identical": true,
+  "full_decode": "passed"
+}
