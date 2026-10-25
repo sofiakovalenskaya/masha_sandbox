@@ -1,0 +1,28 @@
+{
+  "file": "tipo_blue_card_exit_v2_perspective_1080p.mp4",
+  "bytes": 606100,
+  "sha256": "9ad7299e1768e1e3bedb6c3ed15c1ff1f408cb999e7b0efd5c923ae2ddeb9462",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 60,
+  "duration_seconds": 2,
+  "audio": false,
+  "separate_clip": true,
+  "first_source_png_byte_identical_to_previous_last_png": true,
+  "encoded_seam_mean_rgb_difference_0_255": 0.2345677404835391,
+  "anticipation_left_px": 110,
+  "perspective_windup_yaw_degrees": 14,
+  "curved_paper_mesh": [
+    25,
+    25
+  ],
+  "windup_geometry_fits_vertical_frame": true,
+  "bend_reverses_during_launch": true,
+  "launch_direction": "right",
+  "final_24_source_frames_empty_background": true,
+  "background_matches_previous_clip": true,
+  "full_decode": "passed"
+}
