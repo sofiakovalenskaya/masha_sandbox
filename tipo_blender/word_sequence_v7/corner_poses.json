@@ -1,0 +1,379 @@
+{
+  "poses": [
+    {
+      "index": 0,
+      "corner_legs_pixels": [
+        [
+          55,
+          45
+        ],
+        [
+          48,
+          42
+        ],
+        [
+          52,
+          39
+        ],
+        [
+          56,
+          43
+        ]
+      ],
+      "angles_degrees": [
+        12,
+        0,
+        0,
+        5
+      ],
+      "center_lift": 0,
+      "sheet_scale": 1,
+      "surface_crease_stage": "flat",
+      "top_bottom_straight_edges_locked": true
+    },
+    {
+      "index": 1,
+      "corner_legs_pixels": [
+        [
+          85,
+          65
+        ],
+        [
+          75,
+          61
+        ],
+        [
+          80,
+          57
+        ],
+        [
+          87,
+          62
+        ]
+      ],
+      "angles_degrees": [
+        27,
+        15,
+        5,
+        20
+      ],
+      "center_lift": 0,
+      "sheet_scale": 1,
+      "surface_crease_stage": "flat",
+      "top_bottom_straight_edges_locked": true
+    },
+    {
+      "index": 2,
+      "corner_legs_pixels": [
+        [
+          120,
+          95
+        ],
+        [
+          106,
+          89
+        ],
+        [
+          113,
+          83
+        ],
+        [
+          122,
+          91
+        ]
+      ],
+      "angles_degrees": [
+        44,
+        32,
+        22,
+        37
+      ],
+      "center_lift": 0,
+      "sheet_scale": 1,
+      "surface_crease_stage": "flat",
+      "top_bottom_straight_edges_locked": true
+    },
+    {
+      "index": 3,
+      "corner_legs_pixels": [
+        [
+          155,
+          120
+        ],
+        [
+          136,
+          113
+        ],
+        [
+          146,
+          104
+        ],
+        [
+          158,
+          115
+        ]
+      ],
+      "angles_degrees": [
+        63,
+        51,
+        41,
+        56
+      ],
+      "center_lift": 0,
+      "sheet_scale": 1,
+      "surface_crease_stage": "flat",
+      "top_bottom_straight_edges_locked": true
+    },
+    {
+      "index": 4,
+      "corner_legs_pixels": [
+        [
+          195,
+          150
+        ],
+        [
+          172,
+          141
+        ],
+        [
+          183,
+          130
+        ],
+        [
+          199,
+          144
+        ]
+      ],
+      "angles_degrees": [
+        85,
+        73,
+        63,
+        78
+      ],
+      "center_lift": 0,
+      "sheet_scale": 1,
+      "surface_crease_stage": "flat",
+      "top_bottom_straight_edges_locked": true
+    },
+    {
+      "index": 5,
+      "corner_legs_pixels": [
+        [
+          225,
+          175
+        ],
+        [
+          198,
+          164
+        ],
+        [
+          212,
+          152
+        ],
+        [
+          230,
+          168
+        ]
+      ],
+      "angles_degrees": [
+        106,
+        94,
+        84,
+        99
+      ],
+      "center_lift": 0,
+      "sheet_scale": 1,
+      "surface_crease_stage": "near_flat",
+      "top_bottom_straight_edges_locked": true
+    },
+    {
+      "index": 6,
+      "corner_legs_pixels": [
+        [
+          250,
+          195
+        ],
+        [
+          220,
+          183
+        ],
+        [
+          235,
+          170
+        ],
+        [
+          255,
+          187
+        ]
+      ],
+      "angles_degrees": [
+        126,
+        114,
+        104,
+        119
+      ],
+      "center_lift": 0.04,
+      "sheet_scale": 1,
+      "surface_crease_stage": "light",
+      "top_bottom_straight_edges_locked": true
+    },
+    {
+      "index": 7,
+      "corner_legs_pixels": [
+        [
+          275,
+          215
+        ],
+        [
+          242,
+          202
+        ],
+        [
+          258,
+          187
+        ],
+        [
+          280,
+          206
+        ]
+      ],
+      "angles_degrees": [
+        143,
+        131,
+        121,
+        136
+      ],
+      "center_lift": 0.08,
+      "sheet_scale": 1,
+      "surface_crease_stage": "light",
+      "top_bottom_straight_edges_locked": true
+    },
+    {
+      "index": 8,
+      "corner_legs_pixels": [
+        [
+          295,
+          235
+        ],
+        [
+          260,
+          221
+        ],
+        [
+          277,
+          204
+        ],
+        [
+          301,
+          226
+        ]
+      ],
+      "angles_degrees": [
+        155,
+        143,
+        133,
+        148
+      ],
+      "center_lift": 0.14,
+      "sheet_scale": 1,
+      "surface_crease_stage": "light",
+      "top_bottom_straight_edges_locked": true
+    },
+    {
+      "index": 9,
+      "corner_legs_pixels": [
+        [
+          315,
+          250
+        ],
+        [
+          277,
+          235
+        ],
+        [
+          296,
+          218
+        ],
+        [
+          321,
+          240
+        ]
+      ],
+      "angles_degrees": [
+        164,
+        152,
+        142,
+        157
+      ],
+      "center_lift": 0.21,
+      "sheet_scale": 1,
+      "surface_crease_stage": "medium",
+      "top_bottom_straight_edges_locked": true
+    },
+    {
+      "index": 10,
+      "corner_legs_pixels": [
+        [
+          340,
+          270
+        ],
+        [
+          299,
+          254
+        ],
+        [
+          320,
+          235
+        ],
+        [
+          347,
+          259
+        ]
+      ],
+      "angles_degrees": [
+        171,
+        159,
+        149,
+        164
+      ],
+      "center_lift": 0.3,
+      "sheet_scale": 1,
+      "surface_crease_stage": "medium",
+      "top_bottom_straight_edges_locked": true
+    },
+    {
+      "index": 11,
+      "corner_legs_pixels": [
+        [
+          360,
+          285
+        ],
+        [
+          317,
+          268
+        ],
+        [
+          338,
+          248
+        ],
+        [
+          367,
+          274
+        ]
+      ],
+      "angles_degrees": [
+        176,
+        164,
+        154,
+        169
+      ],
+      "center_lift": 0.39,
+      "sheet_scale": 1,
+      "surface_crease_stage": "medium",
+      "top_bottom_straight_edges_locked": true
+    }
+  ],
+  "material_alpha": 1,
+  "image_dissolves": false,
+  "motion": "rigid triangles rotate about diagonal corner hinges; central sheet stays attached"
+}
