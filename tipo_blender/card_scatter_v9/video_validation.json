@@ -1,0 +1,49 @@
+{
+  "file": "tipo_card_scatter_v9_rules_card_1080p.mp4",
+  "bytes": 1027503,
+  "sha256": "eb9ac33cd68b787807ad132d0793b23588c5a874468e70ed39e47610721d2599",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 153,
+  "duration_seconds": 5.1,
+  "audio": false,
+  "only_changed_visual": "original rules card front replaces retained black back",
+  "original_rules_front_sha256": "2d6d32be99e06360cc9d92365b85f494dcb4cd9364fcd21fdc74e70203985d8d",
+  "original_rules_front_dimensions": [
+    1536,
+    1536
+  ],
+  "all_153_png_frames_compared": true,
+  "unique_frame_pairs_compared": 44,
+  "changed_frames": 111,
+  "all_changes_within_retained_card_and_shadow": true,
+  "allowed_change_bounds": [
+    776,
+    356,
+    1144,
+    724
+  ],
+  "actual_change_bounds_union": [
+    789,
+    371,
+    1137,
+    723
+  ],
+  "all_other_pixels_byte_identical": true,
+  "card_motion_unchanged": true,
+  "timing_unchanged": true,
+  "background_unchanged": true,
+  "all_card_sides_px": 320,
+  "retained_card_center": [
+    960,
+    540
+  ],
+  "retained_card_angle": 0,
+  "retained_card_static": true,
+  "retained_card_face": "rules_front",
+  "final_visible_cards": 1,
+  "full_decode": "passed"
+}
