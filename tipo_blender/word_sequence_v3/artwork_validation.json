@@ -1,0 +1,120 @@
+{
+  "frames_checked": 92,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "held_drawings": 28,
+  "source_artwork_unchanged": true,
+  "frame_edges_clear": true,
+  "held_frames_byte_identical": true,
+  "minimum_scribble_to_letter_stroke_ratio": 0.8595454545454545,
+  "maximum_scribble_to_letter_stroke_ratio": 0.8729609384159178,
+  "actual_contour_changes": [
+    {
+      "letter": "У",
+      "changed_contour_pixels": 1603,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "В",
+      "changed_contour_pixels": 1618,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "И",
+      "changed_contour_pixels": 1662,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "Д",
+      "changed_contour_pixels": 2169,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "Е",
+      "changed_contour_pixels": 1467,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "Л",
+      "changed_contour_pixels": 1438,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "К",
+      "changed_contour_pixels": 1719,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "Р",
+      "changed_contour_pixels": 1270,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "И",
+      "changed_contour_pixels": 1681,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "К",
+      "changed_contour_pixels": 1726,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "Н",
+      "changed_contour_pixels": 1772,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "У",
+      "changed_contour_pixels": 1727,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "Л",
+      "changed_contour_pixels": 1496,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "В",
+      "changed_contour_pixels": 1715,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "Ы",
+      "changed_contour_pixels": 1965,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "И",
+      "changed_contour_pixels": 1659,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "Г",
+      "changed_contour_pixels": 1203,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "Р",
+      "changed_contour_pixels": 1330,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "А",
+      "changed_contour_pixels": 1583,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "Л",
+      "changed_contour_pixels": 1478,
+      "unchanged_interior": true
+    },
+    {
+      "letter": "!",
+      "changed_contour_pixels": 717,
+      "unchanged_interior": true
+    }
+  ]
+}

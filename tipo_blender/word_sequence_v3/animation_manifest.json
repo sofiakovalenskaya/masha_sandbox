@@ -1,0 +1,707 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 92,
+  "duration_seconds": 3.066666666666667,
+  "distinct_drawings": 28,
+  "drawing_holds_frames": [
+    3,
+    4
+  ],
+  "motion": "thick scribbles growing into glyphs; small independently redrawn contours on every readable pose; no temporal interpolation",
+  "contour_variation_source_px": 2.3,
+  "stroke_measurements": [
+    [
+      {
+        "char": "У",
+        "letter_px": 44.721359549995796,
+        "scribble_px_before_pose_scale": 64,
+        "minimum_initial_screen_weight_ratio": 0.8729609384159178
+      },
+      {
+        "char": "В",
+        "letter_px": 40.44749683231337,
+        "scribble_px_before_pose_scale": 57,
+        "minimum_initial_screen_weight_ratio": 0.8596329247307675
+      },
+      {
+        "char": "И",
+        "letter_px": 46.0,
+        "scribble_px_before_pose_scale": 65,
+        "minimum_initial_screen_weight_ratio": 0.8619565217391304
+      },
+      {
+        "char": "Д",
+        "letter_px": 48.16637831516918,
+        "scribble_px_before_pose_scale": 68,
+        "minimum_initial_screen_weight_ratio": 0.8611816260832834
+      },
+      {
+        "char": "Е",
+        "letter_px": 46.0,
+        "scribble_px_before_pose_scale": 65,
+        "minimum_initial_screen_weight_ratio": 0.8619565217391304
+      },
+      {
+        "char": "Л",
+        "letter_px": 51.884487084291386,
+        "scribble_px_before_pose_scale": 74,
+        "minimum_initial_screen_weight_ratio": 0.8700095642588832
+      }
+    ],
+    [
+      {
+        "char": "К",
+        "letter_px": 42.04759208325728,
+        "scribble_px_before_pose_scale": 60,
+        "minimum_initial_screen_weight_ratio": 0.8704422343027242
+      },
+      {
+        "char": "Р",
+        "letter_px": 43.86342439892262,
+        "scribble_px_before_pose_scale": 62,
+        "minimum_initial_screen_weight_ratio": 0.8622217831430631
+      },
+      {
+        "char": "И",
+        "letter_px": 38.47076812334269,
+        "scribble_px_before_pose_scale": 55,
+        "minimum_initial_screen_weight_ratio": 0.872090723336586
+      },
+      {
+        "char": "К",
+        "letter_px": 54.037024344425184,
+        "scribble_px_before_pose_scale": 77,
+        "minimum_initial_screen_weight_ratio": 0.869218847074538
+      },
+      {
+        "char": "Н",
+        "letter_px": 44.181444068749045,
+        "scribble_px_before_pose_scale": 63,
+        "minimum_initial_screen_weight_ratio": 0.8698221801034968
+      },
+      {
+        "char": "У",
+        "letter_px": 45.12205669071391,
+        "scribble_px_before_pose_scale": 64,
+        "minimum_initial_screen_weight_ratio": 0.8652087884113315
+      },
+      {
+        "char": "Л",
+        "letter_px": 48.0,
+        "scribble_px_before_pose_scale": 68,
+        "minimum_initial_screen_weight_ratio": 0.8641666666666666
+      }
+    ],
+    [
+      {
+        "char": "В",
+        "letter_px": 39.293765408777,
+        "scribble_px_before_pose_scale": 56,
+        "minimum_initial_screen_weight_ratio": 0.8693491103392631
+      },
+      {
+        "char": "Ы",
+        "letter_px": 39.293765408777,
+        "scribble_px_before_pose_scale": 56,
+        "minimum_initial_screen_weight_ratio": 0.8693491103392631
+      },
+      {
+        "char": "И",
+        "letter_px": 44.0,
+        "scribble_px_before_pose_scale": 62,
+        "minimum_initial_screen_weight_ratio": 0.8595454545454545
+      },
+      {
+        "char": "Г",
+        "letter_px": 46.0,
+        "scribble_px_before_pose_scale": 65,
+        "minimum_initial_screen_weight_ratio": 0.8619565217391304
+      },
+      {
+        "char": "Р",
+        "letter_px": 41.7612260356422,
+        "scribble_px_before_pose_scale": 59,
+        "minimum_initial_screen_weight_ratio": 0.861804200127731
+      },
+      {
+        "char": "А",
+        "letter_px": 44.181444068749045,
+        "scribble_px_before_pose_scale": 63,
+        "minimum_initial_screen_weight_ratio": 0.8698221801034968
+      },
+      {
+        "char": "Л",
+        "letter_px": 51.92301994298868,
+        "scribble_px_before_pose_scale": 74,
+        "minimum_initial_screen_weight_ratio": 0.8693639169979632
+      },
+      {
+        "char": "!",
+        "letter_px": 25.35,
+        "scribble_px_before_pose_scale": 36,
+        "minimum_initial_screen_weight_ratio": 0.8662721893491124
+      }
+    ]
+  ],
+  "order": [
+    "УВИДЕЛ",
+    "КРИКНУЛ",
+    "ВЫИГРАЛ!"
+  ],
+  "frame_map": [
+    {
+      "frame": 0,
+      "word": "увидел",
+      "drawing": "0_00",
+      "kind": "scribble"
+    },
+    {
+      "frame": 1,
+      "word": "увидел",
+      "drawing": "0_00",
+      "kind": "scribble"
+    },
+    {
+      "frame": 2,
+      "word": "увидел",
+      "drawing": "0_00",
+      "kind": "scribble"
+    },
+    {
+      "frame": 3,
+      "word": "увидел",
+      "drawing": "0_01",
+      "kind": "growing"
+    },
+    {
+      "frame": 4,
+      "word": "увидел",
+      "drawing": "0_01",
+      "kind": "growing"
+    },
+    {
+      "frame": 5,
+      "word": "увидел",
+      "drawing": "0_01",
+      "kind": "growing"
+    },
+    {
+      "frame": 6,
+      "word": "увидел",
+      "drawing": "0_02",
+      "kind": "growing"
+    },
+    {
+      "frame": 7,
+      "word": "увидел",
+      "drawing": "0_02",
+      "kind": "growing"
+    },
+    {
+      "frame": 8,
+      "word": "увидел",
+      "drawing": "0_02",
+      "kind": "growing"
+    },
+    {
+      "frame": 9,
+      "word": "увидел",
+      "drawing": "0_02",
+      "kind": "growing"
+    },
+    {
+      "frame": 10,
+      "word": "увидел",
+      "drawing": "0_03",
+      "kind": "overshoot"
+    },
+    {
+      "frame": 11,
+      "word": "увидел",
+      "drawing": "0_03",
+      "kind": "overshoot"
+    },
+    {
+      "frame": 12,
+      "word": "увидел",
+      "drawing": "0_03",
+      "kind": "overshoot"
+    },
+    {
+      "frame": 13,
+      "word": "увидел",
+      "drawing": "0_04",
+      "kind": "readable"
+    },
+    {
+      "frame": 14,
+      "word": "увидел",
+      "drawing": "0_04",
+      "kind": "readable"
+    },
+    {
+      "frame": 15,
+      "word": "увидел",
+      "drawing": "0_04",
+      "kind": "readable"
+    },
+    {
+      "frame": 16,
+      "word": "увидел",
+      "drawing": "0_05",
+      "kind": "readable"
+    },
+    {
+      "frame": 17,
+      "word": "увидел",
+      "drawing": "0_05",
+      "kind": "readable"
+    },
+    {
+      "frame": 18,
+      "word": "увидел",
+      "drawing": "0_05",
+      "kind": "readable"
+    },
+    {
+      "frame": 19,
+      "word": "увидел",
+      "drawing": "0_05",
+      "kind": "readable"
+    },
+    {
+      "frame": 20,
+      "word": "увидел",
+      "drawing": "0_06",
+      "kind": "settled"
+    },
+    {
+      "frame": 21,
+      "word": "увидел",
+      "drawing": "0_06",
+      "kind": "settled"
+    },
+    {
+      "frame": 22,
+      "word": "увидел",
+      "drawing": "0_06",
+      "kind": "settled"
+    },
+    {
+      "frame": 23,
+      "word": "увидел",
+      "drawing": "0_07",
+      "kind": "collapse"
+    },
+    {
+      "frame": 24,
+      "word": "увидел",
+      "drawing": "0_07",
+      "kind": "collapse"
+    },
+    {
+      "frame": 25,
+      "word": "увидел",
+      "drawing": "0_07",
+      "kind": "collapse"
+    },
+    {
+      "frame": 26,
+      "word": "увидел",
+      "drawing": "0_08",
+      "kind": "scribble_out"
+    },
+    {
+      "frame": 27,
+      "word": "увидел",
+      "drawing": "0_08",
+      "kind": "scribble_out"
+    },
+    {
+      "frame": 28,
+      "word": "увидел",
+      "drawing": "0_08",
+      "kind": "scribble_out"
+    },
+    {
+      "frame": 29,
+      "word": "увидел",
+      "drawing": "0_08",
+      "kind": "scribble_out"
+    },
+    {
+      "frame": 30,
+      "word": "крикнул",
+      "drawing": "1_00",
+      "kind": "scribble"
+    },
+    {
+      "frame": 31,
+      "word": "крикнул",
+      "drawing": "1_00",
+      "kind": "scribble"
+    },
+    {
+      "frame": 32,
+      "word": "крикнул",
+      "drawing": "1_00",
+      "kind": "scribble"
+    },
+    {
+      "frame": 33,
+      "word": "крикнул",
+      "drawing": "1_01",
+      "kind": "growing"
+    },
+    {
+      "frame": 34,
+      "word": "крикнул",
+      "drawing": "1_01",
+      "kind": "growing"
+    },
+    {
+      "frame": 35,
+      "word": "крикнул",
+      "drawing": "1_01",
+      "kind": "growing"
+    },
+    {
+      "frame": 36,
+      "word": "крикнул",
+      "drawing": "1_02",
+      "kind": "growing"
+    },
+    {
+      "frame": 37,
+      "word": "крикнул",
+      "drawing": "1_02",
+      "kind": "growing"
+    },
+    {
+      "frame": 38,
+      "word": "крикнул",
+      "drawing": "1_02",
+      "kind": "growing"
+    },
+    {
+      "frame": 39,
+      "word": "крикнул",
+      "drawing": "1_02",
+      "kind": "growing"
+    },
+    {
+      "frame": 40,
+      "word": "крикнул",
+      "drawing": "1_03",
+      "kind": "overshoot"
+    },
+    {
+      "frame": 41,
+      "word": "крикнул",
+      "drawing": "1_03",
+      "kind": "overshoot"
+    },
+    {
+      "frame": 42,
+      "word": "крикнул",
+      "drawing": "1_03",
+      "kind": "overshoot"
+    },
+    {
+      "frame": 43,
+      "word": "крикнул",
+      "drawing": "1_04",
+      "kind": "readable"
+    },
+    {
+      "frame": 44,
+      "word": "крикнул",
+      "drawing": "1_04",
+      "kind": "readable"
+    },
+    {
+      "frame": 45,
+      "word": "крикнул",
+      "drawing": "1_04",
+      "kind": "readable"
+    },
+    {
+      "frame": 46,
+      "word": "крикнул",
+      "drawing": "1_05",
+      "kind": "readable"
+    },
+    {
+      "frame": 47,
+      "word": "крикнул",
+      "drawing": "1_05",
+      "kind": "readable"
+    },
+    {
+      "frame": 48,
+      "word": "крикнул",
+      "drawing": "1_05",
+      "kind": "readable"
+    },
+    {
+      "frame": 49,
+      "word": "крикнул",
+      "drawing": "1_05",
+      "kind": "readable"
+    },
+    {
+      "frame": 50,
+      "word": "крикнул",
+      "drawing": "1_06",
+      "kind": "settled"
+    },
+    {
+      "frame": 51,
+      "word": "крикнул",
+      "drawing": "1_06",
+      "kind": "settled"
+    },
+    {
+      "frame": 52,
+      "word": "крикнул",
+      "drawing": "1_06",
+      "kind": "settled"
+    },
+    {
+      "frame": 53,
+      "word": "крикнул",
+      "drawing": "1_07",
+      "kind": "collapse"
+    },
+    {
+      "frame": 54,
+      "word": "крикнул",
+      "drawing": "1_07",
+      "kind": "collapse"
+    },
+    {
+      "frame": 55,
+      "word": "крикнул",
+      "drawing": "1_07",
+      "kind": "collapse"
+    },
+    {
+      "frame": 56,
+      "word": "крикнул",
+      "drawing": "1_08",
+      "kind": "scribble_out"
+    },
+    {
+      "frame": 57,
+      "word": "крикнул",
+      "drawing": "1_08",
+      "kind": "scribble_out"
+    },
+    {
+      "frame": 58,
+      "word": "крикнул",
+      "drawing": "1_08",
+      "kind": "scribble_out"
+    },
+    {
+      "frame": 59,
+      "word": "крикнул",
+      "drawing": "1_08",
+      "kind": "scribble_out"
+    },
+    {
+      "frame": 60,
+      "word": "выиграл",
+      "drawing": "2_00",
+      "kind": "scribble"
+    },
+    {
+      "frame": 61,
+      "word": "выиграл",
+      "drawing": "2_00",
+      "kind": "scribble"
+    },
+    {
+      "frame": 62,
+      "word": "выиграл",
+      "drawing": "2_00",
+      "kind": "scribble"
+    },
+    {
+      "frame": 63,
+      "word": "выиграл",
+      "drawing": "2_01",
+      "kind": "growing"
+    },
+    {
+      "frame": 64,
+      "word": "выиграл",
+      "drawing": "2_01",
+      "kind": "growing"
+    },
+    {
+      "frame": 65,
+      "word": "выиграл",
+      "drawing": "2_01",
+      "kind": "growing"
+    },
+    {
+      "frame": 66,
+      "word": "выиграл",
+      "drawing": "2_02",
+      "kind": "growing"
+    },
+    {
+      "frame": 67,
+      "word": "выиграл",
+      "drawing": "2_02",
+      "kind": "growing"
+    },
+    {
+      "frame": 68,
+      "word": "выиграл",
+      "drawing": "2_02",
+      "kind": "growing"
+    },
+    {
+      "frame": 69,
+      "word": "выиграл",
+      "drawing": "2_02",
+      "kind": "growing"
+    },
+    {
+      "frame": 70,
+      "word": "выиграл",
+      "drawing": "2_03",
+      "kind": "overshoot"
+    },
+    {
+      "frame": 71,
+      "word": "выиграл",
+      "drawing": "2_03",
+      "kind": "overshoot"
+    },
+    {
+      "frame": 72,
+      "word": "выиграл",
+      "drawing": "2_03",
+      "kind": "overshoot"
+    },
+    {
+      "frame": 73,
+      "word": "выиграл",
+      "drawing": "2_04",
+      "kind": "readable"
+    },
+    {
+      "frame": 74,
+      "word": "выиграл",
+      "drawing": "2_04",
+      "kind": "readable"
+    },
+    {
+      "frame": 75,
+      "word": "выиграл",
+      "drawing": "2_04",
+      "kind": "readable"
+    },
+    {
+      "frame": 76,
+      "word": "выиграл",
+      "drawing": "2_05",
+      "kind": "readable"
+    },
+    {
+      "frame": 77,
+      "word": "выиграл",
+      "drawing": "2_05",
+      "kind": "readable"
+    },
+    {
+      "frame": 78,
+      "word": "выиграл",
+      "drawing": "2_05",
+      "kind": "readable"
+    },
+    {
+      "frame": 79,
+      "word": "выиграл",
+      "drawing": "2_06",
+      "kind": "settled"
+    },
+    {
+      "frame": 80,
+      "word": "выиграл",
+      "drawing": "2_06",
+      "kind": "settled"
+    },
+    {
+      "frame": 81,
+      "word": "выиграл",
+      "drawing": "2_06",
+      "kind": "settled"
+    },
+    {
+      "frame": 82,
+      "word": "выиграл",
+      "drawing": "2_07",
+      "kind": "readable"
+    },
+    {
+      "frame": 83,
+      "word": "выиграл",
+      "drawing": "2_07",
+      "kind": "readable"
+    },
+    {
+      "frame": 84,
+      "word": "выиграл",
+      "drawing": "2_07",
+      "kind": "readable"
+    },
+    {
+      "frame": 85,
+      "word": "выиграл",
+      "drawing": "2_08",
+      "kind": "readable"
+    },
+    {
+      "frame": 86,
+      "word": "выиграл",
+      "drawing": "2_08",
+      "kind": "readable"
+    },
+    {
+      "frame": 87,
+      "word": "выиграл",
+      "drawing": "2_08",
+      "kind": "readable"
+    },
+    {
+      "frame": 88,
+      "word": "выиграл",
+      "drawing": "2_09",
+      "kind": "settled"
+    },
+    {
+      "frame": 89,
+      "word": "выиграл",
+      "drawing": "2_09",
+      "kind": "settled"
+    },
+    {
+      "frame": 90,
+      "word": "выиграл",
+      "drawing": "2_09",
+      "kind": "settled"
+    },
+    {
+      "frame": 91,
+      "word": "выиграл",
+      "drawing": "2_09",
+      "kind": "settled"
+    }
+  ]
+}

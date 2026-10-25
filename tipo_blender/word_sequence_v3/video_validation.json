@@ -1,0 +1,15 @@
+{
+  "file": "tipo_word_sequence_v3_stopmotion_1080p.mp4",
+  "bytes": 1457836,
+  "sha256": "10813b18ad076f3079b9b292488f8f8d2ab64b31d67ccb5d748b669dfb350834",
+  "codec": "h264",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 92,
+  "duration_seconds": 3.066667,
+  "audio": false,
+  "full_decode": "passed"
+}
