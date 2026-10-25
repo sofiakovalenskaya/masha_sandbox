@@ -1,0 +1,25 @@
+{
+  "file": "tipo_card_scatter_v10_rules_zoom_1080p.mp4",
+  "bytes": 1775538,
+  "sha256": "764269f6b5791e52e16ddd16e8d05d309bf5178226160ca545bd4121747aacad",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 228,
+  "duration_seconds": 7.6,
+  "audio": false,
+  "all_153_source_png_frames_byte_identical": true,
+  "zoom_boundary_pixel_identical": true,
+  "zoom_frames": 45,
+  "final_hold_frames": 30,
+  "final_card_side_px": 972,
+  "card_height_fraction": 0.9,
+  "card_fully_visible": true,
+  "zoom_center": [
+    960,
+    540
+  ],
+  "full_decode": "passed"
+}
