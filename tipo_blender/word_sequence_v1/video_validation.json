@@ -1,0 +1,20 @@
+{
+  "file": "tipo_word_sequence_v1_1080p.mp4",
+  "bytes": 1013972,
+  "sha256": "2119416afba86052880fe46041597adc0e66a616e5529c1793bf5a62c456f9db",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 92,
+  "duration": 3.066667,
+  "reference_time_scale": 1.15,
+  "order": [
+    "увидел",
+    "крикнул",
+    "выиграл"
+  ],
+  "minimum_foreground_margin_px": 101,
+  "full_decode_passed": true,
+  "source_images_unchanged": true,
+  "audio": false
+}

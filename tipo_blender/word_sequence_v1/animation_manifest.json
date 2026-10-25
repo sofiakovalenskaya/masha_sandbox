@@ -1,0 +1,862 @@
+{
+  "fps": 30,
+  "frames": 92,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "duration_seconds": 3.066666666666667,
+  "time_scale": 1.15,
+  "reference_frames": 80,
+  "reference_fps": 30,
+  "order": [
+    "УВИДЕЛ",
+    "КРИКНУЛ",
+    "ВЫИГРАЛ!"
+  ],
+  "note": "Final uploaded image says ВЫИГРАЛ!, retained exactly. Silent reference audio omitted.",
+  "source_images": [
+    {
+      "file": "увидел.png",
+      "sha256": "2ea088d1933891d16d222a3ef4b7a780261c212c790cf0860c9e347beb052c50"
+    },
+    {
+      "file": "крикнул.png",
+      "sha256": "f6b25dd8a14e688c4f938bf543c1031e3528d7b1454ad3de14f8fcdba98a41cf"
+    },
+    {
+      "file": "выиграл.png",
+      "sha256": "11c9b39933b68774f36ce6838e169ee52565c865e481acfc5210020416fc10da"
+    }
+  ],
+  "frame_motion": [
+    {
+      "frame": 0,
+      "reference_time_frame": 0,
+      "reference_pose_frame": 0,
+      "word": "увидел",
+      "scale_x": 1.0612903225806452,
+      "scale_y": 0.9587813620071685,
+      "pose": 0
+    },
+    {
+      "frame": 1,
+      "reference_time_frame": 0,
+      "reference_pose_frame": 0,
+      "word": "увидел",
+      "scale_x": 1.0612903225806452,
+      "scale_y": 0.9587813620071685,
+      "pose": 0
+    },
+    {
+      "frame": 2,
+      "reference_time_frame": 1,
+      "reference_pose_frame": 0,
+      "word": "увидел",
+      "scale_x": 1.0612903225806452,
+      "scale_y": 0.9587813620071685,
+      "pose": 0
+    },
+    {
+      "frame": 3,
+      "reference_time_frame": 2,
+      "reference_pose_frame": 0,
+      "word": "увидел",
+      "scale_x": 1.0612903225806452,
+      "scale_y": 0.9587813620071685,
+      "pose": 0
+    },
+    {
+      "frame": 4,
+      "reference_time_frame": 3,
+      "reference_pose_frame": 3,
+      "word": "увидел",
+      "scale_x": 1.0451612903225806,
+      "scale_y": 1.0681003584229392,
+      "pose": 1
+    },
+    {
+      "frame": 5,
+      "reference_time_frame": 4,
+      "reference_pose_frame": 3,
+      "word": "увидел",
+      "scale_x": 1.0451612903225806,
+      "scale_y": 1.0681003584229392,
+      "pose": 1
+    },
+    {
+      "frame": 6,
+      "reference_time_frame": 5,
+      "reference_pose_frame": 5,
+      "word": "увидел",
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "pose": 2
+    },
+    {
+      "frame": 7,
+      "reference_time_frame": 6,
+      "reference_pose_frame": 5,
+      "word": "увидел",
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "pose": 2
+    },
+    {
+      "frame": 8,
+      "reference_time_frame": 6,
+      "reference_pose_frame": 5,
+      "word": "увидел",
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "pose": 2
+    },
+    {
+      "frame": 9,
+      "reference_time_frame": 7,
+      "reference_pose_frame": 5,
+      "word": "увидел",
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "pose": 2
+    },
+    {
+      "frame": 10,
+      "reference_time_frame": 8,
+      "reference_pose_frame": 8,
+      "word": "увидел",
+      "scale_x": 0.9129032258064517,
+      "scale_y": 0.8745519713261649,
+      "pose": 3
+    },
+    {
+      "frame": 11,
+      "reference_time_frame": 9,
+      "reference_pose_frame": 8,
+      "word": "увидел",
+      "scale_x": 0.9129032258064517,
+      "scale_y": 0.8745519713261649,
+      "pose": 3
+    },
+    {
+      "frame": 12,
+      "reference_time_frame": 10,
+      "reference_pose_frame": 8,
+      "word": "увидел",
+      "scale_x": 0.9129032258064517,
+      "scale_y": 0.8745519713261649,
+      "pose": 3
+    },
+    {
+      "frame": 13,
+      "reference_time_frame": 11,
+      "reference_pose_frame": 11,
+      "word": "крикнул",
+      "scale_x": 0.9207207207207208,
+      "scale_y": 1.018140589569161,
+      "pose": 4
+    },
+    {
+      "frame": 14,
+      "reference_time_frame": 12,
+      "reference_pose_frame": 11,
+      "word": "крикнул",
+      "scale_x": 0.9207207207207208,
+      "scale_y": 1.018140589569161,
+      "pose": 4
+    },
+    {
+      "frame": 15,
+      "reference_time_frame": 13,
+      "reference_pose_frame": 11,
+      "word": "крикнул",
+      "scale_x": 0.9207207207207208,
+      "scale_y": 1.018140589569161,
+      "pose": 4
+    },
+    {
+      "frame": 16,
+      "reference_time_frame": 13,
+      "reference_pose_frame": 11,
+      "word": "крикнул",
+      "scale_x": 0.9207207207207208,
+      "scale_y": 1.018140589569161,
+      "pose": 4
+    },
+    {
+      "frame": 17,
+      "reference_time_frame": 14,
+      "reference_pose_frame": 14,
+      "word": "крикнул",
+      "scale_x": 0.963963963963964,
+      "scale_y": 0.963718820861678,
+      "pose": 5
+    },
+    {
+      "frame": 18,
+      "reference_time_frame": 15,
+      "reference_pose_frame": 14,
+      "word": "крикнул",
+      "scale_x": 0.963963963963964,
+      "scale_y": 0.963718820861678,
+      "pose": 5
+    },
+    {
+      "frame": 19,
+      "reference_time_frame": 16,
+      "reference_pose_frame": 16,
+      "word": "крикнул",
+      "scale_x": 1.009009009009009,
+      "scale_y": 0.9841269841269841,
+      "pose": 6
+    },
+    {
+      "frame": 20,
+      "reference_time_frame": 17,
+      "reference_pose_frame": 16,
+      "word": "крикнул",
+      "scale_x": 1.009009009009009,
+      "scale_y": 0.9841269841269841,
+      "pose": 6
+    },
+    {
+      "frame": 21,
+      "reference_time_frame": 18,
+      "reference_pose_frame": 16,
+      "word": "крикнул",
+      "scale_x": 1.009009009009009,
+      "scale_y": 0.9841269841269841,
+      "pose": 6
+    },
+    {
+      "frame": 22,
+      "reference_time_frame": 19,
+      "reference_pose_frame": 19,
+      "word": "крикнул",
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "pose": 7
+    },
+    {
+      "frame": 23,
+      "reference_time_frame": 20,
+      "reference_pose_frame": 19,
+      "word": "крикнул",
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "pose": 7
+    },
+    {
+      "frame": 24,
+      "reference_time_frame": 20,
+      "reference_pose_frame": 19,
+      "word": "крикнул",
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "pose": 7
+    },
+    {
+      "frame": 25,
+      "reference_time_frame": 21,
+      "reference_pose_frame": 19,
+      "word": "крикнул",
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "pose": 7
+    },
+    {
+      "frame": 26,
+      "reference_time_frame": 22,
+      "reference_pose_frame": 22,
+      "word": "крикнул",
+      "scale_x": 1.018018018018018,
+      "scale_y": 1.018140589569161,
+      "pose": 8
+    },
+    {
+      "frame": 27,
+      "reference_time_frame": 23,
+      "reference_pose_frame": 22,
+      "word": "крикнул",
+      "scale_x": 1.018018018018018,
+      "scale_y": 1.018140589569161,
+      "pose": 8
+    },
+    {
+      "frame": 28,
+      "reference_time_frame": 24,
+      "reference_pose_frame": 24,
+      "word": "крикнул",
+      "scale_x": 0.9297297297297298,
+      "scale_y": 0.8344671201814059,
+      "pose": 9
+    },
+    {
+      "frame": 29,
+      "reference_time_frame": 25,
+      "reference_pose_frame": 24,
+      "word": "крикнул",
+      "scale_x": 0.9297297297297298,
+      "scale_y": 0.8344671201814059,
+      "pose": 9
+    },
+    {
+      "frame": 30,
+      "reference_time_frame": 26,
+      "reference_pose_frame": 24,
+      "word": "крикнул",
+      "scale_x": 0.9297297297297298,
+      "scale_y": 0.8344671201814059,
+      "pose": 9
+    },
+    {
+      "frame": 31,
+      "reference_time_frame": 26,
+      "reference_pose_frame": 24,
+      "word": "крикнул",
+      "scale_x": 0.9297297297297298,
+      "scale_y": 0.8344671201814059,
+      "pose": 9
+    },
+    {
+      "frame": 32,
+      "reference_time_frame": 27,
+      "reference_pose_frame": 27,
+      "word": "крикнул",
+      "scale_x": 0.8054054054054054,
+      "scale_y": 0.5827664399092971,
+      "pose": 10
+    },
+    {
+      "frame": 33,
+      "reference_time_frame": 28,
+      "reference_pose_frame": 27,
+      "word": "крикнул",
+      "scale_x": 0.8054054054054054,
+      "scale_y": 0.5827664399092971,
+      "pose": 10
+    },
+    {
+      "frame": 34,
+      "reference_time_frame": 29,
+      "reference_pose_frame": 27,
+      "word": "крикнул",
+      "scale_x": 0.8054054054054054,
+      "scale_y": 0.5827664399092971,
+      "pose": 10
+    },
+    {
+      "frame": 35,
+      "reference_time_frame": 30,
+      "reference_pose_frame": 30,
+      "word": "крикнул",
+      "scale_x": 1.0234234234234234,
+      "scale_y": 0.691609977324263,
+      "pose": 11
+    },
+    {
+      "frame": 36,
+      "reference_time_frame": 31,
+      "reference_pose_frame": 30,
+      "word": "крикнул",
+      "scale_x": 1.0234234234234234,
+      "scale_y": 0.691609977324263,
+      "pose": 11
+    },
+    {
+      "frame": 37,
+      "reference_time_frame": 32,
+      "reference_pose_frame": 30,
+      "word": "крикнул",
+      "scale_x": 1.0234234234234234,
+      "scale_y": 0.691609977324263,
+      "pose": 11
+    },
+    {
+      "frame": 38,
+      "reference_time_frame": 33,
+      "reference_pose_frame": 33,
+      "word": "выиграл",
+      "scale_x": 0.9158878504672897,
+      "scale_y": 0.9961240310077519,
+      "pose": 12
+    },
+    {
+      "frame": 39,
+      "reference_time_frame": 33,
+      "reference_pose_frame": 33,
+      "word": "выиграл",
+      "scale_x": 0.9158878504672897,
+      "scale_y": 0.9961240310077519,
+      "pose": 12
+    },
+    {
+      "frame": 40,
+      "reference_time_frame": 34,
+      "reference_pose_frame": 33,
+      "word": "выиграл",
+      "scale_x": 0.9158878504672897,
+      "scale_y": 0.9961240310077519,
+      "pose": 12
+    },
+    {
+      "frame": 41,
+      "reference_time_frame": 35,
+      "reference_pose_frame": 35,
+      "word": "выиграл",
+      "scale_x": 0.9612817089452603,
+      "scale_y": 0.9961240310077519,
+      "pose": 13
+    },
+    {
+      "frame": 42,
+      "reference_time_frame": 36,
+      "reference_pose_frame": 35,
+      "word": "выиграл",
+      "scale_x": 0.9612817089452603,
+      "scale_y": 0.9961240310077519,
+      "pose": 13
+    },
+    {
+      "frame": 43,
+      "reference_time_frame": 37,
+      "reference_pose_frame": 35,
+      "word": "выиграл",
+      "scale_x": 0.9612817089452603,
+      "scale_y": 0.9961240310077519,
+      "pose": 13
+    },
+    {
+      "frame": 44,
+      "reference_time_frame": 38,
+      "reference_pose_frame": 38,
+      "word": "выиграл",
+      "scale_x": 0.9719626168224299,
+      "scale_y": 1.0329457364341086,
+      "pose": 14
+    },
+    {
+      "frame": 45,
+      "reference_time_frame": 39,
+      "reference_pose_frame": 38,
+      "word": "выиграл",
+      "scale_x": 0.9719626168224299,
+      "scale_y": 1.0329457364341086,
+      "pose": 14
+    },
+    {
+      "frame": 46,
+      "reference_time_frame": 40,
+      "reference_pose_frame": 38,
+      "word": "выиграл",
+      "scale_x": 0.9719626168224299,
+      "scale_y": 1.0329457364341086,
+      "pose": 14
+    },
+    {
+      "frame": 47,
+      "reference_time_frame": 40,
+      "reference_pose_frame": 38,
+      "word": "выиграл",
+      "scale_x": 0.9719626168224299,
+      "scale_y": 1.0329457364341086,
+      "pose": 14
+    },
+    {
+      "frame": 48,
+      "reference_time_frame": 41,
+      "reference_pose_frame": 41,
+      "word": "выиграл",
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "pose": 15
+    },
+    {
+      "frame": 49,
+      "reference_time_frame": 42,
+      "reference_pose_frame": 41,
+      "word": "выиграл",
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "pose": 15
+    },
+    {
+      "frame": 50,
+      "reference_time_frame": 43,
+      "reference_pose_frame": 41,
+      "word": "выиграл",
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "pose": 15
+    },
+    {
+      "frame": 51,
+      "reference_time_frame": 44,
+      "reference_pose_frame": 44,
+      "word": "выиграл",
+      "scale_x": 0.9786381842456608,
+      "scale_y": 1.003875968992248,
+      "pose": 16
+    },
+    {
+      "frame": 52,
+      "reference_time_frame": 45,
+      "reference_pose_frame": 44,
+      "word": "выиграл",
+      "scale_x": 0.9786381842456608,
+      "scale_y": 1.003875968992248,
+      "pose": 16
+    },
+    {
+      "frame": 53,
+      "reference_time_frame": 46,
+      "reference_pose_frame": 46,
+      "word": "выиграл",
+      "scale_x": 1.0093457943925233,
+      "scale_y": 0.7325581395348837,
+      "pose": 17
+    },
+    {
+      "frame": 54,
+      "reference_time_frame": 46,
+      "reference_pose_frame": 46,
+      "word": "выиграл",
+      "scale_x": 1.0093457943925233,
+      "scale_y": 0.7325581395348837,
+      "pose": 17
+    },
+    {
+      "frame": 55,
+      "reference_time_frame": 47,
+      "reference_pose_frame": 46,
+      "word": "выиграл",
+      "scale_x": 1.0093457943925233,
+      "scale_y": 0.7325581395348837,
+      "pose": 17
+    },
+    {
+      "frame": 56,
+      "reference_time_frame": 48,
+      "reference_pose_frame": 46,
+      "word": "выиграл",
+      "scale_x": 1.0093457943925233,
+      "scale_y": 0.7325581395348837,
+      "pose": 17
+    },
+    {
+      "frame": 57,
+      "reference_time_frame": 49,
+      "reference_pose_frame": 49,
+      "word": "выиграл",
+      "scale_x": 1.0186915887850467,
+      "scale_y": 0.563953488372093,
+      "pose": 18
+    },
+    {
+      "frame": 58,
+      "reference_time_frame": 50,
+      "reference_pose_frame": 49,
+      "word": "выиграл",
+      "scale_x": 1.0186915887850467,
+      "scale_y": 0.563953488372093,
+      "pose": 18
+    },
+    {
+      "frame": 59,
+      "reference_time_frame": 51,
+      "reference_pose_frame": 49,
+      "word": "выиграл",
+      "scale_x": 1.0186915887850467,
+      "scale_y": 0.563953488372093,
+      "pose": 18
+    },
+    {
+      "frame": 60,
+      "reference_time_frame": 52,
+      "reference_pose_frame": 52,
+      "word": "выиграл",
+      "scale_x": 1.0307076101468624,
+      "scale_y": 0.6782945736434108,
+      "pose": 19
+    },
+    {
+      "frame": 61,
+      "reference_time_frame": 53,
+      "reference_pose_frame": 52,
+      "word": "выиграл",
+      "scale_x": 1.0307076101468624,
+      "scale_y": 0.6782945736434108,
+      "pose": 19
+    },
+    {
+      "frame": 62,
+      "reference_time_frame": 53,
+      "reference_pose_frame": 52,
+      "word": "выиграл",
+      "scale_x": 1.0307076101468624,
+      "scale_y": 0.6782945736434108,
+      "pose": 19
+    },
+    {
+      "frame": 63,
+      "reference_time_frame": 54,
+      "reference_pose_frame": 54,
+      "word": "выиграл",
+      "scale_x": 0.9739776951672863,
+      "scale_y": 0.9288537549407114,
+      "pose": 20
+    },
+    {
+      "frame": 64,
+      "reference_time_frame": 55,
+      "reference_pose_frame": 54,
+      "word": "выиграл",
+      "scale_x": 0.9739776951672863,
+      "scale_y": 0.9288537549407114,
+      "pose": 20
+    },
+    {
+      "frame": 65,
+      "reference_time_frame": 56,
+      "reference_pose_frame": 54,
+      "word": "выиграл",
+      "scale_x": 0.9739776951672863,
+      "scale_y": 0.9288537549407114,
+      "pose": 20
+    },
+    {
+      "frame": 66,
+      "reference_time_frame": 57,
+      "reference_pose_frame": 57,
+      "word": "выиграл",
+      "scale_x": 0.9851301115241635,
+      "scale_y": 0.9940711462450593,
+      "pose": 21
+    },
+    {
+      "frame": 67,
+      "reference_time_frame": 58,
+      "reference_pose_frame": 57,
+      "word": "выиграл",
+      "scale_x": 0.9851301115241635,
+      "scale_y": 0.9940711462450593,
+      "pose": 21
+    },
+    {
+      "frame": 68,
+      "reference_time_frame": 59,
+      "reference_pose_frame": 57,
+      "word": "выиграл",
+      "scale_x": 0.9851301115241635,
+      "scale_y": 0.9940711462450593,
+      "pose": 21
+    },
+    {
+      "frame": 69,
+      "reference_time_frame": 60,
+      "reference_pose_frame": 60,
+      "word": "выиграл",
+      "scale_x": 0.9876084262701363,
+      "scale_y": 0.9901185770750988,
+      "pose": 22
+    },
+    {
+      "frame": 70,
+      "reference_time_frame": 60,
+      "reference_pose_frame": 60,
+      "word": "выиграл",
+      "scale_x": 0.9876084262701363,
+      "scale_y": 0.9901185770750988,
+      "pose": 22
+    },
+    {
+      "frame": 71,
+      "reference_time_frame": 61,
+      "reference_pose_frame": 60,
+      "word": "выиграл",
+      "scale_x": 0.9876084262701363,
+      "scale_y": 0.9901185770750988,
+      "pose": 22
+    },
+    {
+      "frame": 72,
+      "reference_time_frame": 62,
+      "reference_pose_frame": 60,
+      "word": "выиграл",
+      "scale_x": 0.9876084262701363,
+      "scale_y": 0.9901185770750988,
+      "pose": 22
+    },
+    {
+      "frame": 73,
+      "reference_time_frame": 63,
+      "reference_pose_frame": 63,
+      "word": "выиграл",
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "pose": 23
+    },
+    {
+      "frame": 74,
+      "reference_time_frame": 64,
+      "reference_pose_frame": 63,
+      "word": "выиграл",
+      "scale_x": 1.0,
+      "scale_y": 1.0,
+      "pose": 23
+    },
+    {
+      "frame": 75,
+      "reference_time_frame": 65,
+      "reference_pose_frame": 65,
+      "word": "выиграл",
+      "scale_x": 0.9962825278810409,
+      "scale_y": 1.0039525691699605,
+      "pose": 24
+    },
+    {
+      "frame": 76,
+      "reference_time_frame": 66,
+      "reference_pose_frame": 65,
+      "word": "выиграл",
+      "scale_x": 0.9962825278810409,
+      "scale_y": 1.0039525691699605,
+      "pose": 24
+    },
+    {
+      "frame": 77,
+      "reference_time_frame": 66,
+      "reference_pose_frame": 65,
+      "word": "выиграл",
+      "scale_x": 0.9962825278810409,
+      "scale_y": 1.0039525691699605,
+      "pose": 24
+    },
+    {
+      "frame": 78,
+      "reference_time_frame": 67,
+      "reference_pose_frame": 67,
+      "word": "выиграл",
+      "scale_x": 0.9876084262701363,
+      "scale_y": 0.9920948616600791,
+      "pose": 25
+    },
+    {
+      "frame": 79,
+      "reference_time_frame": 68,
+      "reference_pose_frame": 67,
+      "word": "выиграл",
+      "scale_x": 0.9876084262701363,
+      "scale_y": 0.9920948616600791,
+      "pose": 25
+    },
+    {
+      "frame": 80,
+      "reference_time_frame": 69,
+      "reference_pose_frame": 67,
+      "word": "выиграл",
+      "scale_x": 0.9876084262701363,
+      "scale_y": 0.9920948616600791,
+      "pose": 25
+    },
+    {
+      "frame": 81,
+      "reference_time_frame": 70,
+      "reference_pose_frame": 70,
+      "word": "выиграл",
+      "scale_x": 1.0012391573729864,
+      "scale_y": 1.0,
+      "pose": 26
+    },
+    {
+      "frame": 82,
+      "reference_time_frame": 71,
+      "reference_pose_frame": 70,
+      "word": "выиграл",
+      "scale_x": 1.0012391573729864,
+      "scale_y": 1.0,
+      "pose": 27
+    },
+    {
+      "frame": 83,
+      "reference_time_frame": 72,
+      "reference_pose_frame": 70,
+      "word": "выиграл",
+      "scale_x": 1.0012391573729864,
+      "scale_y": 1.0,
+      "pose": 28
+    },
+    {
+      "frame": 84,
+      "reference_time_frame": 73,
+      "reference_pose_frame": 70,
+      "word": "выиграл",
+      "scale_x": 1.0012391573729864,
+      "scale_y": 1.0,
+      "pose": 29
+    },
+    {
+      "frame": 85,
+      "reference_time_frame": 73,
+      "reference_pose_frame": 70,
+      "word": "выиграл",
+      "scale_x": 1.0012391573729864,
+      "scale_y": 1.0,
+      "pose": 29
+    },
+    {
+      "frame": 86,
+      "reference_time_frame": 74,
+      "reference_pose_frame": 70,
+      "word": "выиграл",
+      "scale_x": 1.0012391573729864,
+      "scale_y": 1.0,
+      "pose": 30
+    },
+    {
+      "frame": 87,
+      "reference_time_frame": 75,
+      "reference_pose_frame": 70,
+      "word": "выиграл",
+      "scale_x": 1.0012391573729864,
+      "scale_y": 1.0,
+      "pose": 31
+    },
+    {
+      "frame": 88,
+      "reference_time_frame": 76,
+      "reference_pose_frame": 70,
+      "word": "выиграл",
+      "scale_x": 1.0012391573729864,
+      "scale_y": 1.0,
+      "pose": 32
+    },
+    {
+      "frame": 89,
+      "reference_time_frame": 77,
+      "reference_pose_frame": 70,
+      "word": "выиграл",
+      "scale_x": 1.0012391573729864,
+      "scale_y": 1.0,
+      "pose": 33
+    },
+    {
+      "frame": 90,
+      "reference_time_frame": 78,
+      "reference_pose_frame": 70,
+      "word": "выиграл",
+      "scale_x": 1.0012391573729864,
+      "scale_y": 1.0,
+      "pose": 34
+    },
+    {
+      "frame": 91,
+      "reference_time_frame": 79,
+      "reference_pose_frame": 70,
+      "word": "выиграл",
+      "scale_x": 1.0012391573729864,
+      "scale_y": 1.0,
+      "pose": 35
+    }
+  ]
+}
