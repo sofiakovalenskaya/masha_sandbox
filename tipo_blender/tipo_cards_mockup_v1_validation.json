@@ -1,0 +1,21 @@
+{
+  "file": "tipo_cards_mockup_v1_1920x1080.png",
+  "format": "PNG",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "color_mode": "RGB",
+  "bytes": 2803771,
+  "sha256": "2f667bfa91f803375224e2624b70a0910297c31785a5c92df88d52615f8a0477",
+  "art_direction": "Editorial product mockup for a design-conscious young adult audience; brand palette; matte paper and soft studio shadows.",
+  "references": [
+    "original fronts from approved project",
+    "original four colored backs from approved project"
+  ],
+  "generated_source_dimensions": [
+    1672,
+    941
+  ],
+  "export": "Lanczos resampling and centered aspect-ratio fit to exact requested dimensions"
+}
