@@ -1,0 +1,18 @@
+{
+  "file": "tipo_cards_mockup_playing_v3_1920x1080.png",
+  "format": "PNG",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "color_mode": "RGB",
+  "bytes": 2958747,
+  "sha256": "7593338a1e7233ccf93e7180cc891e126641adbd174751fbfd75fce9522a5cca",
+  "art_direction": "Rearranged in-progress game on a dim party table; hands placing and holding cards; strong direct analog-camera flash and visible surface glare.",
+  "source_mockup": "tipo_cards_mockup_film_v2_1920x1080.png",
+  "generated_source_dimensions": [
+    1672,
+    941
+  ],
+  "export": "Lanczos resampling and centered aspect-ratio fit to exact requested dimensions"
+}
