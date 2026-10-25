@@ -1,0 +1,23 @@
+{
+  "file": "tipo_clear_bag_mockup_v4_1920x1080.png",
+  "format": "PNG",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "color_mode": "RGB",
+  "bytes": 2729549,
+  "sha256": "cbff88798cf39c9e8d3a7a1d3baecb5431bda4d2b48a458596bca4e8b334239e",
+  "edit": "Removed the extra third earbud; one matching pair of two wired earbuds is visible at the bag floor beside the box and compact.",
+  "physical_box_reference_mm": [
+    67,
+    67,
+    27
+  ],
+  "source_mockup": "tipo_clear_bag_mockup_v3_1920x1080.png",
+  "generated_source_dimensions": [
+    1672,
+    941
+  ],
+  "export": "Lanczos resampling and centered aspect-ratio fit to exact requested dimensions"
+}
