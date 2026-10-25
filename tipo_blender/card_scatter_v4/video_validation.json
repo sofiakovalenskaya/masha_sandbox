@@ -1,0 +1,21 @@
+{
+  "file": "tipo_card_scatter_v4_original_40cards_1080p.mp4",
+  "bytes": 676103,
+  "sha256": "e9fb0d58ff372655b41e24353aa633255ebce86193b5f6094b675bc408678e37",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 54,
+  "duration_seconds": 1.8,
+  "audio": false,
+  "full_decode": "passed",
+  "final_cards": 40,
+  "based_on": "card_scatter_v1",
+  "first_30_frames_byte_identical_to_v1": true,
+  "remaining_cards_identical_to_first_39_in_v1": true,
+  "hand_timing_unchanged": true,
+  "drawing_timing_unchanged": true,
+  "source_artwork_unchanged": true
+}
