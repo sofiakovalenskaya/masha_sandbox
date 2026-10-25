@@ -1,0 +1,23 @@
+{
+  "file": "tipo_clear_bag_mockup_v3_1920x1080.png",
+  "format": "PNG",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "color_mode": "RGB",
+  "bytes": 2900176,
+  "sha256": "39802da4d883572d8b508674b0e3fd041477c6f3caf0716de7d329fd5de9ddeb",
+  "edit": "Muted charcoal sketchbook, natural wood and graphite pencils, restrained dusty-rose lip gloss and subtler accessory highlights emphasize the small cream TIPO game box.",
+  "physical_box_reference_mm": [
+    67,
+    67,
+    27
+  ],
+  "source_mockup": "tipo_clear_bag_mockup_v2_1920x1080.png",
+  "generated_source_dimensions": [
+    1672,
+    941
+  ],
+  "export": "Lanczos resampling and centered aspect-ratio fit to exact requested dimensions"
+}
