@@ -1,0 +1,18 @@
+{
+  "file": "tipo_cards_mockup_film_v2_1920x1080.png",
+  "format": "PNG",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "color_mode": "RGB",
+  "bytes": 2989843,
+  "sha256": "2a3f93b8fb3e3b3a0585cdd62dde277683e8f3e4e164c83df783f0b3f127dc96",
+  "art_direction": "Candid analog-film party-table mockup; wooden tabletop, direct flash, warm evening light, organic grain and authentic card artwork references.",
+  "source_mockup": "tipo_cards_mockup_v1_1920x1080.png",
+  "generated_source_dimensions": [
+    1672,
+    941
+  ],
+  "export": "Lanczos resampling and centered aspect-ratio fit to exact requested dimensions"
+}
