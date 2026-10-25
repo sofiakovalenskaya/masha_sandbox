@@ -1,0 +1,28 @@
+{
+  "file": "tipo_sleepover_mockup_v1_1920x1080.png",
+  "format": "PNG",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "color_mode": "RGB",
+  "bytes": 2898457,
+  "sha256": "967de5589d29030d54dd40cd4fa74b66012e387c179ad89bbb58f22387af1450",
+  "art_direction": "Cozy adult girls sleepover playing TIPO on a knitted blanket, tea and snacks, dim warm home lighting and direct flash; naturally tilted intersecting rows of cards.",
+  "layout": {
+    "horizontal_cards": 7,
+    "vertical_cards": 5,
+    "shared_cards": 1,
+    "unique_layout_cards": 11
+  },
+  "latest_edit": "Removed foreground hand and the three cards it held; preserved the upper hand actively placing a card.",
+  "references": [
+    "original twelve card faces",
+    "original four colored card backs"
+  ],
+  "generated_source_dimensions": [
+    1672,
+    941
+  ],
+  "export": "Lanczos resampling and centered aspect-ratio fit to exact requested dimensions"
+}
