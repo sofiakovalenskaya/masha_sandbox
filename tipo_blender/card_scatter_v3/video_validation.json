@@ -1,0 +1,26 @@
+{
+  "file": "tipo_card_scatter_v3_stopmotion_1080p.mp4",
+  "bytes": 1168001,
+  "sha256": "b6faa5405b6e12b2c837f7f37aff858c084008e95f5a36559adaa23f892871ae",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "frames": 90,
+  "fps": 30,
+  "duration_seconds": 3.0,
+  "audio": false,
+  "full_decode": "passed",
+  "final_cards": 40,
+  "uniform_side_px": 220,
+  "hero_has_same_size": true,
+  "opening_is_empty": true,
+  "visible_table_fraction": 0.1952006172839506,
+  "cards_with_five_distinct_positions": 39,
+  "minimum_outward_travel_px": 32.90981953426619,
+  "median_outward_travel_px": 158.4494593931181,
+  "maximum_outward_travel_px": 269.4513893821804,
+  "settled_positions_correct": true,
+  "source_artwork_unchanged": true,
+  "held_frames_byte_identical": true
+}

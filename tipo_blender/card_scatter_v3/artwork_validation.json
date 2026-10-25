@@ -1,0 +1,14 @@
+{
+  "final_cards": 40,
+  "uniform_side_px": 220,
+  "hero_has_same_size": true,
+  "opening_is_empty": true,
+  "visible_table_fraction": 0.1952006172839506,
+  "cards_with_five_distinct_positions": 39,
+  "minimum_outward_travel_px": 32.90981953426619,
+  "median_outward_travel_px": 158.4494593931181,
+  "maximum_outward_travel_px": 269.4513893821804,
+  "settled_positions_correct": true,
+  "source_artwork_unchanged": true,
+  "held_frames_byte_identical": true
+}

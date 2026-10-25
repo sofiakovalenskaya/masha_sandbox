@@ -1,0 +1,5886 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 90,
+  "duration": 3.0,
+  "drawings": 30,
+  "hold_frames": 3,
+  "final_cards": 40,
+  "uniform_card_side_px": 220,
+  "motion": "short radial flights with turning, outward overshoot and settling; held drawings",
+  "visible_table_fraction": 0.1952006172839506,
+  "source_artwork_sha256": {
+    "blue.png": "debede79c518544e99a779a07f784f689efd6c510d67d0bc43ccb48c51675be2",
+    "face_49.png": "b19c2306b5ce0bfe99594f024fa966dd90a589af81f1004c5291ce57f55ed3b8",
+    "face_50.png": "efbf92235b60283179fe810633ee2afa75a80d724d830f0904769158e37f32db",
+    "face_51.png": "5640d9dcc316f4e353ff62163eccc89414dbc54185fa4cc7b952dc18a7fc119f",
+    "face_52.png": "38502f833100a51aaaccd97813832cb425001ef226c82212dcb54e034075e67a",
+    "face_53.png": "65de760f19c686b3ac63491a94615976d94611afd9b83938f390f937b25c093f",
+    "face_54.png": "264863a8efbb8413001bf29ed795df88e9fe30bcdd77254ec09550b504f8b5c8",
+    "face_55.png": "a09698f4179cc08b38acd770a620b48836aab83bb07c3584b7ded2e863656174",
+    "face_56.png": "d4782f8bd0c1e69b98253523474d84e38b9c29f8fa5ba469097783124ef7fd05",
+    "face_57.png": "285620935a8f12623f0714c1ccb0aae19d87be243d721277bdc4fc5c418bd602",
+    "face_58.png": "0e670cc881ee16f7b2cc8a0f50dd7befcf4fb0445902b934c013bd550dc5be50",
+    "face_59.png": "79d29c15d6502500ecbda710664be61c167ba64f4d7c7c552e332f018638c89b",
+    "face_60.png": "e6471625121e6bd239764eff36602bb808035a2f250cc316f1f4b865cca8d652",
+    "face_61.png": "ccaff0d4d21714b7d3cccb1d07e0afc8365e4dcbe87349794473cc1d5d87eeaa",
+    "face_62.png": "4fe60ee513d3b5048ebd2452b81f7ddeec0c2bc98f40fa13258bd012f7606707",
+    "face_63.png": "8f7d029914725d77aa48eedd5d1a1357cfa7b4c4cb77233a985af3f017174aeb",
+    "face_64.png": "f8ea8e01db9a1b05271fc2ada38cc2a9d93ad321cd0ce64b8a4d22288963fc1d",
+    "face_65.png": "fe5e699e2553a45aaf66713e65adc79f54b35ef435ceca4add0dec5faee835e7",
+    "face_66.png": "7f6aa791808d7514c3e9715a33ee452172819f517a06e51be44426ad605719c8",
+    "face_67.png": "765434fffae9c34e9a9dab0ee09afe266eed91b03fbd81e35804870083f529e6",
+    "face_68.png": "0ab4836cebe91411b621c5b8fcbe3258bce1ccd1b0add0400003ca30e769e025",
+    "face_69.png": "23381e96c55de2e33ab08989d49e223b4c66fc18e67d862dc6d93c7e5422e5f1",
+    "face_70.png": "e34923a680e8137adb8057bef681bcd8f5b0b4c0c735cad3a3b9bd7262d7dd4a",
+    "face_71.png": "160015b5e591580c05e69e6c69773860ddc0a9de4ab62d88d1f447042c109337",
+    "face_72.png": "b2d13c1cd6aa78a5d469d14e26c78a09bc97c5f4d8aceadd1d5fbee8d8af388a",
+    "face_73.png": "25cac0ea14ae5195d4839b54d743903b0cbd15d19118267e4e855594d429dd4e",
+    "face_74.png": "b337dd18d341db1abbf10621e187f67af6df82fbf352e6d6d142214402cf53db",
+    "face_75.png": "4f8fee976f59ef20b53b888140514058d81176dcb8bd535eee1bf872189644c4",
+    "face_76.png": "edf23946851aa629a85b27593f2bfd6ee17be21147db13d2b0b2be2b775edbed",
+    "face_77.png": "344f09fbca392d5104d81ed43dc6af436b0fd4c60088f385ee12184f8e849b69",
+    "face_78.png": "2ecb5673f4775f6e4f54e528d06c1de7b1301f9986eabc52b5af4957413144c1",
+    "face_79.png": "1d9144ace63f0a29dc462b14907a49bcac09e54e88c34aae90ff8b3c31c43026",
+    "face_80.png": "404169696826b4c47b965008a585993e02658a695214f8dc3fc2d67cd8539028",
+    "face_81.png": "4fb259d3d47dcdb389523c6db8fbe0c682d09d3c5639301a2e2335938bfa28f0",
+    "face_82.png": "db2405b1f60dc0fba12ca17c414f6dfbf6e64ab362e9ccbe5150c98be8937992",
+    "face_83.png": "cd460d6a47d602ffe783232825f097ae745ef69c4db723b631a5d73cd3f0b06c",
+    "face_84.png": "6472a083f8f267a96f54d1de9a6e425afefe548bcd108fa85b90c20a3aa10e1e",
+    "face_85.png": "c3efda0fd9bc45a8723e127f371c250caf05b57d7e1143192fe19bbc2b6d8ecc",
+    "face_86.png": "f61b3f8712629327a82a2042bacb2f9846bb804c3ccd06df4ba388d277fd73fd",
+    "face_87.png": "c498fe97d13bf8c50686db2304296440fb7516076ef995ce6e680e05621a28c2",
+    "face_88.png": "f7a017d6032e56f58f30cb3ac16b95e14a001b07b412c6afa407ee0860248c2d",
+    "face_89.png": "3b3cbc0a836ec65a118fc2c44aa79db275c6c2a63c7dda6481b3b3f8de6d4f9d",
+    "face_90.png": "084ceeea5bc65d9983fc77d01cd9856dbbd2d9450e0ffb57f32e265d3e992bed",
+    "face_91.png": "90a4a5782acfc424c634a4af7b63d2985c233b766dc543e9162a04a44602c97f",
+    "face_92.png": "e4b55d8cecc0e83ca13b017030d24431da054303938acafe38ecc3e28a1ec7d5",
+    "face_93.png": "4583a73bf30fb31ccf2104fd2dfd1bfe6c9420566b05c620bf8abc5ddd9f98c3",
+    "face_94.png": "0da23da6c61a544dfef9cd1e66e59417b0cee4834e8a7e5ceef233db6b2bf295",
+    "face_95.png": "64532138e8571e23d3d7df9b95995bdfe6c230d6050166db0c15fc3e3e988e3b",
+    "face_96.png": "c8420cbce8e13c17c91432749b7c1ce7487c19439a88f6aaf388241715dffe34",
+    "green.png": "ef7644b34b80b5c2e90aceb029fcec62ca9da4e3cd4978ee536194e5bf603f12",
+    "pink.png": "04d4e97da47d8d9c1b0b8bcce7d702438f5541dff242cede3832bdd05da86c84",
+    "ref_H3.png": "bad4382b3d1e8a60f2f09f26e9edd1932cac2c5834a908c2009f80c430c2feff",
+    "ref_H4.png": "100ee9f9bb9af999614756397666653377e7aff32f23bef6494c111dd2152cb7",
+    "ref_H7.png": "392feddca2c893c806e93657331767cd79bd3a823668ddedf572d61582aa6124",
+    "yellow.png": "de8ec1b1f5cdc84716ea0f5cb4da3364fa43c70a67af8a0f08ec5d1c5741d70d"
+  },
+  "hero": {
+    "file": "face_49.png",
+    "side": 220,
+    "x": 980.0,
+    "y": 540.0,
+    "angle": -20
+  },
+  "cards": [
+    {
+      "file": "face_74.png",
+      "x": 853.952487851689,
+      "y": 551.5570940767603,
+      "angle": -7.4088659255418605,
+      "side": 220,
+      "launch_pose": 9,
+      "spin": -12.895460195480412,
+      "bend": 25.01334535214704
+    },
+    {
+      "file": "face_90.png",
+      "x": 1343.2570924790268,
+      "y": 541.6374957832289,
+      "angle": -31.59936420288508,
+      "side": 220,
+      "launch_pose": 9,
+      "spin": -18.976877532730548,
+      "bend": 16.808662962557896
+    },
+    {
+      "file": "face_81.png",
+      "x": 871.1208550958874,
+      "y": 313.70048361317885,
+      "angle": -24.647058519972198,
+      "side": 220,
+      "launch_pose": 9,
+      "spin": 18.929973598053294,
+      "bend": 18.85744512161797
+    },
+    {
+      "file": "face_84.png",
+      "x": 851.6760879467516,
+      "y": 743.8875028706306,
+      "angle": 113.91492852298444,
+      "side": 220,
+      "launch_pose": 9,
+      "spin": 17.612627817571077,
+      "bend": -16.7123695469829
+    },
+    {
+      "file": "face_89.png",
+      "x": 588.4165573946343,
+      "y": 336.9989161115638,
+      "angle": -1.8142142336621276,
+      "side": 220,
+      "launch_pose": 11,
+      "spin": 12.6290282649951,
+      "bend": 12.691429270709726
+    },
+    {
+      "file": "face_66.png",
+      "x": 1337.4112723798282,
+      "y": 337.89411208941823,
+      "angle": 20.995649397403405,
+      "side": 220,
+      "launch_pose": 11,
+      "spin": 20.6475096600599,
+      "bend": -20.717690286404412
+    },
+    {
+      "file": "face_61.png",
+      "x": 559.1690784977756,
+      "y": 547.6438195308601,
+      "angle": 19.551616059591368,
+      "side": 220,
+      "launch_pose": 11,
+      "spin": -20.94128992998919,
+      "bend": -5.534864393549938
+    },
+    {
+      "file": "face_80.png",
+      "x": 1069.906448266295,
+      "y": 334.70386857266664,
+      "angle": -19.054222414848123,
+      "side": 220,
+      "launch_pose": 11,
+      "spin": -14.726024115410512,
+      "bend": 6.869342524724011
+    },
+    {
+      "file": "green.png",
+      "x": 1114.9930133035537,
+      "y": 775.3135472658464,
+      "angle": 31.77386920218912,
+      "side": 220,
+      "launch_pose": 11,
+      "spin": -13.117212417841,
+      "bend": 5.192280974129478
+    },
+    {
+      "file": "face_53.png",
+      "x": 1313.1270426177164,
+      "y": 749.5441390783717,
+      "angle": -34.182280577865555,
+      "side": 220,
+      "launch_pose": 13,
+      "spin": 11.63899893529832,
+      "bend": 9.276876549042242
+    },
+    {
+      "file": "face_55.png",
+      "x": 574.6018199923558,
+      "y": 758.2604714760013,
+      "angle": 8.386659168139701,
+      "side": 220,
+      "launch_pose": 13,
+      "spin": -15.29484992560051,
+      "bend": -25.194448355472396
+    },
+    {
+      "file": "face_65.png",
+      "x": 1558.8823113527353,
+      "y": 515.8913270765038,
+      "angle": -27.75560896295805,
+      "side": 220,
+      "launch_pose": 13,
+      "spin": 15.32292157531013,
+      "bend": 16.09358044757814
+    },
+    {
+      "file": "face_82.png",
+      "x": 308.80693971450745,
+      "y": 540.3591173050131,
+      "angle": -35.10260162436165,
+      "side": 220,
+      "launch_pose": 13,
+      "spin": 17.91349353580746,
+      "bend": 19.801578037925353
+    },
+    {
+      "file": "face_67.png",
+      "x": 1553.6864797971912,
+      "y": 794.0399739958987,
+      "angle": -5.963805499731976,
+      "side": 220,
+      "launch_pose": 13,
+      "spin": 11.531917712449824,
+      "bend": 8.69616841918588
+    },
+    {
+      "file": "green.png",
+      "x": 1564.2166389028816,
+      "y": 288.32176506832724,
+      "angle": 39.132019783146944,
+      "side": 220,
+      "launch_pose": 13,
+      "spin": 13.112555711018363,
+      "bend": -0.485787749563265
+    },
+    {
+      "file": "yellow.png",
+      "x": 354.9239186464831,
+      "y": 782.802080522591,
+      "angle": 11.909228908000117,
+      "side": 220,
+      "launch_pose": 15,
+      "spin": 15.841257543692219,
+      "bend": 7.239743295466141
+    },
+    {
+      "file": "ref_H4.png",
+      "x": 1303.4019646019667,
+      "y": 971.5260291657415,
+      "angle": 125.75674610992047,
+      "side": 220,
+      "launch_pose": 15,
+      "spin": -11.648215812673476,
+      "bend": -24.156518487338516
+    },
+    {
+      "file": "blue.png",
+      "x": 1067.0276495001456,
+      "y": 1008.0593953906013,
+      "angle": 4.2176665221358505,
+      "side": 220,
+      "launch_pose": 15,
+      "spin": -20.130203048968557,
+      "bend": 8.667231062695421
+    },
+    {
+      "file": "pink.png",
+      "x": 856.285608390013,
+      "y": 63.46432057400473,
+      "angle": 29.506653607070845,
+      "side": 220,
+      "launch_pose": 15,
+      "spin": -11.615200538670742,
+      "bend": 24.312242322436624
+    },
+    {
+      "file": "face_62.png",
+      "x": 602.4945105442403,
+      "y": 971.0085523048795,
+      "angle": 26.787885469213236,
+      "side": 220,
+      "launch_pose": 15,
+      "spin": -14.23481326960271,
+      "bend": -3.8193182726694026
+    },
+    {
+      "file": "face_83.png",
+      "x": 863.9603113671075,
+      "y": 992.0107410250147,
+      "angle": 0.15783510134557588,
+      "side": 220,
+      "launch_pose": 15,
+      "spin": 19.641865836668273,
+      "bend": -14.132588304684793
+    },
+    {
+      "file": "face_93.png",
+      "x": 311.69924504531036,
+      "y": 293.7568594511428,
+      "angle": -18.58535339870283,
+      "side": 220,
+      "launch_pose": 17,
+      "spin": 20.34457926869331,
+      "bend": -17.28291528220417
+    },
+    {
+      "file": "face_71.png",
+      "x": 1364.9601455715483,
+      "y": 72.17266461076204,
+      "angle": -8.97382174605692,
+      "side": 220,
+      "launch_pose": 17,
+      "spin": -16.509534160318445,
+      "bend": 15.825642501215086
+    },
+    {
+      "file": "face_88.png",
+      "x": 1846.1022520538352,
+      "y": 564.584230804976,
+      "angle": -15.345116294978673,
+      "side": 220,
+      "launch_pose": 17,
+      "spin": -13.576498776796974,
+      "bend": -4.700606825497431
+    },
+    {
+      "file": "face_76.png",
+      "x": 1829.4435958846993,
+      "y": 332.9516050140548,
+      "angle": -27.85544520976524,
+      "side": 220,
+      "launch_pose": 17,
+      "spin": 14.224439910028543,
+      "bend": -14.994623591314385
+    },
+    {
+      "file": "blue.png",
+      "x": 1086.2578023260417,
+      "y": 54.256466870088445,
+      "angle": 1.3037903482214759,
+      "side": 220,
+      "launch_pose": 17,
+      "spin": 11.264579511881962,
+      "bend": -9.374218954285205
+    },
+    {
+      "file": "face_56.png",
+      "x": 107.50489530999768,
+      "y": 565.020260650251,
+      "angle": 17.563050996781385,
+      "side": 220,
+      "launch_pose": 17,
+      "spin": -11.538184195157937,
+      "bend": 24.40596069277293
+    },
+    {
+      "file": "face_52.png",
+      "x": 616.9626180237276,
+      "y": 50.51270528864528,
+      "angle": -18.597709335979733,
+      "side": 220,
+      "launch_pose": 19,
+      "spin": -15.624749502610136,
+      "bend": -2.095868251435064
+    },
+    {
+      "file": "pink.png",
+      "x": 1847.2550775614206,
+      "y": 774.3360108771506,
+      "angle": -18.300363823401486,
+      "side": 220,
+      "launch_pose": 19,
+      "spin": -15.196105546773914,
+      "bend": 3.3650791497461654
+    },
+    {
+      "file": "face_77.png",
+      "x": 1561.9383208782067,
+      "y": 67.9913265834809,
+      "angle": 105.90121164584701,
+      "side": 220,
+      "launch_pose": 19,
+      "spin": 13.994994222259368,
+      "bend": 3.432474105257235
+    },
+    {
+      "file": "ref_H7.png",
+      "x": 112.39332754357068,
+      "y": 320.9364373020919,
+      "angle": -34.67491872657499,
+      "side": 220,
+      "launch_pose": 19,
+      "spin": -13.000022582626855,
+      "bend": -12.357896676740031
+    },
+    {
+      "file": "face_86.png",
+      "x": 95.01686973446427,
+      "y": 768.3050333195348,
+      "angle": -26.118252027928595,
+      "side": 220,
+      "launch_pose": 19,
+      "spin": 18.61312114681452,
+      "bend": -3.4519144760457223
+    },
+    {
+      "file": "face_79.png",
+      "x": 1539.4421157453246,
+      "y": 1019.0442735895703,
+      "angle": -23.30234764588066,
+      "side": 220,
+      "launch_pose": 19,
+      "spin": -20.48270442417605,
+      "bend": -25.96597922347013
+    },
+    {
+      "file": "face_91.png",
+      "x": 319.8559466879228,
+      "y": 54.04350082060972,
+      "angle": -32.15431182663884,
+      "side": 220,
+      "launch_pose": 21,
+      "spin": 19.989473084067832,
+      "bend": 9.466406235461186
+    },
+    {
+      "file": "face_59.png",
+      "x": 345.5707847387665,
+      "y": 1010.2407476914891,
+      "angle": 11.195655095835164,
+      "side": 220,
+      "launch_pose": 21,
+      "spin": 17.882933180827962,
+      "bend": -6.605233954366362
+    },
+    {
+      "file": "face_87.png",
+      "x": 1794.0319460050962,
+      "y": 974.3923158890517,
+      "angle": -35.957907443869445,
+      "side": 220,
+      "launch_pose": 21,
+      "spin": 17.924808158784273,
+      "bend": 3.9599405744310445
+    },
+    {
+      "file": "face_95.png",
+      "x": 102.03307951259066,
+      "y": 92.71318217076342,
+      "angle": -2.506764366766241,
+      "side": 220,
+      "launch_pose": 21,
+      "spin": 14.913605892911539,
+      "bend": -17.60512774987938
+    },
+    {
+      "file": "face_60.png",
+      "x": 1807.032055638899,
+      "y": 105.99445875708084,
+      "angle": 22.68554710763462,
+      "side": 220,
+      "launch_pose": 21,
+      "spin": 14.954143410198439,
+      "bend": -16.858379107501534
+    },
+    {
+      "file": "face_73.png",
+      "x": 50.149073288044804,
+      "y": 997.6042839833896,
+      "angle": 3.3671075263070733,
+      "side": 220,
+      "launch_pose": 21,
+      "spin": -13.880356947556425,
+      "bend": 16.04827924993628
+    }
+  ],
+  "frame_map": [
+    {
+      "frame": 0,
+      "drawing": 0,
+      "scatter_cards": 0,
+      "total_visible_cards": 0,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 1,
+      "drawing": 0,
+      "scatter_cards": 0,
+      "total_visible_cards": 0,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 2,
+      "drawing": 0,
+      "scatter_cards": 0,
+      "total_visible_cards": 0,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 3,
+      "drawing": 1,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 4,
+      "drawing": 1,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 5,
+      "drawing": 1,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 6,
+      "drawing": 2,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 7,
+      "drawing": 2,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 8,
+      "drawing": 2,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 9,
+      "drawing": 3,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 10,
+      "drawing": 3,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 11,
+      "drawing": 3,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 12,
+      "drawing": 4,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 13,
+      "drawing": 4,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 14,
+      "drawing": 4,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 15,
+      "drawing": 5,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 16,
+      "drawing": 5,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 17,
+      "drawing": 5,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 18,
+      "drawing": 6,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 19,
+      "drawing": 6,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 20,
+      "drawing": 6,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 21,
+      "drawing": 7,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 22,
+      "drawing": 7,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 23,
+      "drawing": 7,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 24,
+      "drawing": 8,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 25,
+      "drawing": 8,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 26,
+      "drawing": 8,
+      "scatter_cards": 0,
+      "total_visible_cards": 1,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 27,
+      "drawing": 9,
+      "scatter_cards": 4,
+      "total_visible_cards": 5,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 28,
+      "drawing": 9,
+      "scatter_cards": 4,
+      "total_visible_cards": 5,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 29,
+      "drawing": 9,
+      "scatter_cards": 4,
+      "total_visible_cards": 5,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 30,
+      "drawing": 10,
+      "scatter_cards": 4,
+      "total_visible_cards": 5,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 31,
+      "drawing": 10,
+      "scatter_cards": 4,
+      "total_visible_cards": 5,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 32,
+      "drawing": 10,
+      "scatter_cards": 4,
+      "total_visible_cards": 5,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 33,
+      "drawing": 11,
+      "scatter_cards": 9,
+      "total_visible_cards": 10,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 34,
+      "drawing": 11,
+      "scatter_cards": 9,
+      "total_visible_cards": 10,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 35,
+      "drawing": 11,
+      "scatter_cards": 9,
+      "total_visible_cards": 10,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 36,
+      "drawing": 12,
+      "scatter_cards": 9,
+      "total_visible_cards": 10,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 37,
+      "drawing": 12,
+      "scatter_cards": 9,
+      "total_visible_cards": 10,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 38,
+      "drawing": 12,
+      "scatter_cards": 9,
+      "total_visible_cards": 10,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 39,
+      "drawing": 13,
+      "scatter_cards": 15,
+      "total_visible_cards": 16,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 40,
+      "drawing": 13,
+      "scatter_cards": 15,
+      "total_visible_cards": 16,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 41,
+      "drawing": 13,
+      "scatter_cards": 15,
+      "total_visible_cards": 16,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 42,
+      "drawing": 14,
+      "scatter_cards": 15,
+      "total_visible_cards": 16,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 43,
+      "drawing": 14,
+      "scatter_cards": 15,
+      "total_visible_cards": 16,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 44,
+      "drawing": 14,
+      "scatter_cards": 15,
+      "total_visible_cards": 16,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 45,
+      "drawing": 15,
+      "scatter_cards": 21,
+      "total_visible_cards": 22,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 46,
+      "drawing": 15,
+      "scatter_cards": 21,
+      "total_visible_cards": 22,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 47,
+      "drawing": 15,
+      "scatter_cards": 21,
+      "total_visible_cards": 22,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 48,
+      "drawing": 16,
+      "scatter_cards": 21,
+      "total_visible_cards": 22,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 49,
+      "drawing": 16,
+      "scatter_cards": 21,
+      "total_visible_cards": 22,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 50,
+      "drawing": 16,
+      "scatter_cards": 21,
+      "total_visible_cards": 22,
+      "hand": true,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 51,
+      "drawing": 17,
+      "scatter_cards": 27,
+      "total_visible_cards": 28,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 52,
+      "drawing": 17,
+      "scatter_cards": 27,
+      "total_visible_cards": 28,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 53,
+      "drawing": 17,
+      "scatter_cards": 27,
+      "total_visible_cards": 28,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 54,
+      "drawing": 18,
+      "scatter_cards": 27,
+      "total_visible_cards": 28,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 55,
+      "drawing": 18,
+      "scatter_cards": 27,
+      "total_visible_cards": 28,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 56,
+      "drawing": 18,
+      "scatter_cards": 27,
+      "total_visible_cards": 28,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 57,
+      "drawing": 19,
+      "scatter_cards": 33,
+      "total_visible_cards": 34,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 58,
+      "drawing": 19,
+      "scatter_cards": 33,
+      "total_visible_cards": 34,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 59,
+      "drawing": 19,
+      "scatter_cards": 33,
+      "total_visible_cards": 34,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 60,
+      "drawing": 20,
+      "scatter_cards": 33,
+      "total_visible_cards": 34,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 61,
+      "drawing": 20,
+      "scatter_cards": 33,
+      "total_visible_cards": 34,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 62,
+      "drawing": 20,
+      "scatter_cards": 33,
+      "total_visible_cards": 34,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 63,
+      "drawing": 21,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 64,
+      "drawing": 21,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 65,
+      "drawing": 21,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 66,
+      "drawing": 22,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 67,
+      "drawing": 22,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 68,
+      "drawing": 22,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 69,
+      "drawing": 23,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 70,
+      "drawing": 23,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 71,
+      "drawing": 23,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 72,
+      "drawing": 24,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 73,
+      "drawing": 24,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 74,
+      "drawing": 24,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 75,
+      "drawing": 25,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 76,
+      "drawing": 25,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 77,
+      "drawing": 25,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 78,
+      "drawing": 26,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 79,
+      "drawing": 26,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 80,
+      "drawing": 26,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 81,
+      "drawing": 27,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 82,
+      "drawing": 27,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 83,
+      "drawing": 27,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 84,
+      "drawing": 28,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 85,
+      "drawing": 28,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 86,
+      "drawing": 28,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 87,
+      "drawing": 29,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 88,
+      "drawing": 29,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    },
+    {
+      "frame": 89,
+      "drawing": 29,
+      "scatter_cards": 39,
+      "total_visible_cards": 40,
+      "hand": false,
+      "all_card_sides_px": 220
+    }
+  ],
+  "trajectories": [
+    {
+      "pose": 0,
+      "cards": []
+    },
+    {
+      "pose": 1,
+      "cards": []
+    },
+    {
+      "pose": 2,
+      "cards": []
+    },
+    {
+      "pose": 3,
+      "cards": []
+    },
+    {
+      "pose": 4,
+      "cards": []
+    },
+    {
+      "pose": 5,
+      "cards": []
+    },
+    {
+      "pose": 6,
+      "cards": []
+    },
+    {
+      "pose": 7,
+      "cards": []
+    },
+    {
+      "pose": 8,
+      "cards": []
+    },
+    {
+      "pose": 9,
+      "cards": [
+        {
+          "card": 0,
+          "x": 886.7248410102499,
+          "y": 548.5522496168027,
+          "angle": -20.30432612102227,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1248.81024843448,
+          "y": 541.2117468795894,
+          "angle": -50.576241735615625,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 899.4294327709566,
+          "y": 372.5383578737524,
+          "angle": -5.717084921918904,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 885.0403050805962,
+          "y": 690.8767521242667,
+          "angle": 131.52755634055552,
+          "age": 0,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 10,
+      "cards": [
+        {
+          "card": 0,
+          "x": 863.6818355259367,
+          "y": 532.9037296403122,
+          "angle": -12.824959207643634,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1310.5103769764733,
+          "y": 553.3755199688482,
+          "angle": -39.56965276663191,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 892.9357965811029,
+          "y": 328.28628748821126,
+          "angle": -16.696469608789815,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 873.2266363482429,
+          "y": 731.8323650693709,
+          "angle": 121.31223220636429,
+          "age": 1,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 11,
+      "cards": [
+        {
+          "card": 0,
+          "x": 847.2569712539447,
+          "y": 527.0527293261819,
+          "angle": -5.732456100129407,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1355.8953211419935,
+          "y": 558.5033003214553,
+          "angle": -29.13237012363011,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 884.3030184305425,
+          "y": 297.6042161268807,
+          "angle": -27.107955087719127,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 861.3288613386319,
+          "y": 759.9256685545073,
+          "angle": 111.6252869067002,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 690.2282524720295,
+          "y": 389.7791979225572,
+          "angle": 10.814814031332972,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1244.4843415610728,
+          "y": 390.4416429461695,
+          "angle": 41.64315905746331,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 668.585118088354,
+          "y": 545.6564264528365,
+          "angle": -1.3896738703978215,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1046.5307717170583,
+          "y": 388.0808627437733,
+          "angle": -33.78024653025864,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1079.8948298446296,
+          "y": 714.1320249767264,
+          "angle": 18.65665678434812,
+          "age": 0,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 12,
+      "cards": [
+        {
+          "card": 0,
+          "x": 850.824989286809,
+          "y": 534.0825532361417,
+          "angle": -6.8930475177226445,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1347.562600409334,
+          "y": 553.5425445387375,
+          "angle": -30.84028910157586,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 881.8301238008834,
+          "y": 305.2037368167555,
+          "angle": -25.40425746389433,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 860.1375973188116,
+          "y": 752.6288903621752,
+          "angle": 113.21042341028159,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 627.7893671333886,
+          "y": 347.3017800658834,
+          "angle": 3.489977637635814,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1298.0333506962725,
+          "y": 343.33161615461205,
+          "angle": 29.667603454628562,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 597.114937459381,
+          "y": 550.8689704724178,
+          "angle": 10.75627428899591,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1066.2642609817212,
+          "y": 355.1290672350562,
+          "angle": -25.239152543320536,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1099.658973439629,
+          "y": 755.9622862328708,
+          "angle": 26.264639986695897,
+          "age": 1,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 13,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 580.5522630447354,
+          "y": 318.6265083699204,
+          "angle": -3.4559879081114904,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1339.7229041971839,
+          "y": 312.78631811232975,
+          "angle": 18.311473141595616,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 544.5405129256999,
+          "y": 553.4453048090902,
+          "angle": 22.27398375048996,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1079.3455659645376,
+          "y": 330.27416533217234,
+          "angle": -17.139839279844757,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1115.213967149201,
+          "y": 786.1332305141084,
+          "angle": 33.47910681650845,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1226.51401153711,
+          "y": 695.0626629179951,
+          "angle": -22.543281642567237,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 680.0053467943433,
+          "y": 701.512748892241,
+          "angle": -6.908190757460808,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1408.372910401024,
+          "y": 522.1595820366128,
+          "angle": -12.43268738764792,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 483.31713538873555,
+          "y": 540.2657468057097,
+          "angle": -17.189108088554185,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1404.5279950499214,
+          "y": 727.989580756965,
+          "angle": 5.568112212717848,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1412.3203127881325,
+          "y": 353.7581061505622,
+          "angle": 52.244575494165304,
+          "age": 0,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 14,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 587.8478559876413,
+          "y": 326.59566950926296,
+          "angle": -2.3193753642619317,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1334.489300479015,
+          "y": 322.71681558773275,
+          "angle": 20.16974901100101,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 554.1901834661542,
+          "y": 551.6486400645655,
+          "angle": 20.389267656790935,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1075.4347187048834,
+          "y": 334.1888618294682,
+          "angle": -18.465181450231704,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1113.4282607965915,
+          "y": 779.9642680539872,
+          "angle": 32.298557698902755,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1279.6529086467135,
+          "y": 736.237757399585,
+          "angle": -29.29390102504026,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 619.5328973137692,
+          "y": 754.3032655701645,
+          "angle": 1.962822199387488,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1507.2564299468859,
+          "y": 529.4311313139725,
+          "angle": -21.319981901327797,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 369.20682355682334,
+          "y": 526.3249686429107,
+          "angle": -27.578934339322515,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1499.5649307700014,
+          "y": 776.7988970007289,
+          "angle": -1.1204000605030497,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1511.5012359421173,
+          "y": 310.65733105485214,
+          "angle": 44.639293181774654,
+          "age": 1,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 15,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 588.4165573946343,
+          "y": 336.9989161115638,
+          "angle": -1.8142142336621276,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1337.4112723798282,
+          "y": 337.89411208941823,
+          "angle": 20.995649397403405,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 559.1690784977756,
+          "y": 547.6438195308601,
+          "angle": 19.551616059591368,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1069.906448266295,
+          "y": 334.70386857266664,
+          "angle": -19.054222414848123,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1114.9930133035537,
+          "y": 775.3135472658464,
+          "angle": 31.77386920218912,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1319.8470652085396,
+          "y": 764.7307332159,
+          "angle": -35.69535043945434,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 572.3562582225292,
+          "y": 788.0832764167416,
+          "angle": 10.374989658467767,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1579.812860012427,
+          "y": 531.1271652089562,
+          "angle": -29.74758876774837,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 285.3045879056979,
+          "y": 520.570111207074,
+          "angle": -37.43135578401662,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1570.244445964335,
+          "y": 810.8828180641589,
+          "angle": -7.462954802350453,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1584.47202192045,
+          "y": 279.066877599637,
+          "angle": 37.427387540714555,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 15,
+          "x": 517.4436997983976,
+          "y": 719.6735395867174,
+          "angle": 27.750486451692336,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 16,
+          "x": 1219.3174538054554,
+          "y": 859.3292615826488,
+          "angle": 114.108530297247,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 17,
+          "x": 1044.4004606301078,
+          "y": 886.3639525890449,
+          "angle": -15.912536526832707,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 18,
+          "x": 888.4513502086096,
+          "y": 187.3635972247635,
+          "angle": 17.891453068400104,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 19,
+          "x": 700.6459378027378,
+          "y": 858.9463287056108,
+          "angle": 12.553072199610526,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 20,
+          "x": 894.1306304116595,
+          "y": 874.4879483585108,
+          "angle": 19.79970093801385,
+          "age": 0,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 16,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 588.4165573946343,
+          "y": 336.9989161115638,
+          "angle": -1.8142142336621276,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1337.4112723798282,
+          "y": 337.89411208941823,
+          "angle": 20.995649397403405,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 559.1690784977756,
+          "y": 547.6438195308601,
+          "angle": 19.551616059591368,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1069.906448266295,
+          "y": 334.70386857266664,
+          "angle": -19.054222414848123,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1114.9930133035537,
+          "y": 775.3135472658464,
+          "angle": 31.77386920218912,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1313.6318669937207,
+          "y": 757.6112595855789,
+          "angle": -34.64784053527749,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 578.1822829529895,
+          "y": 776.5658336607166,
+          "angle": 8.998453165163722,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1566.302425704865,
+          "y": 526.9720466757759,
+          "angle": -28.368525825970455,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 300.74513140770307,
+          "y": 526.361598608022,
+          "angle": -35.819141365793946,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1558.080951709315,
+          "y": 802.7109743483104,
+          "angle": -6.425082208229968,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1571.091333110211,
+          "y": 284.9861510918215,
+          "angle": 38.60751755470621,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 15,
+          "x": 409.3271823273196,
+          "y": 756.1779786516345,
+          "angle": 18.56255707635085,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 16,
+          "x": 1287.9644651940775,
+          "y": 922.4448615385417,
+          "angle": 120.86449546859761,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 17,
+          "x": 1053.1697702998167,
+          "y": 967.0543682929056,
+          "angle": -4.237018758430944,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 18,
+          "x": 884.0596515912177,
+          "y": 102.03265309869631,
+          "angle": 24.628269380829135,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 19,
+          "x": 638.5015912155326,
+          "y": 933.9971790789185,
+          "angle": 20.8092638959801,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 20,
+          "x": 884.0832634696702,
+          "y": 953.8146539030746,
+          "angle": 8.407418752746251,
+          "age": 1,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 17,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 588.4165573946343,
+          "y": 336.9989161115638,
+          "angle": -1.8142142336621276,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1337.4112723798282,
+          "y": 337.89411208941823,
+          "angle": 20.995649397403405,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 559.1690784977756,
+          "y": 547.6438195308601,
+          "angle": 19.551616059591368,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1069.906448266295,
+          "y": 334.70386857266664,
+          "angle": -19.054222414848123,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1114.9930133035537,
+          "y": 775.3135472658464,
+          "angle": 31.77386920218912,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1313.1270426177164,
+          "y": 749.5441390783717,
+          "angle": -34.182280577865555,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 574.6018199923558,
+          "y": 758.2604714760013,
+          "angle": 8.386659168139701,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1558.8823113527353,
+          "y": 515.8913270765038,
+          "angle": -27.75560896295805,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 308.8069397145075,
+          "y": 540.3591173050131,
+          "angle": -35.10260162436165,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1553.6864797971912,
+          "y": 794.0399739958987,
+          "angle": -5.963805499731976,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1564.2166389028816,
+          "y": 288.32176506832724,
+          "angle": 39.132019783146944,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 15,
+          "x": 330.4248926750432,
+          "y": 784.5516469612427,
+          "angle": 9.849865427320129,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 16,
+          "x": 1334.0514623307104,
+          "y": 972.1424839377371,
+          "angle": 127.27101416556802,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 17,
+          "x": 1061.5524279220278,
+          "y": 1026.0258438284134,
+          "angle": 6.834592918501762,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 18,
+          "x": 875.4877619179413,
+          "y": 40.67634085672631,
+          "angle": 31.01662967709804,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 19,
+          "x": 592.1549157648159,
+          "y": 988.6102982724956,
+          "angle": 28.63841119426159,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 20,
+          "x": 873.5876329139477,
+          "y": 1011.3452673500881,
+          "angle": -2.3956074574212995,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 21,
+          "x": 485.4574413335297,
+          "y": 357.7800759938457,
+          "angle": 1.7592258699904804,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 22,
+          "x": 1264.8705077229456,
+          "y": 193.8077718119639,
+          "angle": -25.483355906375365,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 23,
+          "x": 1620.915666519838,
+          "y": 558.1923307956822,
+          "angle": -28.921615071775648,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 24,
+          "x": 1608.5882609546775,
+          "y": 386.78418771040054,
+          "angle": -13.631005299736696,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 25,
+          "x": 1058.6307737212708,
+          "y": 180.54978548386543,
+          "angle": 12.568369860103438,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 26,
+          "x": 334.3536225293983,
+          "y": 558.5149928811858,
+          "angle": 6.024866801623448,
+          "age": 0,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 18,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 588.4165573946343,
+          "y": 336.9989161115638,
+          "angle": -1.8142142336621276,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1337.4112723798282,
+          "y": 337.89411208941823,
+          "angle": 20.995649397403405,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 559.1690784977756,
+          "y": 547.6438195308601,
+          "angle": 19.551616059591368,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1069.906448266295,
+          "y": 334.70386857266664,
+          "angle": -19.054222414848123,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1114.9930133035537,
+          "y": 775.3135472658464,
+          "angle": 31.77386920218912,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1313.1270426177164,
+          "y": 749.5441390783717,
+          "angle": -34.182280577865555,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 574.6018199923558,
+          "y": 758.2604714760013,
+          "angle": 8.386659168139701,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1558.8823113527353,
+          "y": 515.8913270765038,
+          "angle": -27.75560896295805,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 308.8069397145075,
+          "y": 540.3591173050131,
+          "angle": -35.10260162436165,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1553.6864797971912,
+          "y": 794.0399739958987,
+          "angle": -5.963805499731976,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1564.2166389028816,
+          "y": 288.32176506832724,
+          "angle": 39.132019783146944,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 15,
+          "x": 345.5694220292608,
+          "y": 780.9437908649386,
+          "angle": 11.275578606252427,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 16,
+          "x": 1320.951465583478,
+          "y": 966.4605165134473,
+          "angle": 126.22267474242742,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 17,
+          "x": 1062.0465905488315,
+          "y": 1014.7964266227469,
+          "angle": 5.022874644094593,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 18,
+          "x": 871.4407836469991,
+          "y": 53.42601379724478,
+          "angle": 29.971261628617675,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 19,
+          "x": 599.9960312910451,
+          "y": 977.9600514140162,
+          "angle": 27.357277999997343,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 20,
+          "x": 872.2472152291151,
+          "y": 999.9197494876262,
+          "angle": -0.6278395321211551,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 21,
+          "x": 367.6210849024777,
+          "y": 327.3859574523122,
+          "angle": -10.040630105851639,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 22,
+          "x": 1338.9547592680306,
+          "y": 121.38754926735169,
+          "angle": -15.907826093390668,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 23,
+          "x": 1768.2473580128928,
+          "y": 559.0491572720181,
+          "angle": -21.047245781233404,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 24,
+          "x": 1750.4827952755252,
+          "y": 341.2847535890338,
+          "angle": -21.881180447553252,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 25,
+          "x": 1070.2191501736547,
+          "y": 96.55686145395677,
+          "angle": 6.0349137432118996,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 26,
+          "x": 185.53476688378382,
+          "y": 545.5179084287797,
+          "angle": 12.717013634815052,
+          "age": 1,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 19,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 588.4165573946343,
+          "y": 336.9989161115638,
+          "angle": -1.8142142336621276,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1337.4112723798282,
+          "y": 337.89411208941823,
+          "angle": 20.995649397403405,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 559.1690784977756,
+          "y": 547.6438195308601,
+          "angle": 19.551616059591368,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1069.906448266295,
+          "y": 334.70386857266664,
+          "angle": -19.054222414848123,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1114.9930133035537,
+          "y": 775.3135472658464,
+          "angle": 31.77386920218912,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1313.1270426177164,
+          "y": 749.5441390783717,
+          "angle": -34.182280577865555,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 574.6018199923558,
+          "y": 758.2604714760013,
+          "angle": 8.386659168139701,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1558.8823113527353,
+          "y": 515.8913270765038,
+          "angle": -27.75560896295805,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 308.8069397145075,
+          "y": 540.3591173050131,
+          "angle": -35.10260162436165,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1553.6864797971912,
+          "y": 794.0399739958987,
+          "angle": -5.963805499731976,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1564.2166389028816,
+          "y": 288.32176506832724,
+          "angle": 39.132019783146944,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 15,
+          "x": 354.9239186464831,
+          "y": 782.802080522591,
+          "angle": 11.909228908000117,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 16,
+          "x": 1303.4019646019667,
+          "y": 971.5260291657415,
+          "angle": 125.75674610992047,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 17,
+          "x": 1067.0276495001456,
+          "y": 1008.0593953906013,
+          "angle": 4.2176665221358505,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 18,
+          "x": 856.285608390013,
+          "y": 63.46432057400472,
+          "angle": 29.506653607070845,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 19,
+          "x": 602.4945105442403,
+          "y": 971.0085523048795,
+          "angle": 26.787885469213236,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 20,
+          "x": 863.9603113671075,
+          "y": 992.0107410250147,
+          "angle": 0.15783510134557588,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 21,
+          "x": 282.3333437546598,
+          "y": 301.3554410050622,
+          "angle": -21.23014870363296,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 22,
+          "x": 1390.6540079570025,
+          "y": 65.85436659404594,
+          "angle": -6.827582305215522,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 23,
+          "x": 1876.5492034389754,
+          "y": 560.7459645603503,
+          "angle": -13.580171453995067,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 24,
+          "x": 1855.623205462732,
+          "y": 311.1368045784486,
+          "angle": -29.70462239806895,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 25,
+          "x": 1080.8191562755333,
+          "y": 35.25217660992049,
+          "angle": -0.16060498832317927,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 26,
+          "x": 76.26797238162081,
+          "y": 541.5000380383406,
+          "angle": 19.063014942151916,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 27,
+          "x": 711.3523373375584,
+          "y": 177.7794019135975,
+          "angle": -34.22245883858987,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 28,
+          "x": 1621.7687573954513,
+          "y": 713.4086480490914,
+          "angle": -33.496469370175404,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 29,
+          "x": 1410.6343574498728,
+          "y": 190.71358167177584,
+          "angle": 119.89620586810638,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 30,
+          "x": 337.9710623822423,
+          "y": 377.892963603548,
+          "angle": -47.67494130920184,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 31,
+          "x": 325.1124836035036,
+          "y": 708.9457246564557,
+          "angle": -7.505130881114074,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 32,
+          "x": 1393.9871656515402,
+          "y": 894.492762456282,
+          "angle": -43.78505207005671,
+          "age": 0,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 20,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 588.4165573946343,
+          "y": 336.9989161115638,
+          "angle": -1.8142142336621276,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1337.4112723798282,
+          "y": 337.89411208941823,
+          "angle": 20.995649397403405,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 559.1690784977756,
+          "y": 547.6438195308601,
+          "angle": 19.551616059591368,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1069.906448266295,
+          "y": 334.70386857266664,
+          "angle": -19.054222414848123,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1114.9930133035537,
+          "y": 775.3135472658464,
+          "angle": 31.77386920218912,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1313.1270426177164,
+          "y": 749.5441390783717,
+          "angle": -34.182280577865555,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 574.6018199923558,
+          "y": 758.2604714760013,
+          "angle": 8.386659168139701,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1558.8823113527353,
+          "y": 515.8913270765038,
+          "angle": -27.75560896295805,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 308.8069397145075,
+          "y": 540.3591173050131,
+          "angle": -35.10260162436165,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1553.6864797971912,
+          "y": 794.0399739958987,
+          "angle": -5.963805499731976,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1564.2166389028816,
+          "y": 288.32176506832724,
+          "angle": 39.132019783146944,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 15,
+          "x": 354.9239186464831,
+          "y": 782.802080522591,
+          "angle": 11.909228908000117,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 16,
+          "x": 1303.4019646019667,
+          "y": 971.5260291657415,
+          "angle": 125.75674610992047,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 17,
+          "x": 1067.0276495001456,
+          "y": 1008.0593953906013,
+          "angle": 4.2176665221358505,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 18,
+          "x": 856.285608390013,
+          "y": 63.46432057400472,
+          "angle": 29.506653607070845,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 19,
+          "x": 602.4945105442403,
+          "y": 971.0085523048795,
+          "angle": 26.787885469213236,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 20,
+          "x": 863.9603113671075,
+          "y": 992.0107410250147,
+          "angle": 0.15783510134557588,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 21,
+          "x": 299.4544078970995,
+          "y": 302.2691571163288,
+          "angle": -19.39913656945056,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 22,
+          "x": 1378.2206941163283,
+          "y": 73.66916105764938,
+          "angle": -8.313440379644183,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 23,
+          "x": 1856.589787722384,
+          "y": 561.5567488141256,
+          "angle": -14.802056343906795,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 24,
+          "x": 1837.1260420557644,
+          "y": 320.1658173004674,
+          "angle": -28.42442280616638,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 25,
+          "x": 1081.057446010911,
+          "y": 47.01102107470584,
+          "angle": 0.8532071677461974,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 26,
+          "x": 96.54026620540365,
+          "y": 548.0699750151053,
+          "angle": 18.024578364587704,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 27,
+          "x": 648.4456370210072,
+          "y": 95.44940366634584,
+          "angle": -25.16010412707599,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 28,
+          "x": 1768.5814366327215,
+          "y": 755.5428615982728,
+          "angle": -24.68272815304653,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 29,
+          "x": 1511.0928064789778,
+          "y": 112.35712671290355,
+          "angle": 111.77910921919595,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 30,
+          "x": 188.33870235740977,
+          "y": 349.12461440746375,
+          "angle": -40.134928211278265,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 31,
+          "x": 175.27507717113932,
+          "y": 750.1210716641384,
+          "angle": -18.300741146266496,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 32,
+          "x": 1501.0344593897307,
+          "y": 961.9839104912791,
+          "angle": -31.9050835040346,
+          "age": 1,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 21,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 588.4165573946343,
+          "y": 336.9989161115638,
+          "angle": -1.8142142336621276,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1337.4112723798282,
+          "y": 337.89411208941823,
+          "angle": 20.995649397403405,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 559.1690784977756,
+          "y": 547.6438195308601,
+          "angle": 19.551616059591368,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1069.906448266295,
+          "y": 334.70386857266664,
+          "angle": -19.054222414848123,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1114.9930133035537,
+          "y": 775.3135472658464,
+          "angle": 31.77386920218912,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1313.1270426177164,
+          "y": 749.5441390783717,
+          "angle": -34.182280577865555,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 574.6018199923558,
+          "y": 758.2604714760013,
+          "angle": 8.386659168139701,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1558.8823113527353,
+          "y": 515.8913270765038,
+          "angle": -27.75560896295805,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 308.8069397145075,
+          "y": 540.3591173050131,
+          "angle": -35.10260162436165,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1553.6864797971912,
+          "y": 794.0399739958987,
+          "angle": -5.963805499731976,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1564.2166389028816,
+          "y": 288.32176506832724,
+          "angle": 39.132019783146944,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 15,
+          "x": 354.9239186464831,
+          "y": 782.802080522591,
+          "angle": 11.909228908000117,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 16,
+          "x": 1303.4019646019667,
+          "y": 971.5260291657415,
+          "angle": 125.75674610992047,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 17,
+          "x": 1067.0276495001456,
+          "y": 1008.0593953906013,
+          "angle": 4.2176665221358505,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 18,
+          "x": 856.285608390013,
+          "y": 63.46432057400472,
+          "angle": 29.506653607070845,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 19,
+          "x": 602.4945105442403,
+          "y": 971.0085523048795,
+          "angle": 26.787885469213236,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 20,
+          "x": 863.9603113671075,
+          "y": 992.0107410250147,
+          "angle": 0.15783510134557588,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 21,
+          "x": 311.69924504531036,
+          "y": 293.7568594511428,
+          "angle": -18.58535339870283,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 22,
+          "x": 1364.9601455715483,
+          "y": 72.17266461076201,
+          "angle": -8.97382174605692,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 23,
+          "x": 1846.1022520538352,
+          "y": 564.584230804976,
+          "angle": -15.345116294978673,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 24,
+          "x": 1829.4435958846993,
+          "y": 332.9516050140548,
+          "angle": -27.85544520976524,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 25,
+          "x": 1086.2578023260417,
+          "y": 54.256466870088445,
+          "angle": 1.3037903482214759,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 26,
+          "x": 107.50489530999766,
+          "y": 565.020260650251,
+          "angle": 17.563050996781385,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 27,
+          "x": 602.5729070734267,
+          "y": 34.62917689665084,
+          "angle": -16.566491900640415,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 28,
+          "x": 1876.7312256186192,
+          "y": 785.7863494940984,
+          "angle": -16.324870102320876,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 29,
+          "x": 1584.4684019862707,
+          "y": 54.13684318716269,
+          "angle": 104.0818623969533,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 30,
+          "x": 79.00177199944036,
+          "y": 325.2510754436333,
+          "angle": -32.9849157908335,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 31,
+          "x": 64.90474254750723,
+          "y": 779.638190998052,
+          "angle": -28.537957777014483,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 32,
+          "x": 1575.9113177498414,
+          "y": 1016.087665579547,
+          "angle": -20.639596070737774,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 33,
+          "x": 491.49340054906287,
+          "y": 180.39219060725122,
+          "angle": -12.164838742571007,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 34,
+          "x": 510.5223807066872,
+          "y": 887.9781532917019,
+          "angle": 29.078588276663126,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 35,
+          "x": 1582.3836400437713,
+          "y": 861.4503137578982,
+          "angle": -18.03309928508517,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 36,
+          "x": 330.3044788393171,
+          "y": 209.00775480636491,
+          "angle": 12.406841526145298,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 37,
+          "x": 1592.0037211727854,
+          "y": 218.83589948023985,
+          "angle": 37.63969051783306,
+          "age": 0,
+          "side": 220
+        },
+        {
+          "card": 38,
+          "x": 291.91031423315314,
+          "y": 878.6271701477083,
+          "angle": -10.513249421249352,
+          "age": 0,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 22,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 588.4165573946343,
+          "y": 336.9989161115638,
+          "angle": -1.8142142336621276,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1337.4112723798282,
+          "y": 337.89411208941823,
+          "angle": 20.995649397403405,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 559.1690784977756,
+          "y": 547.6438195308601,
+          "angle": 19.551616059591368,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1069.906448266295,
+          "y": 334.70386857266664,
+          "angle": -19.054222414848123,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1114.9930133035537,
+          "y": 775.3135472658464,
+          "angle": 31.77386920218912,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1313.1270426177164,
+          "y": 749.5441390783717,
+          "angle": -34.182280577865555,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 574.6018199923558,
+          "y": 758.2604714760013,
+          "angle": 8.386659168139701,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1558.8823113527353,
+          "y": 515.8913270765038,
+          "angle": -27.75560896295805,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 308.8069397145075,
+          "y": 540.3591173050131,
+          "angle": -35.10260162436165,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1553.6864797971912,
+          "y": 794.0399739958987,
+          "angle": -5.963805499731976,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1564.2166389028816,
+          "y": 288.32176506832724,
+          "angle": 39.132019783146944,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 15,
+          "x": 354.9239186464831,
+          "y": 782.802080522591,
+          "angle": 11.909228908000117,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 16,
+          "x": 1303.4019646019667,
+          "y": 971.5260291657415,
+          "angle": 125.75674610992047,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 17,
+          "x": 1067.0276495001456,
+          "y": 1008.0593953906013,
+          "angle": 4.2176665221358505,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 18,
+          "x": 856.285608390013,
+          "y": 63.46432057400472,
+          "angle": 29.506653607070845,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 19,
+          "x": 602.4945105442403,
+          "y": 971.0085523048795,
+          "angle": 26.787885469213236,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 20,
+          "x": 863.9603113671075,
+          "y": 992.0107410250147,
+          "angle": 0.15783510134557588,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 21,
+          "x": 311.69924504531036,
+          "y": 293.7568594511428,
+          "angle": -18.58535339870283,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 22,
+          "x": 1364.9601455715483,
+          "y": 72.17266461076201,
+          "angle": -8.97382174605692,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 23,
+          "x": 1846.1022520538352,
+          "y": 564.584230804976,
+          "angle": -15.345116294978673,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 24,
+          "x": 1829.4435958846993,
+          "y": 332.9516050140548,
+          "angle": -27.85544520976524,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 25,
+          "x": 1086.2578023260417,
+          "y": 54.256466870088445,
+          "angle": 1.3037903482214759,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 26,
+          "x": 107.50489530999766,
+          "y": 565.020260650251,
+          "angle": 17.563050996781385,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 27,
+          "x": 611.4158240594273,
+          "y": 45.52169960578765,
+          "angle": -17.972719355875327,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 28,
+          "x": 1857.0414545439864,
+          "y": 779.4451347077421,
+          "angle": -17.69251960153053,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 29,
+          "x": 1570.4505152085549,
+          "y": 64.21224202441863,
+          "angle": 105.34141187695664,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 30,
+          "x": 99.842821766854,
+          "y": 326.78013101227714,
+          "angle": -34.15491782326991,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 31,
+          "x": 85.00679788405468,
+          "y": 773.4081850627309,
+          "angle": -26.862776873801174,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 32,
+          "x": 1558.097555195754,
+          "y": 1010.8464263974153,
+          "angle": -22.483039468913617,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 33,
+          "x": 383.2371798051013,
+          "y": 92.38892066208449,
+          "angle": -23.758733131330352,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 34,
+          "x": 405.4506068355608,
+          "y": 971.6713496902194,
+          "angle": 18.706487031782906,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 35,
+          "x": 1719.4508047513048,
+          "y": 937.7673797246989,
+          "angle": -28.42948801718005,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 36,
+          "x": 175.3991069722103,
+          "y": 144.0611782798436,
+          "angle": 3.7569501082566052,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 37,
+          "x": 1727.059901141519,
+          "y": 134.4994391688022,
+          "angle": 28.96628733991796,
+          "age": 1,
+          "side": 220
+        },
+        {
+          "card": 38,
+          "x": 128.82497889454353,
+          "y": 946.2382118528653,
+          "angle": -2.462642391666625,
+          "age": 1,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 23,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 588.4165573946343,
+          "y": 336.9989161115638,
+          "angle": -1.8142142336621276,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1337.4112723798282,
+          "y": 337.89411208941823,
+          "angle": 20.995649397403405,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 559.1690784977756,
+          "y": 547.6438195308601,
+          "angle": 19.551616059591368,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1069.906448266295,
+          "y": 334.70386857266664,
+          "angle": -19.054222414848123,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1114.9930133035537,
+          "y": 775.3135472658464,
+          "angle": 31.77386920218912,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1313.1270426177164,
+          "y": 749.5441390783717,
+          "angle": -34.182280577865555,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 574.6018199923558,
+          "y": 758.2604714760013,
+          "angle": 8.386659168139701,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1558.8823113527353,
+          "y": 515.8913270765038,
+          "angle": -27.75560896295805,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 308.8069397145075,
+          "y": 540.3591173050131,
+          "angle": -35.10260162436165,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1553.6864797971912,
+          "y": 794.0399739958987,
+          "angle": -5.963805499731976,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1564.2166389028816,
+          "y": 288.32176506832724,
+          "angle": 39.132019783146944,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 15,
+          "x": 354.9239186464831,
+          "y": 782.802080522591,
+          "angle": 11.909228908000117,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 16,
+          "x": 1303.4019646019667,
+          "y": 971.5260291657415,
+          "angle": 125.75674610992047,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 17,
+          "x": 1067.0276495001456,
+          "y": 1008.0593953906013,
+          "angle": 4.2176665221358505,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 18,
+          "x": 856.285608390013,
+          "y": 63.46432057400472,
+          "angle": 29.506653607070845,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 19,
+          "x": 602.4945105442403,
+          "y": 971.0085523048795,
+          "angle": 26.787885469213236,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 20,
+          "x": 863.9603113671075,
+          "y": 992.0107410250147,
+          "angle": 0.15783510134557588,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 21,
+          "x": 311.69924504531036,
+          "y": 293.7568594511428,
+          "angle": -18.58535339870283,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 22,
+          "x": 1364.9601455715483,
+          "y": 72.17266461076201,
+          "angle": -8.97382174605692,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 23,
+          "x": 1846.1022520538352,
+          "y": 564.584230804976,
+          "angle": -15.345116294978673,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 24,
+          "x": 1829.4435958846993,
+          "y": 332.9516050140548,
+          "angle": -27.85544520976524,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 25,
+          "x": 1086.2578023260417,
+          "y": 54.256466870088445,
+          "angle": 1.3037903482214759,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 26,
+          "x": 107.50489530999766,
+          "y": 565.020260650251,
+          "angle": 17.563050996781385,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 27,
+          "x": 616.9626180237276,
+          "y": 50.51270528864529,
+          "angle": -18.597709335979733,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 28,
+          "x": 1847.2550775614206,
+          "y": 774.3360108771506,
+          "angle": -18.300363823401486,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 29,
+          "x": 1561.9383208782067,
+          "y": 67.99132658348088,
+          "angle": 105.90121164584701,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 30,
+          "x": 112.39332754357065,
+          "y": 320.9364373020919,
+          "angle": -34.67491872657499,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 31,
+          "x": 95.01686973446431,
+          "y": 768.3050333195348,
+          "angle": -26.118252027928595,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 32,
+          "x": 1539.4421157453246,
+          "y": 1019.0442735895703,
+          "angle": -23.30234764588066,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 33,
+          "x": 302.36288369799485,
+          "y": 29.41147167637918,
+          "angle": -34.75294332756766,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 34,
+          "x": 327.2989626734639,
+          "y": 1032.0056839816489,
+          "angle": 8.870873782327529,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 35,
+          "x": 1820.658754298982,
+          "y": 993.0896809073778,
+          "angle": -38.2881325045114,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 36,
+          "x": 63.312522982221196,
+          "y": 92.7448584808494,
+          "angle": -4.445533132844741,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 37,
+          "x": 1828.144467548034,
+          "y": 75.8765076756414,
+          "angle": 20.741508464308822,
+          "age": 2,
+          "side": 220
+        },
+        {
+          "card": 38,
+          "x": 10.51812235511104,
+          "y": 999.2213546848267,
+          "angle": 5.171553929489408,
+          "age": 2,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 24,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 15,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 15,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 15,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 15,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 588.4165573946343,
+          "y": 336.9989161115638,
+          "angle": -1.8142142336621276,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1337.4112723798282,
+          "y": 337.89411208941823,
+          "angle": 20.995649397403405,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 559.1690784977756,
+          "y": 547.6438195308601,
+          "angle": 19.551616059591368,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1069.906448266295,
+          "y": 334.70386857266664,
+          "angle": -19.054222414848123,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1114.9930133035537,
+          "y": 775.3135472658464,
+          "angle": 31.77386920218912,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1313.1270426177164,
+          "y": 749.5441390783717,
+          "angle": -34.182280577865555,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 574.6018199923558,
+          "y": 758.2604714760013,
+          "angle": 8.386659168139701,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1558.8823113527353,
+          "y": 515.8913270765038,
+          "angle": -27.75560896295805,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 308.8069397145075,
+          "y": 540.3591173050131,
+          "angle": -35.10260162436165,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1553.6864797971912,
+          "y": 794.0399739958987,
+          "angle": -5.963805499731976,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1564.2166389028816,
+          "y": 288.32176506832724,
+          "angle": 39.132019783146944,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 15,
+          "x": 354.9239186464831,
+          "y": 782.802080522591,
+          "angle": 11.909228908000117,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 16,
+          "x": 1303.4019646019667,
+          "y": 971.5260291657415,
+          "angle": 125.75674610992047,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 17,
+          "x": 1067.0276495001456,
+          "y": 1008.0593953906013,
+          "angle": 4.2176665221358505,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 18,
+          "x": 856.285608390013,
+          "y": 63.46432057400472,
+          "angle": 29.506653607070845,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 19,
+          "x": 602.4945105442403,
+          "y": 971.0085523048795,
+          "angle": 26.787885469213236,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 20,
+          "x": 863.9603113671075,
+          "y": 992.0107410250147,
+          "angle": 0.15783510134557588,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 21,
+          "x": 311.69924504531036,
+          "y": 293.7568594511428,
+          "angle": -18.58535339870283,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 22,
+          "x": 1364.9601455715483,
+          "y": 72.17266461076201,
+          "angle": -8.97382174605692,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 23,
+          "x": 1846.1022520538352,
+          "y": 564.584230804976,
+          "angle": -15.345116294978673,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 24,
+          "x": 1829.4435958846993,
+          "y": 332.9516050140548,
+          "angle": -27.85544520976524,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 25,
+          "x": 1086.2578023260417,
+          "y": 54.256466870088445,
+          "angle": 1.3037903482214759,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 26,
+          "x": 107.50489530999766,
+          "y": 565.020260650251,
+          "angle": 17.563050996781385,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 27,
+          "x": 616.9626180237276,
+          "y": 50.51270528864529,
+          "angle": -18.597709335979733,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 28,
+          "x": 1847.2550775614206,
+          "y": 774.3360108771506,
+          "angle": -18.300363823401486,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 29,
+          "x": 1561.9383208782067,
+          "y": 67.99132658348088,
+          "angle": 105.90121164584701,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 30,
+          "x": 112.39332754357065,
+          "y": 320.9364373020919,
+          "angle": -34.67491872657499,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 31,
+          "x": 95.01686973446431,
+          "y": 768.3050333195348,
+          "angle": -26.118252027928595,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 32,
+          "x": 1539.4421157453246,
+          "y": 1019.0442735895703,
+          "angle": -23.30234764588066,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 33,
+          "x": 315.9024863672694,
+          "y": 42.821357745786706,
+          "angle": -32.953890750001555,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 34,
+          "x": 340.73882687891495,
+          "y": 1019.6359059547513,
+          "angle": 10.480337768602046,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 35,
+          "x": 1802.4820632438245,
+          "y": 982.0753959453821,
+          "angle": -36.67489977022082,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 36,
+          "x": 85.84648108249455,
+          "y": 98.43792286126148,
+          "angle": -3.1033086024827026,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 37,
+          "x": 1811.4171708166868,
+          "y": 90.23087396202446,
+          "angle": 22.08738137122668,
+          "age": 3,
+          "side": 220
+        },
+        {
+          "card": 38,
+          "x": 33.98018436992415,
+          "y": 992.913848819171,
+          "angle": 3.9223218042093304,
+          "age": 3,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 25,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 16,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 16,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 16,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 16,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 588.4165573946343,
+          "y": 336.9989161115638,
+          "angle": -1.8142142336621276,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1337.4112723798282,
+          "y": 337.89411208941823,
+          "angle": 20.995649397403405,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 559.1690784977756,
+          "y": 547.6438195308601,
+          "angle": 19.551616059591368,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1069.906448266295,
+          "y": 334.70386857266664,
+          "angle": -19.054222414848123,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1114.9930133035537,
+          "y": 775.3135472658464,
+          "angle": 31.77386920218912,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1313.1270426177164,
+          "y": 749.5441390783717,
+          "angle": -34.182280577865555,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 574.6018199923558,
+          "y": 758.2604714760013,
+          "angle": 8.386659168139701,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1558.8823113527353,
+          "y": 515.8913270765038,
+          "angle": -27.75560896295805,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 308.8069397145075,
+          "y": 540.3591173050131,
+          "angle": -35.10260162436165,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1553.6864797971912,
+          "y": 794.0399739958987,
+          "angle": -5.963805499731976,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1564.2166389028816,
+          "y": 288.32176506832724,
+          "angle": 39.132019783146944,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 15,
+          "x": 354.9239186464831,
+          "y": 782.802080522591,
+          "angle": 11.909228908000117,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 16,
+          "x": 1303.4019646019667,
+          "y": 971.5260291657415,
+          "angle": 125.75674610992047,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 17,
+          "x": 1067.0276495001456,
+          "y": 1008.0593953906013,
+          "angle": 4.2176665221358505,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 18,
+          "x": 856.285608390013,
+          "y": 63.46432057400472,
+          "angle": 29.506653607070845,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 19,
+          "x": 602.4945105442403,
+          "y": 971.0085523048795,
+          "angle": 26.787885469213236,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 20,
+          "x": 863.9603113671075,
+          "y": 992.0107410250147,
+          "angle": 0.15783510134557588,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 21,
+          "x": 311.69924504531036,
+          "y": 293.7568594511428,
+          "angle": -18.58535339870283,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 22,
+          "x": 1364.9601455715483,
+          "y": 72.17266461076201,
+          "angle": -8.97382174605692,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 23,
+          "x": 1846.1022520538352,
+          "y": 564.584230804976,
+          "angle": -15.345116294978673,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 24,
+          "x": 1829.4435958846993,
+          "y": 332.9516050140548,
+          "angle": -27.85544520976524,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 25,
+          "x": 1086.2578023260417,
+          "y": 54.256466870088445,
+          "angle": 1.3037903482214759,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 26,
+          "x": 107.50489530999766,
+          "y": 565.020260650251,
+          "angle": 17.563050996781385,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 27,
+          "x": 616.9626180237276,
+          "y": 50.51270528864529,
+          "angle": -18.597709335979733,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 28,
+          "x": 1847.2550775614206,
+          "y": 774.3360108771506,
+          "angle": -18.300363823401486,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 29,
+          "x": 1561.9383208782067,
+          "y": 67.99132658348088,
+          "angle": 105.90121164584701,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 30,
+          "x": 112.39332754357065,
+          "y": 320.9364373020919,
+          "angle": -34.67491872657499,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 31,
+          "x": 95.01686973446431,
+          "y": 768.3050333195348,
+          "angle": -26.118252027928595,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 32,
+          "x": 1539.4421157453246,
+          "y": 1019.0442735895703,
+          "angle": -23.30234764588066,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 33,
+          "x": 319.8559466879228,
+          "y": 54.04350082060972,
+          "angle": -32.15431182663884,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 34,
+          "x": 345.5707847387665,
+          "y": 1010.2407476914891,
+          "angle": 11.195655095835164,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 35,
+          "x": 1794.0319460050962,
+          "y": 974.3923158890517,
+          "angle": -35.957907443869445,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 36,
+          "x": 102.03307951259069,
+          "y": 92.71318217076339,
+          "angle": -2.506764366766241,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 37,
+          "x": 1807.032055638899,
+          "y": 105.99445875708085,
+          "angle": 22.68554710763462,
+          "age": 4,
+          "side": 220
+        },
+        {
+          "card": 38,
+          "x": 50.14907328804475,
+          "y": 997.6042839833896,
+          "angle": 3.3671075263070733,
+          "age": 4,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 26,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 17,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 17,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 17,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 17,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 588.4165573946343,
+          "y": 336.9989161115638,
+          "angle": -1.8142142336621276,
+          "age": 15,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1337.4112723798282,
+          "y": 337.89411208941823,
+          "angle": 20.995649397403405,
+          "age": 15,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 559.1690784977756,
+          "y": 547.6438195308601,
+          "angle": 19.551616059591368,
+          "age": 15,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1069.906448266295,
+          "y": 334.70386857266664,
+          "angle": -19.054222414848123,
+          "age": 15,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1114.9930133035537,
+          "y": 775.3135472658464,
+          "angle": 31.77386920218912,
+          "age": 15,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1313.1270426177164,
+          "y": 749.5441390783717,
+          "angle": -34.182280577865555,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 574.6018199923558,
+          "y": 758.2604714760013,
+          "angle": 8.386659168139701,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1558.8823113527353,
+          "y": 515.8913270765038,
+          "angle": -27.75560896295805,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 308.8069397145075,
+          "y": 540.3591173050131,
+          "angle": -35.10260162436165,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1553.6864797971912,
+          "y": 794.0399739958987,
+          "angle": -5.963805499731976,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1564.2166389028816,
+          "y": 288.32176506832724,
+          "angle": 39.132019783146944,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 15,
+          "x": 354.9239186464831,
+          "y": 782.802080522591,
+          "angle": 11.909228908000117,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 16,
+          "x": 1303.4019646019667,
+          "y": 971.5260291657415,
+          "angle": 125.75674610992047,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 17,
+          "x": 1067.0276495001456,
+          "y": 1008.0593953906013,
+          "angle": 4.2176665221358505,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 18,
+          "x": 856.285608390013,
+          "y": 63.46432057400472,
+          "angle": 29.506653607070845,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 19,
+          "x": 602.4945105442403,
+          "y": 971.0085523048795,
+          "angle": 26.787885469213236,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 20,
+          "x": 863.9603113671075,
+          "y": 992.0107410250147,
+          "angle": 0.15783510134557588,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 21,
+          "x": 311.69924504531036,
+          "y": 293.7568594511428,
+          "angle": -18.58535339870283,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 22,
+          "x": 1364.9601455715483,
+          "y": 72.17266461076201,
+          "angle": -8.97382174605692,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 23,
+          "x": 1846.1022520538352,
+          "y": 564.584230804976,
+          "angle": -15.345116294978673,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 24,
+          "x": 1829.4435958846993,
+          "y": 332.9516050140548,
+          "angle": -27.85544520976524,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 25,
+          "x": 1086.2578023260417,
+          "y": 54.256466870088445,
+          "angle": 1.3037903482214759,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 26,
+          "x": 107.50489530999766,
+          "y": 565.020260650251,
+          "angle": 17.563050996781385,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 27,
+          "x": 616.9626180237276,
+          "y": 50.51270528864529,
+          "angle": -18.597709335979733,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 28,
+          "x": 1847.2550775614206,
+          "y": 774.3360108771506,
+          "angle": -18.300363823401486,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 29,
+          "x": 1561.9383208782067,
+          "y": 67.99132658348088,
+          "angle": 105.90121164584701,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 30,
+          "x": 112.39332754357065,
+          "y": 320.9364373020919,
+          "angle": -34.67491872657499,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 31,
+          "x": 95.01686973446431,
+          "y": 768.3050333195348,
+          "angle": -26.118252027928595,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 32,
+          "x": 1539.4421157453246,
+          "y": 1019.0442735895703,
+          "angle": -23.30234764588066,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 33,
+          "x": 319.8559466879228,
+          "y": 54.04350082060972,
+          "angle": -32.15431182663884,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 34,
+          "x": 345.5707847387665,
+          "y": 1010.2407476914891,
+          "angle": 11.195655095835164,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 35,
+          "x": 1794.0319460050962,
+          "y": 974.3923158890517,
+          "angle": -35.957907443869445,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 36,
+          "x": 102.03307951259069,
+          "y": 92.71318217076339,
+          "angle": -2.506764366766241,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 37,
+          "x": 1807.032055638899,
+          "y": 105.99445875708085,
+          "angle": 22.68554710763462,
+          "age": 5,
+          "side": 220
+        },
+        {
+          "card": 38,
+          "x": 50.14907328804475,
+          "y": 997.6042839833896,
+          "angle": 3.3671075263070733,
+          "age": 5,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 27,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 18,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 18,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 18,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 18,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 588.4165573946343,
+          "y": 336.9989161115638,
+          "angle": -1.8142142336621276,
+          "age": 16,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1337.4112723798282,
+          "y": 337.89411208941823,
+          "angle": 20.995649397403405,
+          "age": 16,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 559.1690784977756,
+          "y": 547.6438195308601,
+          "angle": 19.551616059591368,
+          "age": 16,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1069.906448266295,
+          "y": 334.70386857266664,
+          "angle": -19.054222414848123,
+          "age": 16,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1114.9930133035537,
+          "y": 775.3135472658464,
+          "angle": 31.77386920218912,
+          "age": 16,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1313.1270426177164,
+          "y": 749.5441390783717,
+          "angle": -34.182280577865555,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 574.6018199923558,
+          "y": 758.2604714760013,
+          "angle": 8.386659168139701,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1558.8823113527353,
+          "y": 515.8913270765038,
+          "angle": -27.75560896295805,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 308.8069397145075,
+          "y": 540.3591173050131,
+          "angle": -35.10260162436165,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1553.6864797971912,
+          "y": 794.0399739958987,
+          "angle": -5.963805499731976,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1564.2166389028816,
+          "y": 288.32176506832724,
+          "angle": 39.132019783146944,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 15,
+          "x": 354.9239186464831,
+          "y": 782.802080522591,
+          "angle": 11.909228908000117,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 16,
+          "x": 1303.4019646019667,
+          "y": 971.5260291657415,
+          "angle": 125.75674610992047,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 17,
+          "x": 1067.0276495001456,
+          "y": 1008.0593953906013,
+          "angle": 4.2176665221358505,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 18,
+          "x": 856.285608390013,
+          "y": 63.46432057400472,
+          "angle": 29.506653607070845,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 19,
+          "x": 602.4945105442403,
+          "y": 971.0085523048795,
+          "angle": 26.787885469213236,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 20,
+          "x": 863.9603113671075,
+          "y": 992.0107410250147,
+          "angle": 0.15783510134557588,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 21,
+          "x": 311.69924504531036,
+          "y": 293.7568594511428,
+          "angle": -18.58535339870283,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 22,
+          "x": 1364.9601455715483,
+          "y": 72.17266461076201,
+          "angle": -8.97382174605692,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 23,
+          "x": 1846.1022520538352,
+          "y": 564.584230804976,
+          "angle": -15.345116294978673,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 24,
+          "x": 1829.4435958846993,
+          "y": 332.9516050140548,
+          "angle": -27.85544520976524,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 25,
+          "x": 1086.2578023260417,
+          "y": 54.256466870088445,
+          "angle": 1.3037903482214759,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 26,
+          "x": 107.50489530999766,
+          "y": 565.020260650251,
+          "angle": 17.563050996781385,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 27,
+          "x": 616.9626180237276,
+          "y": 50.51270528864529,
+          "angle": -18.597709335979733,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 28,
+          "x": 1847.2550775614206,
+          "y": 774.3360108771506,
+          "angle": -18.300363823401486,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 29,
+          "x": 1561.9383208782067,
+          "y": 67.99132658348088,
+          "angle": 105.90121164584701,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 30,
+          "x": 112.39332754357065,
+          "y": 320.9364373020919,
+          "angle": -34.67491872657499,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 31,
+          "x": 95.01686973446431,
+          "y": 768.3050333195348,
+          "angle": -26.118252027928595,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 32,
+          "x": 1539.4421157453246,
+          "y": 1019.0442735895703,
+          "angle": -23.30234764588066,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 33,
+          "x": 319.8559466879228,
+          "y": 54.04350082060972,
+          "angle": -32.15431182663884,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 34,
+          "x": 345.5707847387665,
+          "y": 1010.2407476914891,
+          "angle": 11.195655095835164,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 35,
+          "x": 1794.0319460050962,
+          "y": 974.3923158890517,
+          "angle": -35.957907443869445,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 36,
+          "x": 102.03307951259069,
+          "y": 92.71318217076339,
+          "angle": -2.506764366766241,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 37,
+          "x": 1807.032055638899,
+          "y": 105.99445875708085,
+          "angle": 22.68554710763462,
+          "age": 6,
+          "side": 220
+        },
+        {
+          "card": 38,
+          "x": 50.14907328804475,
+          "y": 997.6042839833896,
+          "angle": 3.3671075263070733,
+          "age": 6,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 28,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 19,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 19,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 19,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 19,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 588.4165573946343,
+          "y": 336.9989161115638,
+          "angle": -1.8142142336621276,
+          "age": 17,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1337.4112723798282,
+          "y": 337.89411208941823,
+          "angle": 20.995649397403405,
+          "age": 17,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 559.1690784977756,
+          "y": 547.6438195308601,
+          "angle": 19.551616059591368,
+          "age": 17,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1069.906448266295,
+          "y": 334.70386857266664,
+          "angle": -19.054222414848123,
+          "age": 17,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1114.9930133035537,
+          "y": 775.3135472658464,
+          "angle": 31.77386920218912,
+          "age": 17,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1313.1270426177164,
+          "y": 749.5441390783717,
+          "angle": -34.182280577865555,
+          "age": 15,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 574.6018199923558,
+          "y": 758.2604714760013,
+          "angle": 8.386659168139701,
+          "age": 15,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1558.8823113527353,
+          "y": 515.8913270765038,
+          "angle": -27.75560896295805,
+          "age": 15,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 308.8069397145075,
+          "y": 540.3591173050131,
+          "angle": -35.10260162436165,
+          "age": 15,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1553.6864797971912,
+          "y": 794.0399739958987,
+          "angle": -5.963805499731976,
+          "age": 15,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1564.2166389028816,
+          "y": 288.32176506832724,
+          "angle": 39.132019783146944,
+          "age": 15,
+          "side": 220
+        },
+        {
+          "card": 15,
+          "x": 354.9239186464831,
+          "y": 782.802080522591,
+          "angle": 11.909228908000117,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 16,
+          "x": 1303.4019646019667,
+          "y": 971.5260291657415,
+          "angle": 125.75674610992047,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 17,
+          "x": 1067.0276495001456,
+          "y": 1008.0593953906013,
+          "angle": 4.2176665221358505,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 18,
+          "x": 856.285608390013,
+          "y": 63.46432057400472,
+          "angle": 29.506653607070845,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 19,
+          "x": 602.4945105442403,
+          "y": 971.0085523048795,
+          "angle": 26.787885469213236,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 20,
+          "x": 863.9603113671075,
+          "y": 992.0107410250147,
+          "angle": 0.15783510134557588,
+          "age": 13,
+          "side": 220
+        },
+        {
+          "card": 21,
+          "x": 311.69924504531036,
+          "y": 293.7568594511428,
+          "angle": -18.58535339870283,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 22,
+          "x": 1364.9601455715483,
+          "y": 72.17266461076201,
+          "angle": -8.97382174605692,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 23,
+          "x": 1846.1022520538352,
+          "y": 564.584230804976,
+          "angle": -15.345116294978673,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 24,
+          "x": 1829.4435958846993,
+          "y": 332.9516050140548,
+          "angle": -27.85544520976524,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 25,
+          "x": 1086.2578023260417,
+          "y": 54.256466870088445,
+          "angle": 1.3037903482214759,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 26,
+          "x": 107.50489530999766,
+          "y": 565.020260650251,
+          "angle": 17.563050996781385,
+          "age": 11,
+          "side": 220
+        },
+        {
+          "card": 27,
+          "x": 616.9626180237276,
+          "y": 50.51270528864529,
+          "angle": -18.597709335979733,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 28,
+          "x": 1847.2550775614206,
+          "y": 774.3360108771506,
+          "angle": -18.300363823401486,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 29,
+          "x": 1561.9383208782067,
+          "y": 67.99132658348088,
+          "angle": 105.90121164584701,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 30,
+          "x": 112.39332754357065,
+          "y": 320.9364373020919,
+          "angle": -34.67491872657499,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 31,
+          "x": 95.01686973446431,
+          "y": 768.3050333195348,
+          "angle": -26.118252027928595,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 32,
+          "x": 1539.4421157453246,
+          "y": 1019.0442735895703,
+          "angle": -23.30234764588066,
+          "age": 9,
+          "side": 220
+        },
+        {
+          "card": 33,
+          "x": 319.8559466879228,
+          "y": 54.04350082060972,
+          "angle": -32.15431182663884,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 34,
+          "x": 345.5707847387665,
+          "y": 1010.2407476914891,
+          "angle": 11.195655095835164,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 35,
+          "x": 1794.0319460050962,
+          "y": 974.3923158890517,
+          "angle": -35.957907443869445,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 36,
+          "x": 102.03307951259069,
+          "y": 92.71318217076339,
+          "angle": -2.506764366766241,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 37,
+          "x": 1807.032055638899,
+          "y": 105.99445875708085,
+          "angle": 22.68554710763462,
+          "age": 7,
+          "side": 220
+        },
+        {
+          "card": 38,
+          "x": 50.14907328804475,
+          "y": 997.6042839833896,
+          "angle": 3.3671075263070733,
+          "age": 7,
+          "side": 220
+        }
+      ]
+    },
+    {
+      "pose": 29,
+      "cards": [
+        {
+          "card": 0,
+          "x": 853.952487851689,
+          "y": 551.5570940767603,
+          "angle": -7.4088659255418605,
+          "age": 20,
+          "side": 220
+        },
+        {
+          "card": 1,
+          "x": 1343.2570924790268,
+          "y": 541.6374957832289,
+          "angle": -31.59936420288508,
+          "age": 20,
+          "side": 220
+        },
+        {
+          "card": 2,
+          "x": 871.1208550958874,
+          "y": 313.70048361317885,
+          "angle": -24.647058519972198,
+          "age": 20,
+          "side": 220
+        },
+        {
+          "card": 3,
+          "x": 851.6760879467516,
+          "y": 743.8875028706306,
+          "angle": 113.91492852298444,
+          "age": 20,
+          "side": 220
+        },
+        {
+          "card": 4,
+          "x": 588.4165573946343,
+          "y": 336.9989161115638,
+          "angle": -1.8142142336621276,
+          "age": 18,
+          "side": 220
+        },
+        {
+          "card": 5,
+          "x": 1337.4112723798282,
+          "y": 337.89411208941823,
+          "angle": 20.995649397403405,
+          "age": 18,
+          "side": 220
+        },
+        {
+          "card": 6,
+          "x": 559.1690784977756,
+          "y": 547.6438195308601,
+          "angle": 19.551616059591368,
+          "age": 18,
+          "side": 220
+        },
+        {
+          "card": 7,
+          "x": 1069.906448266295,
+          "y": 334.70386857266664,
+          "angle": -19.054222414848123,
+          "age": 18,
+          "side": 220
+        },
+        {
+          "card": 8,
+          "x": 1114.9930133035537,
+          "y": 775.3135472658464,
+          "angle": 31.77386920218912,
+          "age": 18,
+          "side": 220
+        },
+        {
+          "card": 9,
+          "x": 1313.1270426177164,
+          "y": 749.5441390783717,
+          "angle": -34.182280577865555,
+          "age": 16,
+          "side": 220
+        },
+        {
+          "card": 10,
+          "x": 574.6018199923558,
+          "y": 758.2604714760013,
+          "angle": 8.386659168139701,
+          "age": 16,
+          "side": 220
+        },
+        {
+          "card": 11,
+          "x": 1558.8823113527353,
+          "y": 515.8913270765038,
+          "angle": -27.75560896295805,
+          "age": 16,
+          "side": 220
+        },
+        {
+          "card": 12,
+          "x": 308.8069397145075,
+          "y": 540.3591173050131,
+          "angle": -35.10260162436165,
+          "age": 16,
+          "side": 220
+        },
+        {
+          "card": 13,
+          "x": 1553.6864797971912,
+          "y": 794.0399739958987,
+          "angle": -5.963805499731976,
+          "age": 16,
+          "side": 220
+        },
+        {
+          "card": 14,
+          "x": 1564.2166389028816,
+          "y": 288.32176506832724,
+          "angle": 39.132019783146944,
+          "age": 16,
+          "side": 220
+        },
+        {
+          "card": 15,
+          "x": 354.9239186464831,
+          "y": 782.802080522591,
+          "angle": 11.909228908000117,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 16,
+          "x": 1303.4019646019667,
+          "y": 971.5260291657415,
+          "angle": 125.75674610992047,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 17,
+          "x": 1067.0276495001456,
+          "y": 1008.0593953906013,
+          "angle": 4.2176665221358505,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 18,
+          "x": 856.285608390013,
+          "y": 63.46432057400472,
+          "angle": 29.506653607070845,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 19,
+          "x": 602.4945105442403,
+          "y": 971.0085523048795,
+          "angle": 26.787885469213236,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 20,
+          "x": 863.9603113671075,
+          "y": 992.0107410250147,
+          "angle": 0.15783510134557588,
+          "age": 14,
+          "side": 220
+        },
+        {
+          "card": 21,
+          "x": 311.69924504531036,
+          "y": 293.7568594511428,
+          "angle": -18.58535339870283,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 22,
+          "x": 1364.9601455715483,
+          "y": 72.17266461076201,
+          "angle": -8.97382174605692,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 23,
+          "x": 1846.1022520538352,
+          "y": 564.584230804976,
+          "angle": -15.345116294978673,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 24,
+          "x": 1829.4435958846993,
+          "y": 332.9516050140548,
+          "angle": -27.85544520976524,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 25,
+          "x": 1086.2578023260417,
+          "y": 54.256466870088445,
+          "angle": 1.3037903482214759,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 26,
+          "x": 107.50489530999766,
+          "y": 565.020260650251,
+          "angle": 17.563050996781385,
+          "age": 12,
+          "side": 220
+        },
+        {
+          "card": 27,
+          "x": 616.9626180237276,
+          "y": 50.51270528864529,
+          "angle": -18.597709335979733,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 28,
+          "x": 1847.2550775614206,
+          "y": 774.3360108771506,
+          "angle": -18.300363823401486,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 29,
+          "x": 1561.9383208782067,
+          "y": 67.99132658348088,
+          "angle": 105.90121164584701,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 30,
+          "x": 112.39332754357065,
+          "y": 320.9364373020919,
+          "angle": -34.67491872657499,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 31,
+          "x": 95.01686973446431,
+          "y": 768.3050333195348,
+          "angle": -26.118252027928595,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 32,
+          "x": 1539.4421157453246,
+          "y": 1019.0442735895703,
+          "angle": -23.30234764588066,
+          "age": 10,
+          "side": 220
+        },
+        {
+          "card": 33,
+          "x": 319.8559466879228,
+          "y": 54.04350082060972,
+          "angle": -32.15431182663884,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 34,
+          "x": 345.5707847387665,
+          "y": 1010.2407476914891,
+          "angle": 11.195655095835164,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 35,
+          "x": 1794.0319460050962,
+          "y": 974.3923158890517,
+          "angle": -35.957907443869445,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 36,
+          "x": 102.03307951259069,
+          "y": 92.71318217076339,
+          "angle": -2.506764366766241,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 37,
+          "x": 1807.032055638899,
+          "y": 105.99445875708085,
+          "angle": 22.68554710763462,
+          "age": 8,
+          "side": 220
+        },
+        {
+          "card": 38,
+          "x": 50.14907328804475,
+          "y": 997.6042839833896,
+          "angle": 3.3671075263070733,
+          "age": 8,
+          "side": 220
+        }
+      ]
+    }
+  ]
+}
