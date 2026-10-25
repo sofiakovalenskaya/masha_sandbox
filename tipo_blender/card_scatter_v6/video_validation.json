@@ -1,0 +1,25 @@
+{
+  "file": "tipo_card_scatter_v6_equal_size_pink_1080p.mp4",
+  "bytes": 719055,
+  "sha256": "9548ab89041f06c327ef3a3dbe4d09b381eac4a1409c2371a92b07e8dbb86a01",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 81,
+  "duration_seconds": 2.7,
+  "audio": false,
+  "final_cards": 40,
+  "uniform_card_edge_px": 320,
+  "held_card_edge_px": 320,
+  "table_hero_edge_px": 320,
+  "arrival_scale": 1,
+  "actual_alpha_bounds_match_320_square": true,
+  "positions_angles_and_order_unchanged": true,
+  "timing_unchanged": true,
+  "background_byte_identical": true,
+  "empty_opening_preserved": true,
+  "held_frames_byte_identical": true,
+  "full_decode": "passed"
+}
