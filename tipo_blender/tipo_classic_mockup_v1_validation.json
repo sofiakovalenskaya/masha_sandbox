@@ -1,0 +1,31 @@
+{
+  "file": "tipo_classic_mockup_v1_1920x1080.png",
+  "format": "PNG",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "color_mode": "RGB",
+  "bytes": 2781372,
+  "sha256": "123df3c4765a9661073567b747ba4099d343fb6b22dd2270bb95748fcdbc39a6",
+  "art_direction": "Fresh classic commercial product still life: original box, blue-backed deck and face-up cards on dark neutral stone; dim ambient lighting with bright direct flash.",
+  "physical_box_reference_mm": [
+    67,
+    67,
+    27
+  ],
+  "card_reference_mm": [
+    65,
+    65
+  ],
+  "references": [
+    "tipo_box_61_cards_v4.png",
+    "tipo_box_61_cards_top_v4.png",
+    "original card front and back artwork"
+  ],
+  "generated_source_dimensions": [
+    1672,
+    941
+  ],
+  "export": "Lanczos resampling and centered aspect-ratio fit to exact requested dimensions"
+}
